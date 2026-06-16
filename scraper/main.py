@@ -7,6 +7,7 @@ from scraper.scrapers.base import BaseScraper
 from scraper.scrapers.ical_generic import ICalScraper
 from scraper.scrapers.jsonld_generic import JsonLdScraper
 from scraper.scrapers.html_generic import HtmlScraper
+from scraper.scrapers.api_guggenheim import GuggenheimScraper
 from scraper.utils.favicon import resolve_favicon_url
 from scraper.utils.merge import merge_sources, write_output_files
 
@@ -21,6 +22,8 @@ SCRAPER_MAP: dict[str, type[BaseScraper]] = {
     "ical_generic": ICalScraper,
     "jsonld_generic": JsonLdScraper,
     "html_generic": HtmlScraper,
+    "html_nyc_parks": HtmlScraper,
+    "api_guggenheim": GuggenheimScraper,
 }
 
 
@@ -47,6 +50,10 @@ def run_all() -> None:
     failed = 0
 
     for source in sources:
+        if not source.get("enabled", True):
+            log.info(f"Skipping {source.get('name', source['id'])} (disabled)")
+            continue
+
         source_id = source["id"]
         log.info(f"Scraping {source.get('name', source_id)} ({source_id})...")
         try:

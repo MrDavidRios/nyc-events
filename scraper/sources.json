@@ -3,101 +3,123 @@
     {
       "id": "lincoln-center",
       "name": "Lincoln Center",
-      "url": "https://www.lincolncenter.org/calendar",
-      "type": "ical",
+      "url": "https://www.lincolncenter.org/lincoln-center-at-home/calendar",
+      "type": "html",
       "category": "performing-arts",
-      "scraper": "ical_generic",
-      "favicon_url": null
+      "scraper": "html_generic",
+      "favicon_url": null,
+      "enabled": false,
+      "notes": "Needs custom HTML scraper \u2014 semantic HTML without distinctive classes"
     },
     {
       "id": "carnegie-hall",
       "name": "Carnegie Hall",
       "url": "https://www.carnegiehall.org/calendar",
-      "type": "json-ld",
+      "type": "html",
       "category": "performing-arts",
-      "scraper": "jsonld_generic",
-      "favicon_url": null
+      "scraper": "html_generic",
+      "favicon_url": null,
+      "enabled": false,
+      "notes": "Queue-it bot protection \u2014 requires headless browser"
     },
     {
       "id": "whitney",
       "name": "Whitney Museum of American Art",
       "url": "https://whitney.org/exhibitions",
-      "type": "json-ld",
+      "type": "html",
       "category": "museum",
-      "scraper": "jsonld_generic",
-      "favicon_url": null
+      "scraper": "html_generic",
+      "favicon_url": null,
+      "enabled": false,
+      "notes": "Card-based layout \u2014 needs custom CSS selectors"
     },
     {
       "id": "met-museum",
       "name": "The Metropolitan Museum of Art",
       "url": "https://www.metmuseum.org/exhibitions",
-      "type": "json-ld",
+      "type": "html",
       "category": "museum",
-      "scraper": "jsonld_generic",
-      "favicon_url": null
+      "scraper": "html_generic",
+      "favicon_url": null,
+      "enabled": false,
+      "notes": "Vercel Security Checkpoint \u2014 requires headless browser"
     },
     {
       "id": "moma",
       "name": "Museum of Modern Art",
       "url": "https://www.moma.org/calendar/",
-      "type": "json-ld",
+      "type": "html",
       "category": "museum",
-      "scraper": "jsonld_generic",
-      "favicon_url": null
+      "scraper": "html_generic",
+      "favicon_url": null,
+      "enabled": false,
+      "notes": "403 Forbidden to non-browsers \u2014 requires headless browser"
     },
     {
       "id": "guggenheim",
       "name": "Solomon R. Guggenheim Museum",
-      "url": "https://www.guggenheim.org/exhibitions",
-      "type": "json-ld",
+      "url": "https://www.guggenheim.org/wp-json/wp/v2/exhibition",
+      "type": "api",
       "category": "museum",
-      "scraper": "jsonld_generic",
-      "favicon_url": null
+      "scraper": "api_guggenheim",
+      "favicon_url": "https://www.guggenheim.org/favicon.ico",
+      "enabled": true,
+      "notes": "WordPress REST API"
     },
     {
       "id": "amnh",
       "name": "American Museum of Natural History",
       "url": "https://www.amnh.org/exhibitions",
-      "type": "json-ld",
+      "type": "html",
       "category": "museum",
-      "scraper": "jsonld_generic",
-      "favicon_url": null
+      "scraper": "html_generic",
+      "favicon_url": null,
+      "enabled": false,
+      "notes": "Cloudflare bot protection \u2014 requires headless browser"
     },
     {
       "id": "brooklyn-museum",
       "name": "Brooklyn Museum",
       "url": "https://www.brooklynmuseum.org/exhibitions",
-      "type": "json-ld",
+      "type": "html",
       "category": "museum",
-      "scraper": "jsonld_generic",
-      "favicon_url": null
+      "scraper": "html_generic",
+      "favicon_url": null,
+      "enabled": false,
+      "notes": "403 Forbidden \u2014 requires headless browser"
     },
     {
       "id": "new-museum",
       "name": "New Museum",
       "url": "https://www.newmuseum.org/exhibitions",
-      "type": "json-ld",
+      "type": "html",
       "category": "museum",
-      "scraper": "jsonld_generic",
-      "favicon_url": null
+      "scraper": "nextdata_generic",
+      "favicon_url": null,
+      "enabled": false,
+      "notes": "Next.js app \u2014 parse __NEXT_DATA__ JSON from script tag"
     },
     {
       "id": "summerstage",
       "name": "SummerStage",
-      "url": "https://cityparksfoundation.org/summerstage/",
-      "type": "html",
+      "url": "https://cityparksfoundation.org/?post_type=tribe_events&ical=1&tribe_eventcategory=25",
+      "type": "ical",
       "category": "outdoor",
-      "scraper": "html_generic",
-      "favicon_url": null
+      "scraper": "ical_generic",
+      "favicon_url": "https://cityparksfoundation.org/favicon.ico",
+      "enabled": true,
+      "notes": "Tribe Events Calendar iCal feed, filtered to SummerStage category"
     },
     {
       "id": "nyc-gov-summer",
       "name": "NYC Summer Events",
-      "url": "https://www.nyc.gov/content/summer/pages/",
-      "type": "html",
+      "url": "https://apps.nyc.gov/content-api/v1/content/summer/home",
+      "type": "api",
       "category": "outdoor",
-      "scraper": "html_generic",
-      "favicon_url": null
+      "scraper": "api_nyc_summer",
+      "favicon_url": null,
+      "enabled": false,
+      "notes": "NYC content API \u2014 returns HTML blob, needs parsing"
     },
     {
       "id": "nyc-parks",
@@ -105,26 +127,40 @@
       "url": "https://www.nycgovparks.org/events",
       "type": "html",
       "category": "outdoor",
-      "scraper": "html_generic",
-      "favicon_url": null
+      "scraper": "html_nyc_parks",
+      "favicon_url": "https://www.nycgovparks.org/favicon.ico",
+      "enabled": true,
+      "notes": "Schema.org microdata \u2014 itemprop attributes on events",
+      "selectors": {
+        "event_list": "div.row.event",
+        "title": "h3.event-title a",
+        "url": "h3.event-title a[href]",
+        "venue": "h4.location",
+        "date": "meta[itemprop='startDate']",
+        "description": "div.event_body p"
+      }
     },
     {
       "id": "bric-celebrate-brooklyn",
       "name": "BRIC Celebrate Brooklyn!",
-      "url": "https://www.bfreetix.com/bricartsmedia",
+      "url": "https://bricartsmedia.org/events-performances/bric-celebrate-brooklyn-festival",
       "type": "html",
       "category": "outdoor",
       "scraper": "html_generic",
-      "favicon_url": null
+      "favicon_url": null,
+      "enabled": false,
+      "notes": "bfreetix.com dead \u2014 use bricartsmedia.org, needs custom selectors"
     },
     {
       "id": "prospect-park-concerts",
       "name": "Prospect Park Concerts",
-      "url": "https://www.prospectpark.org/visit-the-park/things-to-do/concerts-events/",
-      "type": "html",
+      "url": "https://www.prospectpark.org/?post_type=tribe_events&ical=1",
+      "type": "ical",
       "category": "outdoor",
-      "scraper": "html_generic",
-      "favicon_url": null
+      "scraper": "ical_generic",
+      "favicon_url": "https://www.prospectpark.org/favicon.ico",
+      "enabled": true,
+      "notes": "Tribe Events Calendar iCal feed"
     },
     {
       "id": "movies-in-the-park",
@@ -132,8 +168,18 @@
       "url": "https://www.nycgovparks.org/events/movies-under-the-stars",
       "type": "html",
       "category": "film",
-      "scraper": "html_generic",
-      "favicon_url": null
+      "scraper": "html_nyc_parks",
+      "favicon_url": "https://www.nycgovparks.org/favicon.ico",
+      "enabled": true,
+      "notes": "Same nycgovparks.org system as NYC Parks \u2014 microdata events",
+      "selectors": {
+        "event_list": "div.row.event",
+        "title": "h3.event-title a",
+        "url": "h3.event-title a[href]",
+        "venue": "h4.location",
+        "date": "meta[itemprop='startDate']",
+        "description": "div.event_body p"
+      }
     },
     {
       "id": "shakespeare-in-the-park",
@@ -142,7 +188,9 @@
       "type": "html",
       "category": "theater",
       "scraper": "html_generic",
-      "favicon_url": null
+      "favicon_url": null,
+      "enabled": false,
+      "notes": "Cloudflare bot protection \u2014 requires headless browser"
     }
   ]
 }

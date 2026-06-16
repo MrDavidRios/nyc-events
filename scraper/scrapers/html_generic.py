@@ -18,6 +18,8 @@ class HtmlScraper(BaseScraper):
         el = card.select_one(selector)
         if not el:
             return None
+        if el.name == "meta" and el.get("content"):
+            return clean_text(el["content"])
         return clean_text(el.get_text())
 
     def _select_attr(self, card, selector: str | None, attr: str) -> str | None:
