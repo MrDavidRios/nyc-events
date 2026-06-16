@@ -1,0 +1,148 @@
+{
+  "sources": [
+    {
+      "id": "lincoln-center",
+      "name": "Lincoln Center",
+      "url": "https://www.lincolncenter.org/calendar",
+      "type": "ical",
+      "category": "performing-arts",
+      "scraper": "ical_generic",
+      "favicon_url": null
+    },
+    {
+      "id": "carnegie-hall",
+      "name": "Carnegie Hall",
+      "url": "https://www.carnegiehall.org/calendar",
+      "type": "json-ld",
+      "category": "performing-arts",
+      "scraper": "jsonld_generic",
+      "favicon_url": null
+    },
+    {
+      "id": "whitney",
+      "name": "Whitney Museum of American Art",
+      "url": "https://whitney.org/exhibitions",
+      "type": "json-ld",
+      "category": "museum",
+      "scraper": "jsonld_generic",
+      "favicon_url": null
+    },
+    {
+      "id": "met-museum",
+      "name": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/exhibitions",
+      "type": "json-ld",
+      "category": "museum",
+      "scraper": "jsonld_generic",
+      "favicon_url": null
+    },
+    {
+      "id": "moma",
+      "name": "Museum of Modern Art",
+      "url": "https://www.moma.org/calendar/",
+      "type": "json-ld",
+      "category": "museum",
+      "scraper": "jsonld_generic",
+      "favicon_url": null
+    },
+    {
+      "id": "guggenheim",
+      "name": "Solomon R. Guggenheim Museum",
+      "url": "https://www.guggenheim.org/exhibitions",
+      "type": "json-ld",
+      "category": "museum",
+      "scraper": "jsonld_generic",
+      "favicon_url": null
+    },
+    {
+      "id": "amnh",
+      "name": "American Museum of Natural History",
+      "url": "https://www.amnh.org/exhibitions",
+      "type": "json-ld",
+      "category": "museum",
+      "scraper": "jsonld_generic",
+      "favicon_url": null
+    },
+    {
+      "id": "brooklyn-museum",
+      "name": "Brooklyn Museum",
+      "url": "https://www.brooklynmuseum.org/exhibitions",
+      "type": "json-ld",
+      "category": "museum",
+      "scraper": "jsonld_generic",
+      "favicon_url": null
+    },
+    {
+      "id": "new-museum",
+      "name": "New Museum",
+      "url": "https://www.newmuseum.org/exhibitions",
+      "type": "json-ld",
+      "category": "museum",
+      "scraper": "jsonld_generic",
+      "favicon_url": null
+    },
+    {
+      "id": "summerstage",
+      "name": "SummerStage",
+      "url": "https://cityparksfoundation.org/summerstage/",
+      "type": "html",
+      "category": "outdoor",
+      "scraper": "html_generic",
+      "favicon_url": null
+    },
+    {
+      "id": "nyc-gov-summer",
+      "name": "NYC Summer Events",
+      "url": "https://www.nyc.gov/content/summer/pages/",
+      "type": "html",
+      "category": "outdoor",
+      "scraper": "html_generic",
+      "favicon_url": null
+    },
+    {
+      "id": "nyc-parks",
+      "name": "NYC Parks Events",
+      "url": "https://www.nycgovparks.org/events",
+      "type": "html",
+      "category": "outdoor",
+      "scraper": "html_generic",
+      "favicon_url": null
+    },
+    {
+      "id": "bric-celebrate-brooklyn",
+      "name": "BRIC Celebrate Brooklyn!",
+      "url": "https://www.bfreetix.com/bricartsmedia",
+      "type": "html",
+      "category": "outdoor",
+      "scraper": "html_generic",
+      "favicon_url": null
+    },
+    {
+      "id": "prospect-park-concerts",
+      "name": "Prospect Park Concerts",
+      "url": "https://www.prospectpark.org/visit-the-park/things-to-do/concerts-events/",
+      "type": "html",
+      "category": "outdoor",
+      "scraper": "html_generic",
+      "favicon_url": null
+    },
+    {
+      "id": "movies-in-the-park",
+      "name": "Movies in the Park",
+      "url": "https://www.nycgovparks.org/events/movies-under-the-stars",
+      "type": "html",
+      "category": "film",
+      "scraper": "html_generic",
+      "favicon_url": null
+    },
+    {
+      "id": "shakespeare-in-the-park",
+      "name": "Shakespeare in the Park",
+      "url": "https://publictheater.org/programs/shakespeare-in-the-park/",
+      "type": "html",
+      "category": "theater",
+      "scraper": "html_generic",
+      "favicon_url": null
+    }
+  ]
+}
