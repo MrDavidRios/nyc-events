@@ -8,6 +8,8 @@ import { SettingsMenu } from "@/components/SettingsMenu";
 import { InterestedList } from "@/components/InterestedList";
 import { useEvents } from "@/hooks/useEvents";
 import { useInterested } from "@/hooks/useInterested";
+import { useTheme } from "@/hooks/useTheme";
+import { Button } from "@/components/ui/button";
 import type { Event } from "@/lib/types";
 
 const SOURCES_STORAGE_KEY = "nyc-events-enabled-sources";
@@ -24,6 +26,7 @@ function readEnabledSources(allSourceIds: string[]): Set<string> {
 export default function Home() {
   const { events, sources, loading, error } = useEvents();
   const { interestedIds, toggle, isInterested } = useInterested();
+  const { isDark, toggle: toggleTheme } = useTheme();
 
   const [activeCategories, setActiveCategories] = useState<Set<string>>(new Set(["all"]));
   const [enabledSources, setEnabledSources] = useState<Set<string>>(new Set());
@@ -89,6 +92,9 @@ export default function Home() {
       <header className="flex items-center justify-between mb-2">
         <h1 className="text-xl font-bold">NYC Events</h1>
         <div className="flex items-center gap-1">
+          <Button variant="ghost" size="sm" onClick={toggleTheme} aria-label="Toggle theme">
+            {isDark ? "☀" : "☾"}
+          </Button>
           <InterestedList
             events={events}
             sources={sources}
@@ -109,7 +115,7 @@ export default function Home() {
       />
 
       <div className="flex-1 min-h-0">
-        <Calendar events={filteredEvents} onEventClick={handleEventClick} />
+        <Calendar events={filteredEvents} onEventClick={handleEventClick} isDark={isDark} />
       </div>
 
       <EventModal

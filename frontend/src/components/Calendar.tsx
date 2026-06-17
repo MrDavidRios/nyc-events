@@ -22,6 +22,7 @@ const CATEGORY_COLORS: Record<string, string> = {
 interface CalendarProps {
   events: Event[];
   onEventClick: (event: Event) => void;
+  isDark: boolean;
 }
 
 function toScheduleXEvent(event: Event) {
@@ -48,12 +49,13 @@ function toScheduleXEvent(event: Event) {
   };
 }
 
-export function Calendar({ events, onEventClick }: CalendarProps) {
+export function Calendar({ events, onEventClick, isDark }: CalendarProps) {
   const [eventsPlugin] = useState(() => createEventsServicePlugin());
 
   const calendar = useCalendarApp({
     views: [createViewMonthGrid(), createViewWeek(), createViewDay()],
     defaultView: "month-grid",
+    isDark,
     events: [],
     calendars: {
       museum: {
@@ -101,6 +103,10 @@ export function Calendar({ events, onEventClick }: CalendarProps) {
       eventsPlugin.set(events.map(toScheduleXEvent));
     }
   }, [events, eventsPlugin]);
+
+  useEffect(() => {
+    calendar?.setTheme(isDark ? "dark" : "light");
+  }, [isDark, calendar]);
 
   return (
     <div className="sx-react-calendar-wrapper">
