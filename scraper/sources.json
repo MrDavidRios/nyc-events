@@ -65,7 +65,7 @@
       "type": "api",
       "category": "museum",
       "scraper": "api_guggenheim",
-      "favicon_url": "https://www.guggenheim.org/favicon.ico",
+      "favicon_url": null,
       "enabled": true,
       "notes": "WordPress REST API"
     },
@@ -110,7 +110,7 @@
       "type": "ical",
       "category": "outdoor",
       "scraper": "ical_generic",
-      "favicon_url": "https://cityparksfoundation.org/favicon.ico",
+      "favicon_url": null,
       "enabled": true,
       "notes": "Tribe Events Calendar iCal feed, filtered to SummerStage category"
     },
