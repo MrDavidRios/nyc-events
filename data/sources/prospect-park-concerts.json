@@ -1,100 +1,5 @@
 [
   {
-    "id": "prospect-park-concerts-2026-06-16-risha-gorig-the-journey",
-    "source_id": "prospect-park-concerts",
-    "title": "Risha Gorig: The Journey",
-    "description": "The Journey is a sculptural installation by Brooklyn-based artist Risha Gorig that takes the shape of a flock of pink birds soaring in the sky. In this sculpture, one can correlate the migratory nature of birds, the vulnerability and tribulations of embarking on a voyage, with that of human existence. Like many of the artist\u2019s previous works, this piece is kinetic and reminiscent of mobile art.",
-    "url": "https://www.prospectpark.org/event/risha-gorig-the-journey/2026-06-16/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-06-16",
-    "end_date": null,
-    "start_time": "08:00",
-    "end_time": "17:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-06-16-sunset-volunteer-series",
-    "source_id": "prospect-park-concerts",
-    "title": "Sunset Volunteer Series",
-    "description": "Join Prospect Park Alliance for a new weekday evening volunteer opportunity. Make the most of longer days in the warmer months and join the Alliance to get outside and lend a hand at locations throughout Brooklyn\u2019s Backyard. Volunteers will help with invasive plant removal, litter pickup and mulching. We will meet at 5:00 pm and wrap up no later than 7:00 PM, which gives you time to get home before dark or enjoy the sunset in the park afterwards! Please note that these projects involve repetitive bending, kneeling, lifting and transporting loaded wheelbarrows. This series is held rain or shine, though the Alliance will cancel in the event of extreme weather or hazardous conditions. Start and end times for Sunset Series vary depending on the sunset. Open to adults 18+. Register Today Register online or call (929) 888-6826 for more information. Questions? Contact the Alliance Volunteer Services team at volunteers@prospectpark.org or 929-888-6826.",
-    "url": "https://www.prospectpark.org/event/sunset-series-3-2/2026-06-16/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-06-16",
-    "end_date": null,
-    "start_time": "17:00",
-    "end_time": "19:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-06-17-wednesday-greenmarket-at-bartel-pritchard-square",
-    "source_id": "prospect-park-concerts",
-    "title": "Wednesday Greenmarket at Bartel-Pritchard Square",
-    "description": "Nestled inside Prospect Park\u2019s tree-shaded southwest corner, this much-loved market is where South Slope and Windsor Terrace residents stock up on locally grown staples. The offerings range from a selection of vegetables, fruits, baked goods, plants and flowers to fresh-caught fish and organic baked goods. For a full calendar of events and a list of sellers, visit the GrowNYC website. Learn about all Nutrition Benefit Programs accepted at GrowNYC Markets",
-    "url": "https://www.prospectpark.org/event/wednesday-greenmarket-at-bartel-pritchard-square/2026-06-17/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-06-17",
-    "end_date": null,
-    "start_time": "08:00",
-    "end_time": "14:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-06-17-risha-gorig-the-journey",
-    "source_id": "prospect-park-concerts",
-    "title": "Risha Gorig: The Journey",
-    "description": "The Journey is a sculptural installation by Brooklyn-based artist Risha Gorig that takes the shape of a flock of pink birds soaring in the sky. In this sculpture, one can correlate the migratory nature of birds, the vulnerability and tribulations of embarking on a voyage, with that of human existence. Like many of the artist\u2019s previous works, this piece is kinetic and reminiscent of mobile art.",
-    "url": "https://www.prospectpark.org/event/risha-gorig-the-journey/2026-06-17/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-06-17",
-    "end_date": null,
-    "start_time": "08:00",
-    "end_time": "17:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-06-17-summer-spruce-up",
-    "source_id": "prospect-park-concerts",
-    "title": "Summer Spruce Up",
-    "description": "Join Prospect Park Alliance for a special summer work session at our Summer Spruce Up volunteer series. Volunteers will assist in tasks such as invasive plant removal, trail maintenance, litter pick up, and other landscaping needs. The group meets at a different location every week. If you RSVP, you will receive a reminder email with the meeting location. Be advised, these projects involve repetitive bending, kneeling, lifting and transporting loaded wheelbarrows. This opportunity requires using sharp tools and encountering potentially hazardous plants and materials. Appropriate for teens ages 14-17 and adults. Register online or call (929) 888-6826 for more information.",
-    "url": "https://www.prospectpark.org/event/summer-spruce-up-6/2026-06-17/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-06-17",
-    "end_date": null,
-    "start_time": "10:00",
-    "end_time": "13:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
-  },
-  {
     "id": "prospect-park-concerts-2026-06-18-risha-gorig-the-journey",
     "source_id": "prospect-park-concerts",
     "title": "Risha Gorig: The Journey",
@@ -111,7 +16,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-18-prospect-park-stroller-walk",
@@ -130,7 +35,7 @@
     "end_time": "12:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-18-summer-spruce-up",
@@ -149,7 +54,7 @@
     "end_time": "13:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-18-sexual-health-mobile-medical-unit",
@@ -168,7 +73,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-18-nature-exploration-pollinator-month",
@@ -187,7 +92,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-18-carousel-rides",
@@ -206,7 +111,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-18-alfredas-black-earth-juneteenth-commemoration",
@@ -225,7 +130,7 @@
     "end_time": "23:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-18-prospect-park-yoga",
@@ -244,7 +149,7 @@
     "end_time": "20:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-19-uhuru-season-17-days-of-freedom",
@@ -263,7 +168,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-19-risha-gorig-the-journey",
@@ -282,7 +187,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-19-prospect-park-wellness-walk",
@@ -301,7 +206,7 @@
     "end_time": "12:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-19-nature-exploration-pollinator-month",
@@ -320,7 +225,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-19-juneteenth-school-holiday-in-prospect-park",
@@ -339,7 +244,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-19-carousel-rides",
@@ -358,7 +263,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-19-ogemdi-ude-major-juneteenth-performance",
@@ -377,7 +282,7 @@
     "end_time": "20:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-20-greenmarket-at-grand-army-plaza",
@@ -396,7 +301,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-20-risha-gorig-the-journey",
@@ -415,7 +320,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-20-dance-fitness-with-shape-up-nyc-at-the-boathouse",
@@ -434,7 +339,7 @@
     "end_time": "11:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-20-dance-fitness-with-shape-up-nyc-at-the-boathouse",
@@ -453,7 +358,7 @@
     "end_time": "11:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-20-nature-exploration",
@@ -472,7 +377,7 @@
     "end_time": "13:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-20-nature-exploration-pollinator-month",
@@ -491,7 +396,7 @@
     "end_time": "13:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-20-park-pitch-in-green-and-go",
@@ -510,7 +415,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-20-pop-up-audubon-i",
@@ -529,7 +434,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-20-pop-up-audubon-ii",
@@ -548,7 +453,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
   },
   {
     "id": "prospect-park-concerts-2026-06-20-lefferts-historic-house-open-hours",
@@ -567,6 +472,101 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-16T05:38:29Z"
+    "last_updated": "2026-06-18T02:44:36Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-06-20-exhibit-the-shirley-chisholm-way-brooklyns-blueprint-for-change",
+    "source_id": "prospect-park-concerts",
+    "title": "Exhibit: The Shirley Chisholm Way: Brooklyn's Blueprint for Change",
+    "description": "Join Prospect Park Alliance and Shirley Chisholm Cultural Institute (SCCI) for a new exhibit that explores how Brooklyn\u2019s beloved daughter broke down gender and racial barriers to fight for her community, becoming the first Black woman elected to Congress. The exhibit is organized around seven life lessons drawn from Chisholm\u2019s tenacious career. It features stunning portraits of Chisholm by artist Al Johnson and rarely seen photographs and memorabilia from the Congresswoman\u2019s campaigns, curated by Barbara Bullard, Creative Producer and President of SCCI. These materials offer inspirational insights into how Brooklyn\u2019s beloved daughter broke down gender and racial barriers to become the first Black woman to serve in Congress. This exhibit provides visitors with a space to reflect on Chisholm\u2019s legacy as Prospect Park Alliance welcomes the installation of a new monument in her honor at the Parkside and Ocean Avenue entrance in 2027. The exhibit, curated by Barbara Bullard, Cultural Producer and President of the Shirley Chisholm Cultural Institute, is part of Prospect Park Alliance\u2019s ReImagine Lefferts initiative, which is transforming the museum to explore the legacies of resistance and resilience of the Indigenous people of Lenapehoking, whose unceded ancestral lands the park and house rests upon, and Africans who were enslaved by the Lefferts family. The Shirley Chisholm Cultural Institute (SCCI) has been at the forefront of art, culture, and justice and economic sustainability since 1977, with the official permission and participation of Congresswoman Chisholm herself in its inception and development. Its purpose is to preserve the legacy of Congresswoman Shirley Chisholm through the initiatives cultivated during her public service career with 21st century activism and innovation. SCCI is aligned with grassroots groups and frontline communities through creating substantive community-based partnership and collaboration along with strategic interoperative relationships with leaders of governmental, and mainstream organizations.",
+    "url": "https://www.prospectpark.org/event/the-shirley-chisholm-way-brooklyns-blueprint-for-change/2026-06-20/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-06-20",
+    "end_date": null,
+    "start_time": "12:00",
+    "end_time": "17:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-06-18T02:44:36Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-06-20-carousel-rides",
+    "source_id": "prospect-park-concerts",
+    "title": "Carousel Rides",
+    "description": "Children\u2019s Corner, $3 per ride, $13 for a book of 5 tickets, Free with Prospect Park Alliance Family Supporter membership or higher. Enjoy a ride on Prospect Park\u2019s beloved 1912 Carousel. Open Thursdays \u2013 Sundays and Holidays, this treasured historic attraction features magnificent carved horses, lions, giraffes and deer. Join the Alliance at the Family Supporter level or above and enjoy unlimited free rides!",
+    "url": "https://www.prospectpark.org/event/carousel-rides-9/2026-06-20/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-06-20",
+    "end_date": null,
+    "start_time": "12:00",
+    "end_time": "17:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-06-18T02:44:36Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-06-20-lgbtq-pride-month-summer-solstice-pride-stroll",
+    "source_id": "prospect-park-concerts",
+    "title": "LGBTQ+ Pride Month: Summer Solstice Pride Stroll",
+    "description": "Celebrate the summer solstice by setting intentions for the season and learning about traditions to welcome the warm months in nature. Learn more about queer biology of native flora and fauna and learn more about the history of LGBTQ+ New Yorkers in Brooklyn. Note: The walks depart promptly from Grand Army Plaza Arch in Grand Army Plaza.",
+    "url": "https://www.prospectpark.org/event/lgbtq-pride-month-summer-solstice-pride-stroll/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-06-20",
+    "end_date": null,
+    "start_time": "17:00",
+    "end_time": "18:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-06-18T02:44:36Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-06-20-prospect-park-soiree-2026",
+    "source_id": "prospect-park-concerts",
+    "title": "Prospect Park Soiree 2026",
+    "description": "Get ready for Brooklyn\u2019s most magical gathering\u2014the Prospect Park Soiree! Wear your most festive attire, prepare a delicious feast, bring your favorite bottle of wine and dine and dance under the stars in one of Prospect Park\u2019s most scenic locations. Show off your creativity with your attire and table d\u00e9cor and raise your glass in a toast to Brooklyn\u2019s Backyard. City Winery will be onsite with local wine, beer, cider, and water for sale at the event. Guests may also pre-order wine in advance and have one less item to bring to the park! Event proceeds and a portion of wine sales benefit Prospect Park Alliance, the non-profit organization that sustains, restores and advances Prospect Park for the benefit of the diverse communities that call Brooklyn home. Learn more at prospectpark.org/soiree.",
+    "url": "https://www.prospectpark.org/event/prospect-park-soiree-2026/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-06-20",
+    "end_date": null,
+    "start_time": "17:00",
+    "end_time": "22:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-06-18T02:44:36Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-06-21-risha-gorig-the-journey",
+    "source_id": "prospect-park-concerts",
+    "title": "Risha Gorig: The Journey",
+    "description": "The Journey is a sculptural installation by Brooklyn-based artist Risha Gorig that takes the shape of a flock of pink birds soaring in the sky. In this sculpture, one can correlate the migratory nature of birds, the vulnerability and tribulations of embarking on a voyage, with that of human existence. Like many of the artist\u2019s previous works, this piece is kinetic and reminiscent of mobile art.",
+    "url": "https://www.prospectpark.org/event/risha-gorig-the-journey/2026-06-21/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-06-21",
+    "end_date": null,
+    "start_time": "08:00",
+    "end_time": "17:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-06-18T02:44:36Z"
   }
 ]

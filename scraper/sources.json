@@ -6,10 +6,11 @@
       "url": "https://www.lincolncenter.org/lincoln-center-at-home/calendar",
       "type": "html",
       "category": "performing-arts",
-      "scraper": "html_generic",
-      "favicon_url": null,
-      "enabled": false,
-      "notes": "Needs custom HTML scraper \u2014 semantic HTML without distinctive classes"
+      "scraper": "html_lincoln_center",
+      "favicon_url": "https://www.lincolncenter.org/assets/images/favicon.ico?v=v15.0.0",
+      "enabled": true,
+      "use_browser": true,
+      "notes": "SPA calendar \u2014 uses Playwright to navigate months"
     },
     {
       "id": "carnegie-hall",
@@ -17,10 +18,11 @@
       "url": "https://www.carnegiehall.org/calendar",
       "type": "html",
       "category": "performing-arts",
-      "scraper": "html_generic",
-      "favicon_url": null,
-      "enabled": false,
-      "notes": "Queue-it bot protection \u2014 requires headless browser"
+      "scraper": "html_carnegie_hall",
+      "favicon_url": "https://www.carnegiehall.org/apple-touch-icon.png",
+      "enabled": true,
+      "use_browser": true,
+      "notes": "Custom scraper \u2014 date groups with .ch-event cards"
     },
     {
       "id": "whitney",
@@ -39,10 +41,11 @@
       "url": "https://www.metmuseum.org/exhibitions",
       "type": "html",
       "category": "museum",
-      "scraper": "html_generic",
+      "scraper": "html_met_museum",
       "favicon_url": null,
-      "enabled": false,
-      "notes": "Vercel Security Checkpoint \u2014 requires headless browser"
+      "enabled": true,
+      "use_browser": true,
+      "notes": "Exhibition cards with date ranges"
     },
     {
       "id": "moma",
@@ -83,10 +86,11 @@
       "url": "https://www.brooklynmuseum.org/exhibitions",
       "type": "html",
       "category": "museum",
-      "scraper": "html_generic",
+      "scraper": "html_brooklyn_museum",
       "favicon_url": null,
-      "enabled": false,
-      "notes": "403 Forbidden \u2014 requires headless browser"
+      "enabled": true,
+      "use_browser": true,
+      "notes": "Exhibition links with date ranges"
     },
     {
       "id": "new-museum",

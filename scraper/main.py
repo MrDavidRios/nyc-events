@@ -8,6 +8,9 @@ from scraper.scrapers.ical_generic import ICalScraper
 from scraper.scrapers.jsonld_generic import JsonLdScraper
 from scraper.scrapers.html_generic import HtmlScraper
 from scraper.scrapers.api_guggenheim import GuggenheimScraper
+from scraper.scrapers.html_lincoln_center import LincolnCenterScraper
+from scraper.scrapers.html_carnegie_hall import CarnegieHallScraper
+from scraper.scrapers.html_exhibitions import MetMuseumScraper, BrooklynMuseumScraper
 from scraper.utils.favicon import resolve_favicon_url
 from scraper.utils.merge import merge_sources, write_output_files
 
@@ -24,6 +27,10 @@ SCRAPER_MAP: dict[str, type[BaseScraper]] = {
     "html_generic": HtmlScraper,
     "html_nyc_parks": HtmlScraper,
     "api_guggenheim": GuggenheimScraper,
+    "html_lincoln_center": LincolnCenterScraper,
+    "html_carnegie_hall": CarnegieHallScraper,
+    "html_met_museum": MetMuseumScraper,
+    "html_brooklyn_museum": BrooklynMuseumScraper,
 }
 
 

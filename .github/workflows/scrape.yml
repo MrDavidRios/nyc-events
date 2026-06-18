@@ -22,6 +22,8 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      - run: playwright install --with-deps chromium
+
       - run: python -m scraper.main
 
       - name: Commit and push if changed
