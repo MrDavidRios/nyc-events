@@ -1,119 +1,5 @@
 [
   {
-    "id": "movies-in-the-park-2026-06-18-movies-under-the-stars-harriet",
-    "source_id": "movies-in-the-park",
-    "title": "Movies Under the Stars: Harriet",
-    "description": "8:00 p.m.\u201310:00 p.m.The incredible true story of one of America's greatest heroes, Harriet Tubman. From her escape from slavery to the dangerous missions she led, setting free hundreds of slaves through...Free!",
-    "url": "https://www.nycgovparks.org/events/2026/06/18/movies-under-the-stars-harriet",
-    "image_url": null,
-    "venue": "at Softball Field 1 (in Morningside Park), Manhattan",
-    "address": null,
-    "category": "film",
-    "tags": [],
-    "start_date": "2026-06-18",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
-  },
-  {
-    "id": "movies-in-the-park-2026-06-18-movies-under-the-stars-soccer-series-kicking-and-screaming",
-    "source_id": "movies-in-the-park",
-    "title": "Movies Under the Stars Soccer Series: Kicking and Screaming",
-    "description": "8:30 p.m.\u201310:30 p.m.A mild-mannered dad turns competitive when he realizes that by agreeing to coach his son\u2019s soccer team...Free!",
-    "url": "https://www.nycgovparks.org/events/2026/06/18/movies-under-the-stars-kicking-and-screaming",
-    "image_url": null,
-    "venue": "at St Mary's Playground East (in St. Mary's Park), Bronx",
-    "address": null,
-    "category": "film",
-    "tags": [],
-    "start_date": "2026-06-18",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
-  },
-  {
-    "id": "movies-in-the-park-2026-06-18-movies-under-the-stars-superman-2025",
-    "source_id": "movies-in-the-park",
-    "title": "Movies Under the Stars: Superman (2025)",
-    "description": "8:30 p.m.\u201310:30 p.m.Superman serves as the kick-off in the newly imagined DC universe.Free!",
-    "url": "https://www.nycgovparks.org/events/2026/06/18/movies-under-the-stars-superman-2025",
-    "image_url": null,
-    "venue": "at Homecrest Playground, Brooklyn",
-    "address": null,
-    "category": "film",
-    "tags": [],
-    "start_date": "2026-06-18",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
-  },
-  {
-    "id": "movies-in-the-park-2026-06-18-movies-under-the-stars-the-lego-batman-movie",
-    "source_id": "movies-in-the-park",
-    "title": "Movies Under the Stars: The Lego Batman Movie",
-    "description": "8:30 p.m.\u201310:30 p.m.There are big changes brewing in Gotham, and if he wants to save the city from The Joker's hostile takeover, Batman may have to drop the lone vigilante thing, try to work with others.Free!",
-    "url": "https://www.nycgovparks.org/events/2026/06/18/movies-under-the-stars-the-lego-batman-movie",
-    "image_url": null,
-    "venue": "at Play Area (in Gerard P. Dugan Playground), Staten Island",
-    "address": null,
-    "category": "film",
-    "tags": [],
-    "start_date": "2026-06-18",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
-  },
-  {
-    "id": "movies-in-the-park-2026-06-18-movies-under-the-stars-back-to-the-future-pg",
-    "source_id": "movies-in-the-park",
-    "title": "Movies Under The Stars: Back to the Future | PG",
-    "description": "9:00 p.m.\u201311:00 p.m.An eccentric scientist builds a time machine, which accidentally transports a high-school student back in time.Free!",
-    "url": "https://www.nycgovparks.org/events/2026/06/18/movies-under-the-stars-back-to-the-future-pg",
-    "image_url": null,
-    "venue": "at P.S. 207 (in Walter Ward Playground), Queens",
-    "address": null,
-    "category": "film",
-    "tags": [],
-    "start_date": "2026-06-18",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
-  },
-  {
-    "id": "movies-in-the-park-2026-06-18-movies-under-the-stars-superman-pg-13",
-    "source_id": "movies-in-the-park",
-    "title": "Movies Under the Stars: Superman | PG-13",
-    "description": "9:00 p.m.\u201311:00 p.m.James Gunn reimagines Superman in the new DC Universe with a mix of epic action, humor, and heart, centering a hero defined by compassion and faith in humanity.Free!",
-    "url": "https://www.nycgovparks.org/events/2026/06/18/movies-under-the-stars-superman-pg13",
-    "image_url": null,
-    "venue": "at Northern Blvd. and 94th Street (in Northern Playground), Queens",
-    "address": null,
-    "category": "film",
-    "tags": [],
-    "start_date": "2026-06-18",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
-  },
-  {
     "id": "movies-in-the-park-2026-06-19-movies-under-the-stars-are-we-there-yet",
     "source_id": "movies-in-the-park",
     "title": "Movies Under the Stars: Are We There Yet?",
@@ -130,7 +16,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-20-movies-under-the-stars-the-great-debaters",
@@ -149,7 +35,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-20-movies-under-the-stars-jumanji-1995",
@@ -168,7 +54,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-20-movies-under-the-stars-paddington-in-peru-pg",
@@ -187,7 +73,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-20-movies-under-the-stars-hoppers",
@@ -206,7 +92,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-20-movies-under-the-stars-wicked-for-good-pg",
@@ -225,7 +111,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-24-movies-under-the-stars-air-bud",
@@ -244,7 +130,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-24-movies-under-the-stars-the-lego-movie-2014",
@@ -263,7 +149,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-24-movies-under-the-stars-the-marvels-2023",
@@ -282,7 +168,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-24-movies-under-the-stars-shaolin-soccer",
@@ -301,7 +187,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-25-movies-under-the-stars-kung-fu-panda-4",
@@ -320,7 +206,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-25-movies-under-the-stars-hoppers",
@@ -339,7 +225,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-25-movies-under-the-stars-zootopia-2025",
@@ -358,7 +244,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-26-movies-under-the-stars-hoppers-2026",
@@ -377,7 +263,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-26-movies-under-the-stars-wicked-for-good",
@@ -396,7 +282,64 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
+  },
+  {
+    "id": "movies-in-the-park-2026-06-26-movie-under-the-stars-mama-mia",
+    "source_id": "movies-in-the-park",
+    "title": "Movie Under the Stars: Mama Mia",
+    "description": "9:00 p.m.\u201310:30 p.m.A bride-to-be in Greece attempts to solve the mystery of her paternity by reading her mother's diary. Based on the popular ABBA-inspired stage musical.Free!",
+    "url": "https://www.nycgovparks.org/events/2026/06/26/movie-under-the-stars-mama-mia",
+    "image_url": null,
+    "venue": "at Francis Lewis Park Lawn Area (in Francis Lewis Park), Queens",
+    "address": null,
+    "category": "film",
+    "tags": [],
+    "start_date": "2026-06-26",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-06-19T06:59:55Z"
+  },
+  {
+    "id": "movies-in-the-park-2026-06-26-movies-under-the-stars-jurassic-park-1993",
+    "source_id": "movies-in-the-park",
+    "title": "Movies Under the Stars: Jurassic Park (1993)",
+    "description": "9:00 p.m.\u201311:00 p.m.Genetically engineered dinosaurs run amok on a remote island in this special-effects extravaganza. It's up to a paleontologist, a paleobotanist and a mathematician to outmaneuver the...Free!",
+    "url": "https://www.nycgovparks.org/events/2026/06/26/movies-under-the-stars-jurassic-park-1993",
+    "image_url": null,
+    "venue": "at Hockey Rink (in Broad Channel Park), Queens",
+    "address": null,
+    "category": "film",
+    "tags": [],
+    "start_date": "2026-06-26",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-06-19T06:59:55Z"
+  },
+  {
+    "id": "movies-in-the-park-2026-06-26-movies-under-the-stars-lilo-and-stitch-2025",
+    "source_id": "movies-in-the-park",
+    "title": "Movies Under the Stars: Lilo and Stitch (2025)",
+    "description": "9:00 p.m.\u201310:50 p.m.A live-action reimagining of Disney\u2019s 2002 animated classic, \u201cLilo & Stitch\u201d is the wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend...Free!",
+    "url": "https://www.nycgovparks.org/events/2026/06/26/movies-under-the-stars-lilo-and-stitch-2025",
+    "image_url": null,
+    "venue": "at Entrance - West 171 Street and Amsterdam Avenue (in Highbridge Park), Manhattan",
+    "address": null,
+    "category": "film",
+    "tags": [],
+    "start_date": "2026-06-26",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-27-canceled-movies-under-the-stars-captain-america-brave-new-world-2025",
@@ -415,7 +358,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-27-movies-under-the-stars-space-jam",
@@ -434,7 +377,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-27-movies-under-the-stars-zootopia-2",
@@ -453,7 +396,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-27-movies-under-the-stars-how-to-train-your-dragon",
@@ -472,7 +415,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-28-movies-under-the-stars-goat-2026",
@@ -491,7 +434,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-30-movies-under-the-stars-soccer-series-ronaldo",
@@ -510,7 +453,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-30-movies-under-the-stars-encanto-2021",
@@ -529,7 +472,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-06-30-movies-under-the-stars-zootopia-2",
@@ -548,7 +491,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-01-movies-under-the-stars-soccer-series-pele-birth-of-a-legend-2016",
@@ -567,7 +510,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-01-movies-under-the-stars-forrest-gump-1994",
@@ -586,7 +529,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-01-movies-under-the-stars-ronaldo",
@@ -605,7 +548,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-02-movies-under-the-stars-hoppers",
@@ -624,7 +567,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-02-movies-under-the-stars-teenage-mutant-ninja-turtles-mutant-mayhem",
@@ -643,7 +586,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-03-movies-under-the-stars-elio",
@@ -662,7 +605,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-03-movies-under-the-stars-the-bad-guys-2",
@@ -681,7 +624,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-08-movies-under-the-stars-soccer-series-ronaldo",
@@ -700,7 +643,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-08-movies-under-the-stars-dora-and-the-search-for-sol-dorado",
@@ -719,7 +662,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-08-movies-under-the-stars-the-mighty-ducks-1992",
@@ -738,7 +681,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-09-movies-under-the-stars-black-panther",
@@ -757,7 +700,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-09-movies-under-the-stars-goat-2026",
@@ -776,7 +719,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-09-movies-under-the-stars-the-goonies-1985",
@@ -795,7 +738,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-10-movies-under-the-stars-zootopia-2",
@@ -814,7 +757,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-10-movies-under-the-stars-the-spongebob-movie-search-for-squarepants",
@@ -833,7 +776,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-11-movies-under-the-stars-hoppers",
@@ -852,7 +795,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-14-movies-under-the-stars-soccer-series-pel-birth-of-a-legend",
@@ -871,7 +814,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-15-movies-under-the-stars-small-soldiers",
@@ -890,7 +833,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-15-movies-under-the-stars-soccer-series-mathews-the-original-no-7",
@@ -909,7 +852,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-16-movies-under-the-stars-soccer-series-copa-71",
@@ -928,7 +871,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
   },
   {
     "id": "movies-in-the-park-2026-07-16-movies-under-the-stars-jumanji-1995",
@@ -947,6 +890,63 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-18T06:47:05Z"
+    "last_updated": "2026-06-19T06:59:55Z"
+  },
+  {
+    "id": "movies-in-the-park-2026-07-16-movies-under-the-stars-shrek",
+    "source_id": "movies-in-the-park",
+    "title": "Movies Under the Stars: Shrek",
+    "description": "8:30 p.m.\u201311:00 p.m.A green ogre living a life of solitude in a far away swamp, Shrek is suddenly invaded by a horde of fairy tale characters, such as the Big Bad Wolf and the Three Little Pigs...Free!",
+    "url": "https://www.nycgovparks.org/events/2026/07/16/movies-under-the-stars-shrek",
+    "image_url": null,
+    "venue": "at North Plaza (in Union Square Park), Manhattan",
+    "address": null,
+    "category": "film",
+    "tags": [],
+    "start_date": "2026-07-16",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-06-19T06:59:55Z"
+  },
+  {
+    "id": "movies-in-the-park-2026-07-16-movies-under-the-stars-wicked-for-good-2025",
+    "source_id": "movies-in-the-park",
+    "title": "Movies Under the Stars: Wicked for Good (2025)",
+    "description": "8:30 p.m.\u201310:30 p.m.Elphaba, the future Wicked Witch of the West and her relationship with Glinda, the Good Witch of the North.Free!",
+    "url": "https://www.nycgovparks.org/events/2026/07/16/movies-under-the-stars-wicked-for-good-2025",
+    "image_url": null,
+    "venue": "at Open Area (in Kelly Park Playground), Brooklyn",
+    "address": null,
+    "category": "film",
+    "tags": [],
+    "start_date": "2026-07-16",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-06-19T06:59:55Z"
+  },
+  {
+    "id": "movies-in-the-park-2026-07-17-movies-under-the-stars-the-perfect-storm",
+    "source_id": "movies-in-the-park",
+    "title": "Movies Under the Stars: The Perfect Storm",
+    "description": "8:30 p.m.\u201310:30 p.m.Wolfgang Petersen's ripping sea adventure charts the real-life-and-death struggle of the Andrea Gail, a Massachusetts swordfishing boat caught in a huge storm that was the result..Free!",
+    "url": "https://www.nycgovparks.org/events/2026/07/17/movies-under-the-stars-the-perfect-storm",
+    "image_url": null,
+    "venue": "at Dyckman Marina (in Inwood Hill Park), Manhattan",
+    "address": null,
+    "category": "film",
+    "tags": [],
+    "start_date": "2026-07-17",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-06-19T06:59:55Z"
   }
 ]
