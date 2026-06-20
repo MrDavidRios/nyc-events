@@ -110,7 +110,7 @@
       "type": "ical",
       "category": "outdoor",
       "scraper": "ical_generic",
-      "favicon_url": "https://cityparksfoundation.org/favicon.ico",
+      "favicon_url": null,
       "enabled": true,
       "notes": "Tribe Events Calendar iCal feed, filtered to SummerStage category"
     },
@@ -132,7 +132,7 @@
       "type": "html",
       "category": "outdoor",
       "scraper": "html_nyc_parks",
-      "favicon_url": "https://www.nycgovparks.org/favicon.ico",
+      "favicon_url": null,
       "enabled": true,
       "notes": "Schema.org microdata \u2014 itemprop attributes on events",
       "selectors": {
@@ -173,7 +173,7 @@
       "type": "html",
       "category": "film",
       "scraper": "html_nyc_parks",
-      "favicon_url": "https://www.nycgovparks.org/favicon.ico",
+      "favicon_url": null,
       "enabled": true,
       "notes": "Same nycgovparks.org system as NYC Parks \u2014 microdata events",
       "selectors": {
