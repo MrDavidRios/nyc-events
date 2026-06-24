@@ -1,81 +1,5 @@
 [
   {
-    "id": "carnegie-hall-2026-06-23-guided-tours",
-    "source_id": "carnegie-hall",
-    "title": "Guided Tours",
-    "description": null,
-    "url": "https://www.carnegiehall.org/Visit/Tour/Tours",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-06-23",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
-  },
-  {
-    "id": "carnegie-hall-2026-06-23-orchestra-of-st-lukes",
-    "source_id": "carnegie-hall",
-    "title": "Orchestra of St. Luke's",
-    "description": null,
-    "url": "https://www.carnegiehall.org/calendar/2026/06/23/orchestra-of-st-lukes-0700pm",
-    "image_url": null,
-    "venue": "Zankel Hall",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-06-23",
-    "end_date": null,
-    "start_time": "19:00",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
-  },
-  {
-    "id": "carnegie-hall-2026-06-23-new-york-rising-stars-concert",
-    "source_id": "carnegie-hall",
-    "title": "New York Rising Stars Concert",
-    "description": null,
-    "url": "https://www.carnegiehall.org/calendar/2026/06/23/new-york-rising-stars-concert-0730pm",
-    "image_url": null,
-    "venue": "Weill Recital Hall",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-06-23",
-    "end_date": null,
-    "start_time": "19:30",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
-  },
-  {
-    "id": "carnegie-hall-2026-06-23-new-york-symphonic-invitational",
-    "source_id": "carnegie-hall",
-    "title": "New York Symphonic Invitational",
-    "description": null,
-    "url": "https://www.carnegiehall.org/calendar/2026/06/23/new-york-symphonic-invitational-0730pm",
-    "image_url": null,
-    "venue": "Stern Auditorium / Perelman Stage",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-06-23",
-    "end_date": null,
-    "start_time": "19:30",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
-  },
-  {
     "id": "carnegie-hall-2026-06-24-guided-tours",
     "source_id": "carnegie-hall",
     "title": "Guided Tours",
@@ -92,7 +16,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-24-boston-new-york-international-music-competition-winners-recital",
@@ -111,7 +35,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-24-indianapolis-childrens-choir",
@@ -130,7 +54,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-25-guided-tours",
@@ -149,7 +73,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-25-the-presence-of-absence-a-cuban-nocturne",
@@ -168,7 +92,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-25-timeless-melodies-masterpieces-inspiring-generations",
@@ -187,7 +111,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-25-carnegie-hall-citywide-tonewall",
@@ -206,7 +130,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-25-liza-at-80-a-celebration-in-song-and-dance",
@@ -225,7 +149,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-26-guided-tours",
@@ -244,7 +168,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-26-the-presence-of-absence-a-cuban-nocturne",
@@ -263,7 +187,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-26-american-protg-winners-recital",
@@ -282,7 +206,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-26-the-moldy-peaches-acoustic",
@@ -301,7 +225,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-27-veksler-academy-of-music-dance-honor-recital",
@@ -320,7 +244,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-27-the-presence-of-absence-a-cuban-nocturne",
@@ -339,7 +263,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-27-staten-island-community-song-circle",
@@ -358,7 +282,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-27-carnegie-hall-citywide-ivan-llanes",
@@ -377,7 +301,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-27-possibilities-honoring-the-legacy-of-helen-keller-film-screening-with-panel-discussion",
@@ -396,7 +320,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-27-new-york-international-music-concours-winners-recital",
@@ -415,7 +339,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-27-in-harmony-concert-performance",
@@ -434,7 +358,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-27-the-presence-of-absence-a-cuban-nocturne",
@@ -453,7 +377,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-28-new-england-symphonic-ensemble",
@@ -472,7 +396,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-28-sound-espressivo-gala",
@@ -491,7 +415,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-28-the-presence-of-absence-a-cuban-nocturne",
@@ -510,7 +434,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-28-apex-international-music-competition-winners-recital",
@@ -529,7 +453,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-29-sea-to-sky-melodies-piano-concert",
@@ -548,7 +472,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-29-new-england-symphonic-ensemble",
@@ -567,7 +491,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-30-sound-espressivo-gala",
@@ -586,7 +510,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-06-30-america-celebrates-250",
@@ -605,7 +529,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-01-brooklyn-community-song-circle",
@@ -624,7 +548,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-02-special-venue-music-awards-winners-recital",
@@ -643,7 +567,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-03-carnegie-hall-citywide-the-knights",
@@ -662,7 +586,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-03-special-venue-music-awards-winners-recital",
@@ -681,7 +605,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-04-the-clarion-choir-performs-the-national-anthems-by-david-lang",
@@ -700,7 +624,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-05-all-indian-dance-festival-2026",
@@ -719,7 +643,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-07-anna-pierre-pianovirgile-roche-piano",
@@ -738,7 +662,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-08-carnegie-hall-citywide-ivalas-quartet",
@@ -757,7 +681,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-08-golden-classical-music-awards-ceremony",
@@ -776,7 +700,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-09-golden-classical-music-awards-ceremonyguest-artist-aurelia-faidley-solars-cello",
@@ -795,14 +719,14 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
-    "id": "carnegie-hall-2026-07-10-carnegie-hall-citywide-aisha-jackson",
+    "id": "carnegie-hall-2026-07-10-cancelled-carnegie-hall-citywide-aisha-jackson",
     "source_id": "carnegie-hall",
-    "title": "Carnegie Hall Citywide: Aisha Jackson",
+    "title": "Cancelled: Carnegie Hall Citywide: Aisha Jackson",
     "description": null,
-    "url": "https://www.carnegiehall.org/calendar/2026/07/10/carnegie-hall-citywide-aisha-jackson-0700pm",
+    "url": "https://www.carnegiehall.org/calendar/2026/07/10/cancelled-carnegie-hall-citywide-aisha-jackson-0700pm",
     "image_url": null,
     "venue": "Bryant Park",
     "address": null,
@@ -814,7 +738,26 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
+  },
+  {
+    "id": "carnegie-hall-2026-07-10-carnegie-hall-citywide-avery-wilson",
+    "source_id": "carnegie-hall",
+    "title": "Carnegie Hall Citywide: Avery Wilson",
+    "description": null,
+    "url": "https://www.carnegiehall.org/calendar/2026/07/10/carnegie-hall-citywide-avery-wilson-0700pm",
+    "image_url": null,
+    "venue": "Bryant Park",
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2026-07-10",
+    "end_date": null,
+    "start_time": "19:00",
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-10-golden-classical-music-awards-ceremony",
@@ -833,7 +776,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-10-joe-hisaishi-in-concert",
@@ -852,7 +795,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-11-golden-classical-music-awards-ceremony",
@@ -871,7 +814,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-11-carnegie-hall-citywide-arturo-ofarrill-and-the-afro-latin-jazz-orchestra-with-the-freedom-trap",
@@ -890,7 +833,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-11-golden-classical-music-awards-ceremony",
@@ -909,7 +852,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-11-joe-hisaishi-in-concert",
@@ -928,7 +871,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-12-13th-gocaa-international-music-competition-awards-ceremony-and-concert",
@@ -947,7 +890,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-12-the-alonso-brothersfrom-havana-to-new-york",
@@ -966,7 +909,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-12-black-myth-wukong-global-concert",
@@ -985,7 +928,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-14-mark-morris-dance-group-dances-to-american-music",
@@ -1004,7 +947,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-14-ny-classical-debut-awards-gala-concert",
@@ -1023,7 +966,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-15-carnegie-hall-citywide-american-patchwork-quartet",
@@ -1042,7 +985,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-15-premia-international-young-artists-music-festival-prizewinners-concert",
@@ -1061,7 +1004,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-15-mark-morris-dance-group-dances-to-american-music",
@@ -1080,7 +1023,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-16-mark-morris-dance-group-dances-to-american-music",
@@ -1099,7 +1042,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-16-premia-international-young-artists-music-festival-prizewinners-concert",
@@ -1118,7 +1061,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-17-carnegie-hall-citywide-nathan-and-the-zydeco-cha-chas",
@@ -1137,7 +1080,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-17-2026-concordia-music-competition-top-honors-recital",
@@ -1156,7 +1099,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-17-mark-morris-dance-group-dances-to-american-music",
@@ -1175,7 +1118,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-18-concert-artists-international-winners-concert",
@@ -1194,7 +1137,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-18-mark-morris-dance-group-dances-to-american-music",
@@ -1213,7 +1156,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-18-washington-international-rachmaninoff-music-competition-winners-recital",
@@ -1232,7 +1175,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-18-mark-morris-dance-group-dances-to-american-music",
@@ -1251,7 +1194,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-18-sartaaj-heritage-tour-2026",
@@ -1270,7 +1213,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-21-the-avimc-winners-recital",
@@ -1289,7 +1232,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-21-mark-morris-dance-group-dances-to-american-music",
@@ -1308,7 +1251,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-22-carnegie-hall-citywide-cerus-quartet",
@@ -1327,7 +1270,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-22-post-falls-music-academy-student-recital",
@@ -1346,7 +1289,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-22-mark-morris-dance-group-dances-to-american-music",
@@ -1365,7 +1308,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-23-mark-morris-dance-group-dances-to-american-music",
@@ -1384,7 +1327,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-23-hotchkiss-international-piano-competition-prizewinners-and-hotchkiss-summer-young-artists-concert",
@@ -1403,7 +1346,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-23-worldstrides-middle-school-honors-performance",
@@ -1422,7 +1365,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-24-moca-performslittle-red-riding-hood-the-chinese-opera",
@@ -1441,7 +1384,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-24-carnegie-hall-citywide-nyc-ska-orchestra",
@@ -1460,7 +1403,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-24-mark-morris-dance-group-dances-to-american-music",
@@ -1479,7 +1422,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-25-mark-morris-dance-group-dances-to-american-music",
@@ -1498,7 +1441,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-25-staten-island-community-song-circle",
@@ -1517,7 +1460,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-25-moca-performslittle-red-riding-hood-the-chinese-opera",
@@ -1536,7 +1479,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-25-carnegie-hall-citywide-ensemble-connect",
@@ -1555,7 +1498,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-25-mark-morris-dance-group-dances-to-american-music",
@@ -1574,7 +1517,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-25-a-night-of-georgia-music-featuring-mike-mills-robert-mcduffie-and-chuck-leavell",
@@ -1593,7 +1536,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-30-nyo2",
@@ -1612,7 +1555,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-30-thomas-f-hulbert-music-international-piano-competition-winners-recital",
@@ -1631,7 +1574,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-31-carnegie-hall-citywide-el-laberinto-del-coco",
@@ -1650,7 +1593,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-31-national-youth-orchestra-of-the-united-states-of-america",
@@ -1669,7 +1612,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-07-31-irvine-school-of-music-student-recital",
@@ -1688,7 +1631,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-08-01-overture-music-intensive-2026-gala-concert",
@@ -1707,7 +1650,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-08-01-nyo-jazz",
@@ -1726,7 +1669,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-08-01-manhattan-international-music-competition-winners-gala-concert",
@@ -1745,7 +1688,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-09-30-camerata-nordica-octet",
@@ -1764,7 +1707,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-09-30-jacob-collier",
@@ -1783,7 +1726,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-01-ludovico-einaudi",
@@ -1802,7 +1745,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-01-diana-jipa-violintefan-doniga-piano",
@@ -1821,7 +1764,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-02-china-now-chamber-orchestra-and-the-bard-eastwest-ensemble",
@@ -1840,7 +1783,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-02-sounds-from-within-a-benefit-concert-of-new-chamber-works",
@@ -1859,7 +1802,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-02-ludovico-einaudi",
@@ -1878,7 +1821,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-03-american-masters-music-awards-winners-concert",
@@ -1897,7 +1840,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-03-hai-kyung-suh-piano",
@@ -1916,7 +1859,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-03-ilya-kaler-violinrasa-vitkauskaite-pianowith-special-guests-paquito-drivera-jonathan-cohler-dave-eggar-and-gregg-august",
@@ -1935,7 +1878,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-03-new-york-franz-liszt-international-piano-competition-grand-final",
@@ -1954,7 +1897,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-04-yangmingtian-zhao-piano",
@@ -1973,7 +1916,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-04-manhattan-music-and-arts-foundation-recital",
@@ -1992,7 +1935,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-04-from-taverner-to-today-christ-church-cathedral-choir-at-500",
@@ -2011,7 +1954,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-05-prm-gala-concert",
@@ -2030,7 +1973,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-06-kajikis-artist-show-2026",
@@ -2049,7 +1992,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-07-pianohouse-competition-gala",
@@ -2068,7 +2011,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-08-carnegie-halls-opening-night-galaberliner-philharmoniker",
@@ -2087,7 +2030,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-09-sean-jones",
@@ -2106,7 +2049,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-09-classical-nomads",
@@ -2125,7 +2068,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-09-berliner-philharmoniker",
@@ -2144,7 +2087,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-10-italian-reputation-award-ceremony",
@@ -2163,7 +2106,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-10-matt-doyle",
@@ -2182,7 +2125,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-10-special-venue-music-awards-winners-recital",
@@ -2201,7 +2144,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-10-zhengtao-pan-jazz-orchestra-featuring-chris-potter-and-rufus-reid",
@@ -2220,7 +2163,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-10-berliner-philharmoniker",
@@ -2239,7 +2182,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-11-tuudr-piano-competition-gala",
@@ -2258,7 +2201,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-11-berliner-philharmoniker",
@@ -2277,7 +2220,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-11-special-venue-music-awards-winners-recital",
@@ -2296,7 +2239,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-11-deborah-silver-and-fabulous-friends",
@@ -2315,7 +2258,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-12-special-venue-music-awards-winners-recital",
@@ -2334,7 +2277,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-13-the-philadelphia-orchestra",
@@ -2353,7 +2296,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-13-chengcheng-ma-pianoboaz-sharon-piano",
@@ -2372,7 +2315,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-14-trio-azura",
@@ -2391,7 +2334,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-14-the-works-of-alyssa-morris",
@@ -2410,7 +2353,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-15-boris-cepeda-piano",
@@ -2429,7 +2372,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-15-nikos-kazantzakis-an-odyssey-in-music",
@@ -2448,7 +2391,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-16-chopin-competition-winners",
@@ -2467,7 +2410,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-16-takcs-quartet-jeremy-denk-piano",
@@ -2486,7 +2429,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-16-sphinx-virtuosi",
@@ -2505,7 +2448,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-17-hao-liu-piano",
@@ -2524,7 +2467,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-17-orpheus-chamber-orchestralucas-and-arthur-jussen-piano",
@@ -2543,7 +2486,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-17-fang-tao-jiang-soprano-and-guest-artists",
@@ -2562,7 +2505,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-17-george-abraham-and-friends-in-recital",
@@ -2581,7 +2524,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-18-anna-shelest-with-brandywine-valley-symphony-strings",
@@ -2600,7 +2543,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-18-tamar-kurdadze-piano",
@@ -2619,7 +2562,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-19-from-mozart-to-piazzolla-and-beyond",
@@ -2638,7 +2581,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-20-huddle",
@@ -2657,7 +2600,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-20-huddle",
@@ -2676,7 +2619,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-20-richard-dawkins-genes-and-the-meaning-of-life",
@@ -2695,7 +2638,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-20-the-knights",
@@ -2714,7 +2657,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-20-elmira-darvarova-violin",
@@ -2733,7 +2676,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:40Z"
   },
   {
     "id": "carnegie-hall-2026-10-21-huddle",
@@ -2752,7 +2695,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-21-huddle",
@@ -2771,7 +2714,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-21-new-york-chamber-music-festival",
@@ -2790,7 +2733,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-21-yunchan-lim-piano",
@@ -2809,7 +2752,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-22-huddle",
@@ -2828,7 +2771,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-22-huddle",
@@ -2847,7 +2790,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-22-rubinstein-master-competition-winners-recital",
@@ -2866,7 +2809,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-22-steve-reich-at-90",
@@ -2885,7 +2828,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-23-huddle",
@@ -2904,7 +2847,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-23-huddle",
@@ -2923,7 +2866,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-23-mir-quartet",
@@ -2942,7 +2885,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-23-the-new-york-pops",
@@ -2961,7 +2904,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-23-lakecia-benjamin-saxophone",
@@ -2980,7 +2923,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-24-huddle",
@@ -2999,7 +2942,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-24-huddle",
@@ -3018,7 +2961,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-24-the-superior-institute-of-arts-costa-rica-student-recital",
@@ -3037,7 +2980,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-24-pianistically-speaking-an-evening-with-richard-atkins",
@@ -3056,7 +2999,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-25-aysedeniz-gokcin-piano",
@@ -3075,7 +3018,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-25-chopin-competition-winners",
@@ -3094,7 +3037,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-25-mac-demarco",
@@ -3113,7 +3056,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-26-ensemble-connect",
@@ -3132,7 +3075,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-26-mac-demarco",
@@ -3151,7 +3094,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-27-huddle",
@@ -3170,7 +3113,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-27-huddle",
@@ -3189,7 +3132,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-27-opening-gala-of-bulgarian-concert-evenings-in-new-york",
@@ -3208,7 +3151,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-27-american-composers-orchestra",
@@ -3227,7 +3170,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-27-branford-marsalis-and-dianne-reeves-celebrate-john-coltrane",
@@ -3246,7 +3189,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-28-huddle",
@@ -3265,7 +3208,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-28-huddle",
@@ -3284,7 +3227,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-28-orchestra-of-st-lukes-chamber-ensemble",
@@ -3303,7 +3246,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-28-standard-time-with-michael-feinstein",
@@ -3322,7 +3265,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-28-columbus-symphony-orchestra-75th-anniversary-concert",
@@ -3341,7 +3284,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-29-huddle",
@@ -3360,7 +3303,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-29-huddle",
@@ -3379,7 +3322,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-29-youl-sun-piano",
@@ -3398,7 +3341,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-29-festival-chamber-music",
@@ -3417,7 +3360,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-30-huddle",
@@ -3436,7 +3379,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-30-huddle",
@@ -3455,7 +3398,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-30-musicians-from-marlboro",
@@ -3474,7 +3417,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-31-huddle",
@@ -3493,7 +3436,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-31-huddle",
@@ -3512,7 +3455,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-31-new-york-global-music-competition-winners-concert",
@@ -3531,7 +3474,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-31-ag-academy-gala",
@@ -3550,7 +3493,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-31-nathan-carter",
@@ -3569,7 +3512,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-10-31-almir-sater-gabriel-sater-pai-e-filho",
@@ -3588,7 +3531,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-01-sound-of-home-chinese-classical-music-concert",
@@ -3607,7 +3550,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-01-xiaobin-ma-soprano",
@@ -3626,7 +3569,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-03-ischool-of-music-art-recital",
@@ -3645,7 +3588,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-04-carter-johnson-piano",
@@ -3664,7 +3607,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-04-punch-brothers",
@@ -3683,7 +3626,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-05-alisa-weilerstein-fragments-6",
@@ -3702,7 +3645,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-05-the-met-orchestra-chamber-ensemble",
@@ -3721,7 +3664,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-05-orchestra-of-st-lukes",
@@ -3740,7 +3683,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-06-jean-rondeau-harpsichord",
@@ -3759,7 +3702,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-06-chamber-girls-choir-of-the-mv-lysenko-kyiv-state-music-lyceum-and-westchester-childrens-chorus",
@@ -3778,7 +3721,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-07-miclot-chamber-music-society",
@@ -3797,7 +3740,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-07-maybrook-wind-ensemble-live-in-the-big-apple",
@@ -3816,7 +3759,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-07-interharmony-concert-series",
@@ -3835,7 +3778,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-08-florida-keys-international-music-competition-gala",
@@ -3854,7 +3797,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-08-the-senior-concert-orchestra-of-new-york",
@@ -3873,7 +3816,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-08-afaf-winners-concert",
@@ -3892,7 +3835,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-09-nyyvc-winners-recital",
@@ -3911,7 +3854,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-09-zoltn-mga-violin",
@@ -3930,7 +3873,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-10-juilliard-at-zankel-hall",
@@ -3949,7 +3892,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-10-santiago-caon-valencia-cellovictor-santiago-asuncion-piano",
@@ -3968,7 +3911,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-10-oratorio-society-of-new-york",
@@ -3987,7 +3930,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-11-aigul-akhmetshina-mezzo-soprano-jonathan-palmer-lakeland-piano",
@@ -4006,7 +3949,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-12-midatlantic-philharmonic-orchestra",
@@ -4025,7 +3968,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-12-cristiana-pegoraro-piano",
@@ -4044,7 +3987,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
   },
   {
     "id": "carnegie-hall-2026-11-13-new-york-philharmonic",
@@ -4063,6 +4006,44 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-06-23T06:01:47Z"
+    "last_updated": "2026-06-24T06:01:41Z"
+  },
+  {
+    "id": "carnegie-hall-2026-11-13-charu-suri-the-art-of-raga-jazz-american-songbook",
+    "source_id": "carnegie-hall",
+    "title": "Charu Suri: The Art of Raga Jazz & American Songbook",
+    "description": null,
+    "url": "https://www.carnegiehall.org/calendar/2026/11/13/charu-suri-the-art-of-raga-jazz--american-songbook-0800pm",
+    "image_url": null,
+    "venue": "Weill Recital Hall",
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2026-11-13",
+    "end_date": null,
+    "start_time": "20:00",
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-06-24T06:01:41Z"
+  },
+  {
+    "id": "carnegie-hall-2026-11-14-ny-classical-debut-awards",
+    "source_id": "carnegie-hall",
+    "title": "NY Classical Debut Awards",
+    "description": null,
+    "url": "https://www.carnegiehall.org/calendar/2026/11/14/ny-classical-debut-awards-0100pm",
+    "image_url": null,
+    "venue": "Weill Recital Hall",
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2026-11-14",
+    "end_date": null,
+    "start_time": "13:00",
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-06-24T06:01:41Z"
   }
 ]
