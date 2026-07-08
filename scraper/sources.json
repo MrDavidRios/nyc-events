@@ -110,7 +110,7 @@
       "type": "ical",
       "category": "outdoor",
       "scraper": "ical_generic",
-      "favicon_url": null,
+      "favicon_url": "https://cityparksfoundation.org/favicon.ico",
       "enabled": true,
       "notes": "Tribe Events Calendar iCal feed, filtered to SummerStage category"
     },
