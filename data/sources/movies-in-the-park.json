@@ -1,100 +1,5 @@
 [
   {
-    "id": "movies-in-the-park-2026-08-06-movies-under-the-stars-hoppers-pg",
-    "source_id": "movies-in-the-park",
-    "title": "Movies Under the Stars: Hoppers (PG)",
-    "description": "8:30 p.m.\u201310:15 p.m.Animal lover Mabel uses clever new technology designed to \"hop\" human consciousness into lifelike robotic animals to communicate with beavers, uncovering mysteries within the world.Free!",
-    "url": "https://www.nycgovparks.org/events/2026/08/06/movies-under-the-stars-hoppers-pg",
-    "image_url": null,
-    "venue": "at Unisphere (in Flushing Meadows Corona Park), Queens",
-    "address": null,
-    "category": "film",
-    "tags": [],
-    "start_date": "2026-08-06",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
-  },
-  {
-    "id": "movies-in-the-park-2026-08-06-movies-under-the-stars-inside-out-2015",
-    "source_id": "movies-in-the-park",
-    "title": "Movies Under the Stars: Inside Out (2015)",
-    "description": "8:30 p.m.\u201310:00 p.m.Emotions run wild in the mind of a young girl who is uprooted from her peaceful life in the Midwest and forced to move to San Francisco. Joy, Fear, Anger, Disgust and Sadness each...Free!",
-    "url": "https://www.nycgovparks.org/events/2026/08/06/movies-under-the-stars-inside-out-2015",
-    "image_url": null,
-    "venue": "at Lawn Area (in Seaside Wildlife Nature Park), Staten Island",
-    "address": null,
-    "category": "film",
-    "tags": [],
-    "start_date": "2026-08-06",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
-  },
-  {
-    "id": "movies-in-the-park-2026-08-06-movies-under-the-stars-the-land-before-time-1988",
-    "source_id": "movies-in-the-park",
-    "title": "Movies Under the Stars: The Land Before Time (1988)",
-    "description": "8:30 p.m.\u201310:30 p.m.Animated adventure about an orphaned dinosaur named Littlefoot who meets four other dinosaurs while on a trek to find food and water.Free!",
-    "url": "https://www.nycgovparks.org/events/2026/08/06/movies-under-the-stars-the-land-before-time-1988",
-    "image_url": null,
-    "venue": "at 43rd Street and 1st Avenue (in Bush Terminal Park), Brooklyn",
-    "address": null,
-    "category": "film",
-    "tags": [],
-    "start_date": "2026-08-06",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
-  },
-  {
-    "id": "movies-in-the-park-2026-08-06-movies-under-the-stars-the-marvels-2023",
-    "source_id": "movies-in-the-park",
-    "title": "Movies Under the Stars: The Marvels (2023)",
-    "description": "8:30 p.m.\u201310:00 p.m.The extremely powerful Carol Danvers finds her fate inexplicably intertwined with two younger women, Kamala Khan and Monica Rambeau.Free!",
-    "url": "https://www.nycgovparks.org/events/2026/08/06/movies-under-the-stars-the-marvels-2023",
-    "image_url": null,
-    "venue": "at Basketball Courts (in Playground One), Manhattan",
-    "address": null,
-    "category": "film",
-    "tags": [],
-    "start_date": "2026-08-06",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
-  },
-  {
-    "id": "movies-in-the-park-2026-08-06-movies-under-the-stars-zootopia-2",
-    "source_id": "movies-in-the-park",
-    "title": "Movies Under the Stars: Zootopia 2",
-    "description": "8:30 p.m.\u201310:30 p.m.Brave rabbit cop Judy Hopps and her friend, the fox Nick Wilde, team up again to crack a new case...Free!",
-    "url": "https://www.nycgovparks.org/events/2026/08/06/movies-under-the-stars-hamilton",
-    "image_url": null,
-    "venue": "at Athletic Field (in Bill Rainey Park), Bronx",
-    "address": null,
-    "category": "film",
-    "tags": [],
-    "start_date": "2026-08-06",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
-  },
-  {
     "id": "movies-in-the-park-2026-08-07-movies-under-the-stars-gabbys-dollhouse-the-movie-2025",
     "source_id": "movies-in-the-park",
     "title": "Movies Under the Stars: Gabby's Dollhouse: The Movie (2025)",
@@ -111,7 +16,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-07-movies-under-the-stars-goat-pg",
@@ -130,7 +35,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-07-movies-under-the-stars-jaws-1975",
@@ -149,7 +54,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-07-movies-under-the-stars-superman",
@@ -168,7 +73,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-07-movies-under-the-stars-the-bad-guys-2",
@@ -187,14 +92,14 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
-    "id": "movies-in-the-park-2026-08-08-movies-under-the-stars-how-to-train-your-dragon-2010",
+    "id": "movies-in-the-park-2026-08-08-movies-under-the-stars-how-to-train-your-dragon-2025",
     "source_id": "movies-in-the-park",
-    "title": "Movies Under the Stars: How to Train Your Dragon (2010)",
-    "description": "8:00 p.m.\u201310:00 p.m.A misfit Viking teen befriends a dragon, despite his tribe's tradition of dragon slaying, in this adaptation of the children's fantasy book by Cressida Cowell.Free!",
-    "url": "https://www.nycgovparks.org/events/2026/08/08/movies-under-the-stars-how-to-train-your-dragon-2010",
+    "title": "Movies Under the Stars: How to Train Your Dragon (2025)",
+    "description": "8:15 p.m.\u201310:15 p.m.On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart.Free!",
+    "url": "https://www.nycgovparks.org/events/2026/08/08/movies-under-the-stars-how-to-train-your-dragon-2025",
     "image_url": null,
     "venue": "at Basketball Courts (in Crack Is Wack Playground), Manhattan",
     "address": null,
@@ -206,7 +111,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-08-movies-under-the-stars-grease-1978",
@@ -225,7 +130,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-08-movies-under-the-stars-hoppers",
@@ -244,7 +149,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-08-movies-under-the-stars-the-bad-guys-2-pg",
@@ -263,7 +168,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-08-movies-under-the-stats-the-princess-and-the-frog",
@@ -282,7 +187,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-09-movies-under-the-stars-clash-of-the-titans-1981-rated-pg",
@@ -301,7 +206,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-10-movies-under-the-stars-hoppers-2026-rated-pg",
@@ -320,7 +225,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-11-movies-under-the-stars-the-warrior-queen-of-jhansi",
@@ -339,7 +244,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-11-movies-under-the-stars-freaky-friday-2003",
@@ -358,7 +263,26 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
+  },
+  {
+    "id": "movies-in-the-park-2026-08-12-movies-under-the-stars-hoppers-2026",
+    "source_id": "movies-in-the-park",
+    "title": "Movies Under the Stars: Hoppers (2026)",
+    "description": "8:15 p.m.\u201310:00 p.m.Animal lover Mabel uses clever new technology designed to \"hop\" human consciousness into lifelike robotic animals to communicate with beavers, uncovering mysteries within the animal...Free!",
+    "url": "https://www.nycgovparks.org/events/2026/08/12/movies-under-the-stars-hoppers-2026",
+    "image_url": null,
+    "venue": "at Baruch Playground, Manhattan",
+    "address": null,
+    "category": "film",
+    "tags": [],
+    "start_date": "2026-08-12",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-12-movies-under-the-stars-black-panther-2018",
@@ -377,26 +301,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
-  },
-  {
-    "id": "movies-in-the-park-2026-08-12-movies-under-the-stars-hoppers-2026",
-    "source_id": "movies-in-the-park",
-    "title": "Movies Under the Stars: Hoppers (2026)",
-    "description": "8:30 p.m.\u201310:15 p.m.Animal lover Mabel uses clever new technology designed to \"hop\" human consciousness into lifelike robotic animals to communicate with beavers, uncovering mysteries within the animal...Free!",
-    "url": "https://www.nycgovparks.org/events/2026/08/12/movies-under-the-stars-hoppers-2026",
-    "image_url": null,
-    "venue": "at Baruch Playground, Manhattan",
-    "address": null,
-    "category": "film",
-    "tags": [],
-    "start_date": "2026-08-12",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-12-movies-under-the-stars-past-lives",
@@ -415,7 +320,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-12-movies-under-the-stars-the-spongebob-movie-search-for-squarepants",
@@ -434,13 +339,13 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-13-movies-under-the-stars-black-panther",
     "source_id": "movies-in-the-park",
     "title": "Movies Under the Stars: Black Panther",
-    "description": "8:00 p.m.\u201310:30 p.m.A superhero known as Black Panther defends Wakanda, a technologically advanced country in Africa that has hidden itself away from the rest of the world. Now, he must face a dissident...Free!",
+    "description": "8:15 p.m.\u201310:45 p.m.A superhero known as Black Panther defends Wakanda, a technologically advanced country in Africa that has hidden itself away from the rest of the world. Now, he must face a dissident...Free!",
     "url": "https://www.nycgovparks.org/events/2026/08/13/movies-under-the-stars-black-panther",
     "image_url": null,
     "venue": "at North Plaza (in Union Square Park), Manhattan",
@@ -453,7 +358,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-13-movies-under-the-stars-jurassic-park-1993",
@@ -472,7 +377,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-13-movies-under-the-stars-love-basketball-2000",
@@ -491,7 +396,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-13-movies-under-the-stars-teenage-mutant-ninja-turtles-2014",
@@ -510,7 +415,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-14-movies-under-the-star-nacho-libre-2006",
@@ -529,7 +434,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-14-movies-under-the-stars-freakier-friday",
@@ -548,7 +453,26 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
+  },
+  {
+    "id": "movies-in-the-park-2026-08-14-movies-under-the-stars-michael-2026",
+    "source_id": "movies-in-the-park",
+    "title": "Movies Under the Stars: Michael (2026)",
+    "description": "8:15 p.m.\u20139:45 p.m.The story of the famous musician Michael Jackson, known as the King of Pop.Free!",
+    "url": "https://www.nycgovparks.org/events/2026/08/14/movies-under-the-stars-michael-2026",
+    "image_url": null,
+    "venue": "at Fred Samuel Playground - Play Area (in Fred Samuel Playground), Manhattan",
+    "address": null,
+    "category": "film",
+    "tags": [],
+    "start_date": "2026-08-14",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-14-movies-under-the-stars-back-to-the-future-1985-rated-pg",
@@ -567,7 +491,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-14-movies-under-the-stars-inside-out-2-2024",
@@ -586,45 +510,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
-  },
-  {
-    "id": "movies-in-the-park-2026-08-14-movies-under-the-stars-michael-2026",
-    "source_id": "movies-in-the-park",
-    "title": "Movies Under the Stars: Michael (2026)",
-    "description": "8:30 p.m.\u201310:00 p.m.The story of the famous musician Michael Jackson, known as the King of Pop.Free!",
-    "url": "https://www.nycgovparks.org/events/2026/08/14/movies-under-the-stars-michael-2026",
-    "image_url": null,
-    "venue": "at Fred Samuel Playground - Play Area (in Fred Samuel Playground), Manhattan",
-    "address": null,
-    "category": "film",
-    "tags": [],
-    "start_date": "2026-08-14",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
-  },
-  {
-    "id": "movies-in-the-park-2026-08-15-movies-under-the-stars-greenland-2-migration",
-    "source_id": "movies-in-the-park",
-    "title": "Movies Under the Stars: Greenland 2 Migration",
-    "description": "8:00 p.m.\u201310:00 p.m.The surviving Garrity family must leave the safety of the Greenland bunker and embark on a perilous journey across the decimated frozen wasteland of Europe to find a new home.Free!",
-    "url": "https://www.nycgovparks.org/events/2026/08/15/movies-under-the-stars-greenland-2-migration",
-    "image_url": null,
-    "venue": "at Pier 35 (in East River Waterfront Esplanade), Manhattan",
-    "address": null,
-    "category": "film",
-    "tags": [],
-    "start_date": "2026-08-15",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-15-movies-under-the-stars-wicked-for-good-2025",
@@ -643,7 +529,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-15-movies-under-the-stars-goat-pg",
@@ -662,7 +548,26 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
+  },
+  {
+    "id": "movies-in-the-park-2026-08-15-movies-under-the-stars-greenland-2-migration",
+    "source_id": "movies-in-the-park",
+    "title": "Movies Under the Stars: Greenland 2 Migration",
+    "description": "8:15 p.m.\u201310:15 p.m.The surviving Garrity family must leave the safety of the Greenland bunker and embark on a perilous journey across the decimated frozen wasteland of Europe to find a new home.Free!",
+    "url": "https://www.nycgovparks.org/events/2026/08/15/movies-under-the-stars-greenland-2-migration",
+    "image_url": null,
+    "venue": "at Pier 35 (in East River Waterfront Esplanade), Manhattan",
+    "address": null,
+    "category": "film",
+    "tags": [],
+    "start_date": "2026-08-15",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-15-movies-under-the-stars-freakier-friday-2025",
@@ -681,7 +586,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-15-movies-under-the-stars-how-to-train-your-dragon",
@@ -700,7 +605,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-16-movies-under-the-stars-the-little-rascals-1994-rated-pg",
@@ -719,7 +624,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-17-movies-under-the-stars-project-hail-mary-2026-rated-pg-13",
@@ -738,7 +643,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-18-movies-under-the-stars-giants-of-africa",
@@ -757,7 +662,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-19-movies-under-the-stars-guardians-of-the-galaxy-2014",
@@ -776,13 +681,13 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-19-movies-under-the-stars-arco",
     "source_id": "movies-in-the-park",
     "title": "Movies Under the Stars: Arco",
-    "description": "8:30 p.m.\u201310:00 p.m.In 2075, a girl shelters a boy from a far future and risks everything to help him get home.Free!",
+    "description": "8:15 p.m.\u20139:45 p.m.In 2075, a girl shelters a boy from a far future and risks everything to help him get home.Free!",
     "url": "https://www.nycgovparks.org/events/2026/08/19/movies-under-the-stars-arco",
     "image_url": null,
     "venue": "at Play Area (in Brigadier General Charles Young Playground), Manhattan",
@@ -795,7 +700,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-19-movies-under-the-stars-wicked-for-good",
@@ -814,7 +719,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-20-movies-under-the-stars-lilo-stitch-2025-rated-pg",
@@ -833,7 +738,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-20-movies-under-the-stars-shrek-2001",
@@ -852,7 +757,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-20-movies-under-the-stars-teenage-mutant-ninja-turtles-mutant-mayhem-2023",
@@ -871,7 +776,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-20-movies-under-the-stars-the-spongebob-movie-search-for-squarepants",
@@ -890,7 +795,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-21-movies-under-the-stars-michael-2026",
@@ -909,7 +814,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-21-movies-under-the-stars-the-princess-and-the-frog-2009-rated-g",
@@ -928,7 +833,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
   },
   {
     "id": "movies-in-the-park-2026-08-21-movies-under-the-stars-arco-2025",
@@ -947,6 +852,101 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-08-06T04:59:27Z"
+    "last_updated": "2026-08-07T04:21:50Z"
+  },
+  {
+    "id": "movies-in-the-park-2026-08-21-movies-under-the-stars-gabbys-dollhouse-the-movie",
+    "source_id": "movies-in-the-park",
+    "title": "Movies Under the Stars: Gabby's Dollhouse: The Movie",
+    "description": "8:30 p.m.\u201310:30 p.m.Gabby heads out on a road trip with her Grandma Gigi to the urban wonderland of Cat Francisco...Free!",
+    "url": "https://www.nycgovparks.org/events/2026/08/21/movies-under-the-stars-gabbys-dollhouse-the-movie",
+    "image_url": null,
+    "venue": "at Athletic Field (in Evelina Antonetty Playground), Bronx",
+    "address": null,
+    "category": "film",
+    "tags": [],
+    "start_date": "2026-08-21",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-08-07T04:21:50Z"
+  },
+  {
+    "id": "movies-in-the-park-2026-08-22-movies-under-the-stars-hoppers-2026",
+    "source_id": "movies-in-the-park",
+    "title": "Movies Under the Stars: Hoppers (2026)",
+    "description": "8:00 p.m.\u201310:00 p.m.Animal lover Mabel uses clever new technology designed to \"hop\" human consciousness into lifelike robotic animals to communicate with beavers.Free!",
+    "url": "https://www.nycgovparks.org/events/2026/08/22/movies-under-the-stars-hoppers-2026",
+    "image_url": null,
+    "venue": "at Seth Low Playground (in Seth Low Playground/ Bealin Square), Brooklyn",
+    "address": null,
+    "category": "film",
+    "tags": [],
+    "start_date": "2026-08-22",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-08-07T04:21:50Z"
+  },
+  {
+    "id": "movies-in-the-park-2026-08-22-movies-under-the-stars-hoppers",
+    "source_id": "movies-in-the-park",
+    "title": "Movies Under the Stars: Hoppers",
+    "description": "8:15 p.m.\u20139:45 p.m.Animal lover Mabel uses clever new technology designed to \"hop\" human consciousness into lifelike robotic animals to communicate with beavers.Free!",
+    "url": "https://www.nycgovparks.org/events/2026/08/22/movies-under-the-stars-hoppers",
+    "image_url": null,
+    "venue": "at Soccer Field (in Thomas Jefferson Park), Manhattan",
+    "address": null,
+    "category": "film",
+    "tags": [],
+    "start_date": "2026-08-22",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-08-07T04:21:50Z"
+  },
+  {
+    "id": "movies-in-the-park-2026-08-22-movies-under-the-stars-michael-2026",
+    "source_id": "movies-in-the-park",
+    "title": "Movies Under the Stars: Michael (2026)",
+    "description": "8:15 p.m.\u201310:15 p.m.The story of the famous musician Michael Jackson, known as the King of Pop.Free!",
+    "url": "https://www.nycgovparks.org/events/2026/08/22/movies-under-the-stars-michael-2026",
+    "image_url": null,
+    "venue": "at Brookville Boulevard and Caney Road (in Brookville Park), Queens",
+    "address": null,
+    "category": "film",
+    "tags": [],
+    "start_date": "2026-08-22",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-08-07T04:21:50Z"
+  },
+  {
+    "id": "movies-in-the-park-2026-08-22-movies-under-the-stars-the-longshots",
+    "source_id": "movies-in-the-park",
+    "title": "Movies Under the Stars: The Longshots",
+    "description": "8:30 p.m.\u201310:30 p.m.An 11-year-old girl becomes quarterback of a down-on-their luck Pop Warner football team...Free!",
+    "url": "https://www.nycgovparks.org/events/2026/08/22/movies-under-the-stars-the-longshots",
+    "image_url": null,
+    "venue": "at Playground (in Mill Pond Park), Bronx",
+    "address": null,
+    "category": "film",
+    "tags": [],
+    "start_date": "2026-08-22",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-08-07T04:21:50Z"
   }
 ]
