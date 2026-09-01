@@ -7,7 +7,7 @@
       "type": "html",
       "category": "performing-arts",
       "scraper": "html_lincoln_center",
-      "favicon_url": "https://www.lincolncenter.org/assets/images/favicon.ico?v=v15.0.0",
+      "favicon_url": "https://d21elokeqb3yai.cloudfront.net/assets/images/favicon.ico?v=v15.0.0",
       "enabled": true,
       "use_browser": true,
       "notes": "SPA calendar \u2014 uses Playwright to navigate months"
