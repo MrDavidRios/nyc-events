@@ -4937,7 +4937,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-09-02T06:39:48Z"
+    "last_updated": "2026-09-03T06:42:02Z"
   },
   {
     "id": "lincoln-center-2026-09-01-samba-traor",
@@ -4956,7 +4956,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-09-02T06:39:48Z"
+    "last_updated": "2026-09-03T06:42:02Z"
   },
   {
     "id": "lincoln-center-2026-09-01-the-samurai-and-the-prisoner",
@@ -4975,7 +4975,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-09-02T06:39:48Z"
+    "last_updated": "2026-09-03T06:42:02Z"
   },
   {
     "id": "lincoln-center-2026-09-01-the-changeling",
@@ -4994,7 +4994,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-09-02T06:39:48Z"
+    "last_updated": "2026-09-03T06:42:02Z"
   },
   {
     "id": "lincoln-center-2026-09-01-classical-period-all-the-worlds-memory",
@@ -5013,7 +5013,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-09-02T06:39:48Z"
+    "last_updated": "2026-09-03T06:42:02Z"
   },
   {
     "id": "lincoln-center-2026-09-01-late-fame",
@@ -5032,7 +5032,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-09-02T06:39:48Z"
+    "last_updated": "2026-09-03T06:42:02Z"
   },
   {
     "id": "lincoln-center-2026-09-01-salsa-meets-jazz-gone-but-not-forgotten",
@@ -5051,7 +5051,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-09-02T06:39:48Z"
+    "last_updated": "2026-09-03T06:42:02Z"
   },
   {
     "id": "lincoln-center-2026-09-01-indiana-jones-and-the-last-crusade-on-70mm",
@@ -5070,6 +5070,196 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-09-02T06:39:48Z"
+    "last_updated": "2026-09-03T06:42:02Z"
+  },
+  {
+    "id": "lincoln-center-2026-09-02-franz",
+    "source_id": "lincoln-center",
+    "title": "Franz",
+    "description": null,
+    "url": "https://www.filmlinc.org/films/franz",
+    "image_url": null,
+    "venue": "Film at Lincoln Center",
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2026-09-02",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-09-03T06:42:02Z"
+  },
+  {
+    "id": "lincoln-center-2026-09-02-samba-traor",
+    "source_id": "lincoln-center",
+    "title": "Samba Traor\u00e9",
+    "description": null,
+    "url": "https://www.filmlinc.org/films/samba-traor\u00e9",
+    "image_url": null,
+    "venue": "Film at Lincoln Center",
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2026-09-02",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-09-03T06:42:02Z"
+  },
+  {
+    "id": "lincoln-center-2026-09-02-reversal-of-fortune",
+    "source_id": "lincoln-center",
+    "title": "Reversal of Fortune",
+    "description": null,
+    "url": "https://www.filmlinc.org/films/reversal-of-fortune",
+    "image_url": null,
+    "venue": "Film at Lincoln Center",
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2026-09-02",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-09-03T06:42:02Z"
+  },
+  {
+    "id": "lincoln-center-2026-09-02-the-samurai-and-the-prisoner",
+    "source_id": "lincoln-center",
+    "title": "The Samurai and the Prisoner",
+    "description": null,
+    "url": "https://www.filmlinc.org/films/the-samurai-and-the-prisoner",
+    "image_url": null,
+    "venue": "Film at Lincoln Center",
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2026-09-02",
+    "end_date": null,
+    "start_time": "15:00",
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-09-03T06:42:02Z"
+  },
+  {
+    "id": "lincoln-center-2026-09-02-classical-period-all-the-worlds-memory",
+    "source_id": "lincoln-center",
+    "title": "Classical Period + All the World\u2019s Memory",
+    "description": null,
+    "url": "https://www.filmlinc.org/films/classical-period-+-all-the-world\u2019s-memory",
+    "image_url": null,
+    "venue": "Film at Lincoln Center",
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2026-09-02",
+    "end_date": null,
+    "start_time": "16:00",
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-09-03T06:42:02Z"
+  },
+  {
+    "id": "lincoln-center-2026-09-02-juilliard-convocation",
+    "source_id": "lincoln-center",
+    "title": "Juilliard Convocation",
+    "description": null,
+    "url": "https://www.juilliard.edu/event/187256/juilliard-convocation",
+    "image_url": null,
+    "venue": "The Juilliard School",
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2026-09-02",
+    "end_date": null,
+    "start_time": "16:30",
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-09-03T06:42:02Z"
+  },
+  {
+    "id": "lincoln-center-2026-09-02-the-matter-propounded-three-films-by-david-gatten",
+    "source_id": "lincoln-center",
+    "title": "The Matter Propounded: Three Films by David Gatten",
+    "description": null,
+    "url": "https://www.filmlinc.org/films/the-matter-propounded:-three-films-by-david-gatten",
+    "image_url": null,
+    "venue": "Film at Lincoln Center",
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2026-09-02",
+    "end_date": null,
+    "start_time": "18:00",
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-09-03T06:42:02Z"
+  },
+  {
+    "id": "lincoln-center-2026-09-02-late-fame",
+    "source_id": "lincoln-center",
+    "title": "Late Fame",
+    "description": null,
+    "url": "https://www.filmlinc.org/films/late-fame",
+    "image_url": null,
+    "venue": "Film at Lincoln Center",
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2026-09-02",
+    "end_date": null,
+    "start_time": "18:00",
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-09-03T06:42:02Z"
+  },
+  {
+    "id": "lincoln-center-2026-09-02-yoko-miwa-trio-with-special-guest-mikayla-shirley",
+    "source_id": "lincoln-center",
+    "title": "Yoko Miwa Trio with special guest Mikayla Shirley",
+    "description": null,
+    "url": "https://ticketing.jazz.org/21277/21278",
+    "image_url": null,
+    "venue": "Jazz at Lincoln Center",
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2026-09-02",
+    "end_date": null,
+    "start_time": "19:00",
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-09-03T06:42:02Z"
+  },
+  {
+    "id": "lincoln-center-2026-09-02-hd-festival-wagners-tristan-und-isolde-act-i",
+    "source_id": "lincoln-center",
+    "title": "HD Festival: Wagner\u2019s Tristan und Isolde, Act I",
+    "description": null,
+    "url": "https://www.metopera.org/season/summer-events/summer-hd-festival/",
+    "image_url": null,
+    "venue": "The Metropolitan Opera",
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2026-09-02",
+    "end_date": null,
+    "start_time": "20:00",
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-09-03T06:42:02Z"
   }
 ]
