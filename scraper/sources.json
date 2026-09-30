@@ -19,7 +19,7 @@
       "type": "html",
       "category": "performing-arts",
       "scraper": "html_carnegie_hall",
-      "favicon_url": "https://assets.queue-it.net/static/QueueFront/img/apple-touch-icon-144x144_29e646ca6d609e633b5f791d0913604f.png",
+      "favicon_url": "https://www.carnegiehall.org/apple-touch-icon.png",
       "enabled": true,
       "use_browser": true,
       "notes": "Custom scraper \u2014 date groups with .ch-event cards"
