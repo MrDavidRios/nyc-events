@@ -4351,63 +4351,6 @@
     "last_updated": "2026-08-07T04:21:50Z"
   },
   {
-    "id": "carnegie-hall-2026-10-01-ludovico-einaudi",
-    "source_id": "carnegie-hall",
-    "title": "Ludovico Einaudi",
-    "description": null,
-    "url": "https://www.carnegiehall.org/calendar/2026/10/01/ludovico-einaudi-0800pm",
-    "image_url": null,
-    "venue": "Stern Auditorium / Perelman Stage",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-01",
-    "end_date": null,
-    "start_time": "20:00",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
-  },
-  {
-    "id": "carnegie-hall-2026-10-01-diana-jipa-violintefan-doniga-piano",
-    "source_id": "carnegie-hall",
-    "title": "Diana Jipa, Violin\u0218tefan Doniga, Piano",
-    "description": null,
-    "url": "https://www.carnegiehall.org/calendar/2026/10/01/diana-jipa-violin-stefan-doniga-piano-0800pm",
-    "image_url": null,
-    "venue": "Weill Recital Hall",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-01",
-    "end_date": null,
-    "start_time": "20:00",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
-  },
-  {
-    "id": "lincoln-center-2026-10-01-lincoln-center-tours",
-    "source_id": "lincoln-center",
-    "title": "Lincoln Center Tours",
-    "description": null,
-    "url": "https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-01",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
-  },
-  {
     "id": "lincoln-center-2026-10-01-rose",
     "source_id": "lincoln-center",
     "title": "Rose",
@@ -4424,7 +4367,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-jazz-at-lincoln-center-presents-the-life-and-music-of-thelonious-monk",
@@ -4443,7 +4386,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-joy-of-joys",
@@ -4462,7 +4405,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-possible-love",
@@ -4481,7 +4424,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-making-marie-antoinette",
@@ -4500,7 +4443,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-pelechian-project-program-2",
@@ -4519,7 +4462,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-a-long-winter",
@@ -4538,7 +4481,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-pelechian-project-program-1",
@@ -4557,7 +4500,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-free-talk-marcel-dzama",
@@ -4576,7 +4519,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-all-of-a-sudden",
@@ -4595,7 +4538,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-free-talk-making-the-cut",
@@ -4614,7 +4557,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-edward-said-between-worlds",
@@ -4633,7 +4576,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-bardi",
@@ -4652,7 +4595,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-creation-stories-and-all-the-important-importants",
@@ -4671,7 +4614,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-rush-hour-performance-sillage-songs-of-scent-and-memory",
@@ -4690,7 +4633,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-foreign-travel",
@@ -4709,7 +4652,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-fall-fashion-gala",
@@ -4728,7 +4671,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-puccinis-la-bohme",
@@ -4747,7 +4690,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-lang-lang-gustavo-dudamel",
@@ -4766,7 +4709,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-spilatas-birthday-bash-celebration",
@@ -4785,7 +4728,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-paula-west",
@@ -4804,7 +4747,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-axiom",
@@ -4823,7 +4766,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-the-drift",
@@ -4842,7 +4785,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-i-deserve-a-lover-whose-every-rise-sets-fiery-dooms-raging-across-the-skies",
@@ -4861,7 +4804,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-the-loneliest-man-in-town",
@@ -4880,7 +4823,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-01-cameron-winter-at-carnegie-hall",
@@ -4899,7 +4842,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "summerstage-2026-10-01-the-age-of-the-ram-tour-charley-crockett-with-special-guests-durand-jones-and-the-indications-honky-tonkin-in-queens",
@@ -4937,7 +4880,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-02-voices-unbound-a-benefit-concert-of-new-chamber-works-for-facta-non-verba",
@@ -4956,7 +4899,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-02-ludovico-einaudi",
@@ -4975,7 +4918,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-02-lincoln-center-tours",
@@ -4994,7 +4937,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-i-deserve-a-lover-whose-every-rise-sets-fiery-dooms-raging-across-the-skies",
@@ -5013,7 +4956,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-cameron-winter-at-carnegie-hall",
@@ -5032,7 +4975,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-the-loneliest-man-in-town",
@@ -5051,7 +4994,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-paper-tiger",
@@ -5070,7 +5013,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-edward-said-between-worlds",
@@ -5089,7 +5032,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-all-of-a-sudden",
@@ -5108,7 +5051,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-the-unknown",
@@ -5127,7 +5070,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-misty-green",
@@ -5146,7 +5089,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-in-which-annie-gives-it-those-ones",
@@ -5165,7 +5108,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-my-wife-cries",
@@ -5184,7 +5127,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-contemporary-portugal-at-lincoln-center",
@@ -5203,7 +5146,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-recollections",
@@ -5222,7 +5165,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-rush-hour-performance-gradual-process-a-toast-to-steve-reich",
@@ -5241,7 +5184,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-behemoth",
@@ -5260,7 +5203,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-tomorrow-a-long-time-ago",
@@ -5279,7 +5222,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-foreign-travel",
@@ -5298,7 +5241,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-talk-kleber-mendona-filho-on-south-of-tehran",
@@ -5317,7 +5260,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-verdis-macbeth",
@@ -5336,7 +5279,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-contemporary-choreography-i",
@@ -5355,7 +5298,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-yo-yo-ma-gustavo-dudamel",
@@ -5374,7 +5317,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-creation-stories-and-all-the-important-importants",
@@ -5393,7 +5336,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-paula-west",
@@ -5412,7 +5355,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-joy-of-joys",
@@ -5431,7 +5374,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-catherine-russell-and-friends-with-special-guest-cyndi-lauper",
@@ -5450,7 +5393,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-the-remotes",
@@ -5469,7 +5412,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-02-bardi",
@@ -5488,7 +5431,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-03-american-masters-music-awards-winners-concert",
@@ -5507,7 +5450,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-03-hai-kyung-suh-piano",
@@ -5526,7 +5469,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-03-ilya-kaler-violinrasa-vitkauskaite-pianowith-special-guests-paquito-drivera-jonathan-cohler-dave-eggar-gregg-august-makeda-hampton-and-mak-grgic",
@@ -5545,7 +5488,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-03-new-york-franz-liszt-international-piano-competition-grand-final",
@@ -5564,7 +5507,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-03-pelechian-project-program-2",
@@ -5583,7 +5526,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-contemporary-portugal-at-lincoln-center",
@@ -5602,7 +5545,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-behemoth",
@@ -5621,7 +5564,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-overt-listening",
@@ -5640,7 +5583,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-mozarts-cos-fan-tutte",
@@ -5659,7 +5602,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-new-classics-film-series-et",
@@ -5678,7 +5621,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-amos-vogel-lecture-rysuke-hamaguchi",
@@ -5697,7 +5640,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-tomorrow-a-long-time-ago",
@@ -5716,7 +5659,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-masters-at-work-i",
@@ -5735,7 +5678,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-tocar-y-luchar-to-play-and-to-strive",
@@ -5754,7 +5697,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-creation-stories-and-all-the-important-importants",
@@ -5773,7 +5716,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-in-which-annie-gives-it-those-ones",
@@ -5792,7 +5735,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-song-bridge",
@@ -5811,7 +5754,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-nitrate-kisses",
@@ -5830,7 +5773,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-minotaur",
@@ -5849,7 +5792,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-gone-to-earth",
@@ -5868,7 +5811,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-the-remotes",
@@ -5887,7 +5830,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-everytime",
@@ -5906,7 +5849,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-suicide-note",
@@ -5925,7 +5868,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-a-statement",
@@ -5944,7 +5887,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-what-cant-be-mentioned",
@@ -5963,7 +5906,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-possible-love",
@@ -5982,7 +5925,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-heil-jupiter",
@@ -6001,7 +5944,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-puccinis-la-bohme",
@@ -6020,7 +5963,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-paula-west",
@@ -6039,7 +5982,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-catherine-russell-and-friends-with-special-guest-cyndi-lauper",
@@ -6058,7 +6001,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-at-night",
@@ -6077,7 +6020,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-club-kid",
@@ -6096,7 +6039,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-03-linnocente",
@@ -6115,7 +6058,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-04-mohan-liu-piano-yangmingtian-zhao-piano-steven-spooner-piano",
@@ -6134,7 +6077,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-04-frieren-beyond-journeys-end-film-concert",
@@ -6153,7 +6096,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-04-manhattan-international-piano-competition-winners-recital",
@@ -6172,7 +6115,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-04-from-taverner-to-today-christ-church-cathedral-choir-at-500",
@@ -6191,7 +6134,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-04-nyff64-member-day",
@@ -6210,7 +6153,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-dao",
@@ -6229,7 +6172,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-fatherland",
@@ -6248,7 +6191,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-what-cant-be-mentioned",
@@ -6267,7 +6210,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-just-like-weather",
@@ -6286,7 +6229,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-once-upon-a-time-in-harlem",
@@ -6305,7 +6248,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-creation-stories-and-all-the-important-importants",
@@ -6324,7 +6267,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-bardi",
@@ -6343,7 +6286,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-yesterday-girl",
@@ -6362,7 +6305,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-club-kid",
@@ -6381,7 +6324,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-overt-listening",
@@ -6400,7 +6343,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-contemporary-choreography-i",
@@ -6419,7 +6362,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-free-event-nyff-trivia-night",
@@ -6438,7 +6381,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-rose",
@@ -6457,7 +6400,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-one-more-time",
@@ -6476,7 +6419,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-gone-to-earth",
@@ -6495,7 +6438,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-misty-green",
@@ -6514,7 +6457,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-at-night",
@@ -6533,7 +6476,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-clarissa",
@@ -6552,7 +6495,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-free-talk-nyff-currents-and-the-edges-of-cinema",
@@ -6571,7 +6514,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-songbook-sundays-kander-ebb",
@@ -6590,7 +6533,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-spotlight-shorts",
@@ -6609,7 +6552,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-juilliard-wind-orchestra",
@@ -6628,7 +6571,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-all-of-a-sudden",
@@ -6647,7 +6590,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-everything-else-is-noise",
@@ -6666,7 +6609,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-suicide-note",
@@ -6685,7 +6628,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-fjord",
@@ -6704,7 +6647,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-04-a-statement",
@@ -6723,7 +6666,26 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
+  },
+  {
+    "id": "carnegie-hall-2026-10-05-guided-tours",
+    "source_id": "carnegie-hall",
+    "title": "Guided Tours",
+    "description": null,
+    "url": "https://www.carnegiehall.org/Visit/Tour/Tours",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2026-10-05",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-05-prm-gala-concert",
@@ -6742,7 +6704,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-05-a-celebration-of-rodgers-and-hart",
@@ -6761,7 +6723,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-05-minotaur",
@@ -6780,7 +6742,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-clarissa",
@@ -6799,7 +6761,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-everything-else-is-noise",
@@ -6818,7 +6780,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-heil-jupiter",
@@ -6837,7 +6799,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-fatherland",
@@ -6856,7 +6818,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-dao",
@@ -6875,7 +6837,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-talk-pedro-almodvar-sofia-coppola",
@@ -6894,7 +6856,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-yesterday-girl",
@@ -6913,7 +6875,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-fjord",
@@ -6932,7 +6894,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-artificial",
@@ -6951,7 +6913,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-club-kid",
@@ -6970,7 +6932,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-the-other-mr-b-how-buddy-bradleys-dance-genius-transformed-ballet-movement",
@@ -6989,7 +6951,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-one-more-time",
@@ -7008,7 +6970,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-memoirs-of-a-magic-queen-restoring-adelaide-herrmanns-lost-legacy",
@@ -7027,7 +6989,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-nitrate-kisses",
@@ -7046,7 +7008,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-free-talk-alain-gomis-arie-and-chuko-esiri",
@@ -7065,7 +7027,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-verdis-macbeth",
@@ -7084,7 +7046,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-amaryllis-2-with-juilliard-dance",
@@ -7103,7 +7065,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-ted-nash-big-band-presidential-suite",
@@ -7122,7 +7084,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-the-dreamed-adventure",
@@ -7141,7 +7103,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-double-freedom",
@@ -7160,7 +7122,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-what-cant-be-mentioned",
@@ -7179,7 +7141,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-spotlight-shorts",
@@ -7198,7 +7160,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-05-pelechian-project-program-1",
@@ -7217,7 +7179,26 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
+  },
+  {
+    "id": "carnegie-hall-2026-10-06-guided-tours",
+    "source_id": "carnegie-hall",
+    "title": "Guided Tours",
+    "description": null,
+    "url": "https://www.carnegiehall.org/Visit/Tour/Tours",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2026-10-06",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-06-the-15th-kajikis-artist-show",
@@ -7236,7 +7217,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-06-behemoth",
@@ -7255,7 +7236,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-linnocente",
@@ -7274,7 +7255,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-gone-to-earth",
@@ -7293,7 +7274,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-tender-loving-care",
@@ -7312,7 +7293,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-artificial",
@@ -7331,7 +7312,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-what-cant-be-mentioned",
@@ -7350,7 +7331,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-everytime",
@@ -7369,7 +7350,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-a-statement",
@@ -7388,7 +7369,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-free-talk-indiewire-presents-screen-talk-live-at-nyff64",
@@ -7407,7 +7388,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-nitrate-kisses",
@@ -7426,7 +7407,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-bitter-christmas",
@@ -7445,7 +7426,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-rush-hour-performance",
@@ -7464,7 +7445,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-house-dance-roots-movement",
@@ -7483,7 +7464,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-free-talk-film-comment-live-sex-in-the-cinema",
@@ -7502,7 +7483,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-fatherland",
@@ -7521,7 +7502,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-bucking-fastard-in-the-bronx",
@@ -7540,7 +7521,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-i-rarely-wake-up-dreaming",
@@ -7559,7 +7540,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-double-freedom",
@@ -7578,7 +7559,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-report-to-mother",
@@ -7597,7 +7578,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-mozarts-cos-fan-tutte",
@@ -7616,7 +7597,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-contemporary-choreography-i",
@@ -7635,7 +7616,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-creation-stories-and-all-the-important-importants",
@@ -7654,7 +7635,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-juilliard-jazz-ensembles-federal-government-and-states-rights-the-music-of-jelly-roll-morton-and-joe-oliver",
@@ -7673,7 +7654,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-free-event-nyff-trivia-night",
@@ -7692,7 +7673,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-bluesday-doug-wamble-blues-in-the-present-tense",
@@ -7711,7 +7692,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-a-man-of-his-time",
@@ -7730,7 +7711,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-dao",
@@ -7749,7 +7730,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-the-day-she-returns",
@@ -7768,7 +7749,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-for-the-moon",
@@ -7787,7 +7768,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-06-pelechian-project-program-2",
@@ -7806,7 +7787,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-07-adam-gyorgy-foundation-gala-2026",
@@ -7825,7 +7806,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-07-rose",
@@ -7844,7 +7825,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-club-kid",
@@ -7863,7 +7844,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-marthas-influence-the-effect-of-the-necessity-hers-mine",
@@ -7882,7 +7863,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-i-rarely-wake-up-dreaming",
@@ -7901,7 +7882,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-creation-stories-and-all-the-important-importants",
@@ -7920,7 +7901,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-linnocente",
@@ -7939,7 +7920,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-a-man-of-his-time",
@@ -7958,7 +7939,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-bitter-christmas",
@@ -7977,7 +7958,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-fatherland",
@@ -7996,7 +7977,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-the-dreamed-adventure",
@@ -8015,14 +7996,14 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
-    "id": "lincoln-center-2026-10-07-rush-hour-performance",
+    "id": "lincoln-center-2026-10-07-rush-hour-performance-eight-dilemmas",
     "source_id": "lincoln-center",
-    "title": "Rush Hour Performance",
+    "title": "Rush Hour Performance | Eight Dilemmas",
     "description": null,
-    "url": "https://www.juilliard.edu/event/187701/rush-hour-performance",
+    "url": "https://www.juilliard.edu/event/187701/rush-hour-performance-eight-dilemmas",
     "image_url": null,
     "venue": "The Juilliard School",
     "address": null,
@@ -8034,7 +8015,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-the-only-living-pickpocket-in-new-york",
@@ -8053,7 +8034,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-behemoth",
@@ -8072,7 +8053,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-nitrate-kisses",
@@ -8091,7 +8072,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-free-talk-valeska-grisebach",
@@ -8110,7 +8091,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-for-the-moon",
@@ -8129,7 +8110,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-goodbye-south-goodbye",
@@ -8148,7 +8129,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-puccinis-la-bohme",
@@ -8167,7 +8148,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-eclectic-nycb-i",
@@ -8186,7 +8167,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-blossom-the-shrub-tones",
@@ -8205,7 +8186,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-juilliard-drama-presents-august-wilsons-the-piano-lesson",
@@ -8224,7 +8205,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-clarissa",
@@ -8243,7 +8224,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-papo-vzquez-mighty-pirates-troubadours",
@@ -8262,7 +8243,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-the-debut",
@@ -8281,7 +8262,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-nowhere-to-lay-my-eyes",
@@ -8300,7 +8281,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-fjord",
@@ -8319,7 +8300,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-9-temples-to-heaven",
@@ -8338,7 +8319,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-07-new-york-shorts",
@@ -8357,7 +8338,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-08-carnegie-halls-opening-night-galaberliner-philharmoniker",
@@ -8376,7 +8357,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-08-the-debut",
@@ -8395,7 +8376,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-historical-performance-chamber-music",
@@ -8414,7 +8395,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-everytime",
@@ -8433,7 +8414,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-the-only-living-pickpocket-in-new-york",
@@ -8452,7 +8433,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-new-york-shorts",
@@ -8471,7 +8452,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-minotaur",
@@ -8490,7 +8471,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-9-temples-to-heaven",
@@ -8509,7 +8490,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-report-to-mother",
@@ -8528,7 +8509,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-the-diary-of-a-chambermaid",
@@ -8547,7 +8528,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-free-talk-film-comment-live-festival-report",
@@ -8566,14 +8547,14 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
-    "id": "lincoln-center-2026-10-08-rush-hour-performance",
+    "id": "lincoln-center-2026-10-08-rush-hour-performance-polyphonies-bach-beethoven-busoni",
     "source_id": "lincoln-center",
-    "title": "Rush Hour Performance",
+    "title": "Rush Hour Performance | Polyphonies: Bach, Beethoven, Busoni",
     "description": null,
-    "url": "https://www.juilliard.edu/event/187706/rush-hour-performance",
+    "url": "https://www.juilliard.edu/event/187706/rush-hour-performance-polyphonies-bach-beethoven-busoni",
     "image_url": null,
     "venue": "The Juilliard School",
     "address": null,
@@ -8585,7 +8566,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-the-man-i-love",
@@ -8604,7 +8585,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-tender-loving-care",
@@ -8623,7 +8604,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-double-freedom",
@@ -8642,7 +8623,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-free-talk-ava-duvernay",
@@ -8661,7 +8642,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-the-day-she-returns",
@@ -8680,7 +8661,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-sixteen-moments-of-my-life",
@@ -8699,7 +8680,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-a-well-for-the-thirsty",
@@ -8718,7 +8699,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-verdis-macbeth",
@@ -8737,7 +8718,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-all-balanchine-i",
@@ -8756,7 +8737,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-elisapie",
@@ -8775,7 +8756,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-creation-stories-and-all-the-important-importants",
@@ -8794,7 +8775,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-juilliard-drama-presents-august-wilsons-the-piano-lesson",
@@ -8813,7 +8794,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-a-few-good-men",
@@ -8832,7 +8813,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-papo-vzquez-mighty-pirates-troubadours",
@@ -8851,7 +8832,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-the-dreamed-adventure",
@@ -8870,7 +8851,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-bucking-fastard",
@@ -8889,7 +8870,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-goodbye-south-goodbye",
@@ -8908,7 +8889,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-bitter-christmas",
@@ -8927,7 +8908,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-hanabi",
@@ -8946,7 +8927,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-08-red-rocks",
@@ -8965,7 +8946,26 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
+  },
+  {
+    "id": "carnegie-hall-2026-10-09-guided-tours",
+    "source_id": "carnegie-hall",
+    "title": "Guided Tours",
+    "description": null,
+    "url": "https://www.carnegiehall.org/Visit/Tour/Tours",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2026-10-09",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-09-sean-jones",
@@ -8984,7 +8984,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-09-classical-nomads",
@@ -9003,7 +9003,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-09-berliner-philharmoniker",
@@ -9022,7 +9022,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-09-lincoln-center-tours",
@@ -9041,7 +9041,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-all-of-a-sudden",
@@ -9060,7 +9060,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-a-well-for-the-thirsty",
@@ -9079,7 +9079,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-sixteen-moments-of-my-life",
@@ -9098,7 +9098,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-suicide-note",
@@ -9117,7 +9117,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-the-man-i-love",
@@ -9136,7 +9136,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-cameron-winter-at-carnegie-hall",
@@ -9155,7 +9155,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-14th",
@@ -9174,7 +9174,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-linnocente",
@@ -9193,14 +9193,14 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
-    "id": "lincoln-center-2026-10-09-rush-hour-performance",
+    "id": "lincoln-center-2026-10-09-rush-hour-performance-gradual-process-a-toast-to-steve-reich",
     "source_id": "lincoln-center",
-    "title": "Rush Hour Performance",
+    "title": "Rush Hour Performance | Gradual Process: A Toast to Steve Reich",
     "description": null,
-    "url": "https://www.juilliard.edu/event/187711/rush-hour-performance",
+    "url": "https://www.juilliard.edu/event/187711/rush-hour-performance-gradual-process-toast-steve-reich",
     "image_url": null,
     "venue": "The Juilliard School",
     "address": null,
@@ -9212,7 +9212,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-historical-performance-chamber-music",
@@ -9231,7 +9231,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-hanabi",
@@ -9250,7 +9250,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-behemoth",
@@ -9269,7 +9269,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-puccinis-la-bohme",
@@ -9288,7 +9288,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-masters-at-work-i",
@@ -9307,7 +9307,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-nicols-y-los-fumadores",
@@ -9326,7 +9326,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-living-memories-a-sonic-journey-through-san-juan-hill",
@@ -9345,7 +9345,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-creation-stories-and-all-the-important-importants",
@@ -9364,7 +9364,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-juilliard-drama-presents-august-wilsons-the-piano-lesson",
@@ -9383,7 +9383,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-a-few-good-men",
@@ -9402,7 +9402,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-wycliffe-gordon-welcome-to-georgia-town",
@@ -9421,7 +9421,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-akira-tana-and-friends-featuring-atsuko-hashimoto-and-skylar-tang",
@@ -9440,7 +9440,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-the-diary-of-a-chambermaid",
@@ -9459,7 +9459,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-red-rocks",
@@ -9478,7 +9478,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-la-gradiva",
@@ -9497,7 +9497,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-09-the-only-living-pickpocket-in-new-york",
@@ -9516,7 +9516,26 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
+  },
+  {
+    "id": "carnegie-hall-2026-10-10-guided-tours",
+    "source_id": "carnegie-hall",
+    "title": "Guided Tours",
+    "description": null,
+    "url": "https://www.carnegiehall.org/Visit/Tour/Tours",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2026-10-10",
+    "end_date": null,
+    "start_time": null,
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-10-italian-reputation-award-ceremony",
@@ -9535,7 +9554,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-10-matt-doyle",
@@ -9554,7 +9573,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-10-cancelled-special-venue-music-awards-winners-recital",
@@ -9573,7 +9592,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-10-zhengtao-pan-jazz-orchestra-featuring-chris-potter-and-rufus-reid",
@@ -9592,7 +9611,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-10-berliner-philharmoniker",
@@ -9611,7 +9630,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-10-the-debut",
@@ -9630,7 +9649,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-the-past-and-the-curious-live",
@@ -9649,7 +9668,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-martha-graham-the-mother-of-psychological-dance-gallery-tour",
@@ -9668,7 +9687,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-a-man-of-his-time",
@@ -9687,7 +9706,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-puccinis-la-bohme",
@@ -9706,7 +9725,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-gone-to-earth",
@@ -9725,7 +9744,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-juilliard-drama-presents-august-wilsons-the-piano-lesson",
@@ -9744,7 +9763,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-the-only-living-pickpocket-in-new-york",
@@ -9763,7 +9782,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-eclectic-nycb-i",
@@ -9782,7 +9801,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-creation-stories-and-all-the-important-importants",
@@ -9801,7 +9820,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-clarissa",
@@ -9820,7 +9839,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-i-rarely-wake-up-dreaming",
@@ -9839,7 +9858,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-a-long-winter",
@@ -9858,7 +9877,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-wycliffe-gordon-welcome-to-georgia-town",
@@ -9877,7 +9896,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-the-dreamed-adventure",
@@ -9896,7 +9915,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-the-diary-of-a-chambermaid",
@@ -9915,7 +9934,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-bucking-fastard",
@@ -9934,7 +9953,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-masters-at-work-i",
@@ -9953,7 +9972,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-mozarts-cos-fan-tutte",
@@ -9972,7 +9991,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-a-few-good-men",
@@ -9991,7 +10010,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-akira-tana-and-friends-featuring-atsuko-hashimoto-and-skylar-tang",
@@ -10010,7 +10029,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-suicide-note",
@@ -10029,7 +10048,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-the-man-i-love",
@@ -10048,7 +10067,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-10-bitter-christmas",
@@ -10067,7 +10086,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-11-adam-gyorgy-academy-gala",
@@ -10086,7 +10105,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-11-berliner-philharmoniker",
@@ -10105,7 +10124,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-11-special-venue-music-awards-winners-recital",
@@ -10124,7 +10143,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-11-deborah-silver-fabulous-friends-voices-for-als",
@@ -10143,7 +10162,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-11-behemoth",
@@ -10162,7 +10181,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-11-the-loneliest-man-in-town",
@@ -10181,7 +10200,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-11-red-rocks",
@@ -10200,7 +10219,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-11-a-statement",
@@ -10219,7 +10238,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-11-creation-stories-and-all-the-important-importants",
@@ -10238,7 +10257,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-11-heil-jupiter",
@@ -10257,7 +10276,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-11-dao",
@@ -10276,7 +10295,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-11-verdis-macbeth",
@@ -10295,7 +10314,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-11-eclectic-nycb-i",
@@ -10314,7 +10333,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-11-everytime",
@@ -10333,7 +10352,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-11-akira-tana-and-friends-featuring-atsuko-hashimoto-and-skylar-tang",
@@ -10352,7 +10371,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-11-sixteen-moments-of-my-life",
@@ -10371,7 +10390,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-11-goodbye-south-goodbye",
@@ -10390,7 +10409,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-11-artificial",
@@ -10409,7 +10428,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-11-temple-university-studio-symphony-and-jazz-orchestras",
@@ -10428,7 +10447,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-11-one-more-time",
@@ -10447,7 +10466,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-11-14th",
@@ -10466,7 +10485,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-11-making-marie-antoinette",
@@ -10485,7 +10504,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-12-cancelled-special-venue-music-awards-winners-recital",
@@ -10504,7 +10523,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-12-possible-love",
@@ -10523,7 +10542,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-12-spotlight-shorts",
@@ -10542,7 +10561,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-12-joy-of-joys",
@@ -10561,7 +10580,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-12-what-cant-be-mentioned",
@@ -10580,7 +10599,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-12-tender-loving-care",
@@ -10599,7 +10618,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-12-double-freedom",
@@ -10618,7 +10637,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-12-the-only-living-pickpocket-in-new-york",
@@ -10637,7 +10656,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-12-9-temples-to-heaven",
@@ -10656,7 +10675,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-12-club-kid",
@@ -10675,7 +10694,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-12-la-gradiva",
@@ -10694,7 +10713,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-12-the-man-i-love",
@@ -10713,7 +10732,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-12-new-york-shorts",
@@ -10732,7 +10751,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-12-a-few-good-men",
@@ -10751,7 +10770,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-12-steven-feifke-big-band-album-release",
@@ -10770,7 +10789,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-12-bitter-christmas",
@@ -10789,7 +10808,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-12-the-unknown",
@@ -10808,7 +10827,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-12-bucking-fastard",
@@ -10827,7 +10846,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-13-luigi-carroccia-with-the-argus-quartet",
@@ -10846,7 +10865,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-13-chengcheng-ma-and-guest-artists",
@@ -10865,7 +10884,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-13-the-philadelphia-orchestra",
@@ -10884,7 +10903,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-13-lincoln-center-tours",
@@ -10903,7 +10922,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-13-cosi-fan-tutte",
@@ -10922,7 +10941,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-13-rush-hour-performance",
@@ -10941,7 +10960,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-13-coplands-appalachian-spring",
@@ -10960,7 +10979,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-13-mozarts-cos-fan-tutte",
@@ -10979,7 +10998,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-13-all-balanchine-i",
@@ -10998,7 +11017,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-13-creation-stories-and-all-the-important-importants",
@@ -11017,7 +11036,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-13-a-few-good-men",
@@ -11036,7 +11055,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-13-corcoran-holt-quintet-freedom-of-art-album-release",
@@ -11055,7 +11074,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-14-trio-azura",
@@ -11074,7 +11093,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-14-the-works-of-alyssa-morris",
@@ -11093,7 +11112,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-14-lincoln-center-tours",
@@ -11112,7 +11131,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-14-cosi-fan-tutte",
@@ -11131,7 +11150,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-14-creation-stories-and-all-the-important-importants",
@@ -11150,7 +11169,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-14-plaza",
@@ -11169,7 +11188,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-14-rush-hour-performance",
@@ -11188,7 +11207,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-14-liederabend",
@@ -11207,7 +11226,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-14-verdis-macbeth",
@@ -11226,7 +11245,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-14-contemporary-choreography-i",
@@ -11245,7 +11264,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-14-sophia-club-live-philosophy",
@@ -11264,7 +11283,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-14-over-my-head-i-hear-freedom-in-the-air",
@@ -11283,7 +11302,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-14-a-few-good-men",
@@ -11302,7 +11321,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-14-tenor-legacy-with-lew-tabackin",
@@ -11321,7 +11340,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-15-boris-cepeda-piano",
@@ -11340,7 +11359,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-15-nikos-kazantzakis-an-odyssey-in-music",
@@ -11359,7 +11378,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-15-lincoln-center-tours",
@@ -11378,7 +11397,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-15-rush-hour-performance",
@@ -11397,7 +11416,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-15-beethoven-200-the-eternal-journey-i-new-york-classical-players-concert",
@@ -11416,7 +11435,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-15-plaza",
@@ -11435,7 +11454,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-15-the-devils",
@@ -11454,7 +11473,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-15-bella-hristova-gloria-chien",
@@ -11473,7 +11492,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-15-puccinis-la-bohme",
@@ -11492,7 +11511,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-15-eclectic-nycb-i",
@@ -11511,7 +11530,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-15-mei-semones",
@@ -11530,7 +11549,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-15-creation-stories-and-all-the-important-importants",
@@ -11549,7 +11568,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-15-fire-guitar-legend",
@@ -11568,7 +11587,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-15-a-few-good-men",
@@ -11587,7 +11606,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-15-david-gibson-nonet",
@@ -11606,7 +11625,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-16-rising-stars-in-a-piano-recital",
@@ -11625,7 +11644,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-16-takcs-quartet-jeremy-denk-piano",
@@ -11644,7 +11663,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-16-sphinx-virtuosi",
@@ -11663,7 +11682,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-16-lincoln-center-tours",
@@ -11682,7 +11701,26 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
+  },
+  {
+    "id": "lincoln-center-2026-10-16-historical-performance-chamber-music-at-the-metropolitan-museum-of-art",
+    "source_id": "lincoln-center",
+    "title": "Historical Performance Chamber Music at the Metropolitan Museum of Art",
+    "description": null,
+    "url": "https://www.juilliard.edu/event/189746/historical-performance-chamber-music-metropolitan-museum-art",
+    "image_url": null,
+    "venue": "The Juilliard School",
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2026-10-16",
+    "end_date": null,
+    "start_time": "11:00",
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-16-once-upon-a-time-in-harlem",
@@ -11701,7 +11739,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-16-the-devils",
@@ -11720,7 +11758,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-16-concerto-competition-finals",
@@ -11739,7 +11777,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-16-rush-hour-performance",
@@ -11758,7 +11796,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-16-plaza",
@@ -11777,7 +11815,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-16-houdini-preserving-a-legacy-of-magic-escapes-and-showmanship",
@@ -11796,7 +11834,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-16-puccinis-la-bohme",
@@ -11815,7 +11853,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-16-eclectic-nycb-i",
@@ -11834,7 +11872,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-16-emilia-y-pablo",
@@ -11853,7 +11891,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-16-urban-love-suite",
@@ -11872,7 +11910,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-16-creation-stories-and-all-the-important-importants",
@@ -11891,7 +11929,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-16-juilliard-jazz-orchestra-count-basie-and-the-blue-devils",
@@ -11910,7 +11948,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-16-a-few-good-men",
@@ -11929,7 +11967,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-16-ekep-nkwelle",
@@ -11948,7 +11986,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-16-chucho-valds-85th-birthday-celebration-with-special-guests-joe-lovano-and-terence-blanchard",
@@ -11967,7 +12005,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-17-hao-liu-piano",
@@ -11986,7 +12024,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-17-orpheus-chamber-orchestralucas-and-arthur-jussen-piano",
@@ -12005,7 +12043,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-17-george-abraham-and-friends-in-recital",
@@ -12024,7 +12062,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-17-verdis-macbeth",
@@ -12043,7 +12081,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-17-once-upon-a-time-in-harlem",
@@ -12062,7 +12100,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-17-the-devils",
@@ -12081,7 +12119,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-17-all-balanchine-i",
@@ -12100,7 +12138,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-17-a-few-good-men",
@@ -12119,7 +12157,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-17-creation-stories-and-all-the-important-importants",
@@ -12138,7 +12176,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-17-lol-laughing-out-lonely",
@@ -12157,7 +12195,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-17-plaza",
@@ -12176,7 +12214,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-17-2026-golden-night-concert",
@@ -12195,7 +12233,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-17-mozarts-cos-fan-tutte",
@@ -12214,7 +12252,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-17-ekep-nkwelle",
@@ -12233,7 +12271,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-17-chucho-valds-85th-birthday-celebration-with-special-guests-joe-lovano-and-terence-blanchard",
@@ -12252,7 +12290,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-18-shelest-piano-duo-with-the-brandywine-valley-symphony-chamber-orchestramichael-hall-artistic-director",
@@ -12271,7 +12309,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-18-falsettos-10-year-anniversary-concert",
@@ -12290,7 +12328,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-18-tamar-kurdadze-piano",
@@ -12309,7 +12347,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-18-cms-kids-building-blocks-of-music",
@@ -12328,7 +12366,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-18-moving-body-moving-image",
@@ -12347,7 +12385,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-18-once-upon-a-time-in-harlem",
@@ -12366,7 +12404,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-18-the-devils",
@@ -12385,7 +12423,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-18-creation-stories-and-all-the-important-importants",
@@ -12404,7 +12442,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-18-adrian-danchig-waring-farewell",
@@ -12423,7 +12461,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-18-mendelssohns-b-minor-piano-quartet",
@@ -12442,7 +12480,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-18-plaza",
@@ -12461,7 +12499,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-18-ekep-nkwelle",
@@ -12480,7 +12518,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-19-comic-relief-live",
@@ -12499,7 +12537,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-19-from-mozart-to-piazzolla-and-beyond",
@@ -12518,7 +12556,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-19-lincoln-center-tours",
@@ -12537,7 +12575,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-19-macbeth",
@@ -12556,7 +12594,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-19-once-upon-a-time-in-harlem",
@@ -12575,7 +12613,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-19-the-devils",
@@ -12594,7 +12632,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-19-lament-for-the-land-monumentality-identity-and-innovation-in-martha-grahams-american-document",
@@ -12613,7 +12651,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-19-juilliard-jazz-ensembles-jazz-music-of-the-1970s-don-pullen-charles-tolliver-john-hicks-and-thad-jones",
@@ -12632,7 +12670,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-19-juilliard-orchestra-conducted-by-jeffrey-milarsky",
@@ -12651,7 +12689,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-19-mazzolis-lincoln-in-the-bardo",
@@ -12670,7 +12708,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-19-juilliard-jazz-ensembles-jazz-music-of-the-1970s-don-pulley-charles-tolliver-john-hicks-and-thad-jones",
@@ -12689,7 +12727,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-20-huddle",
@@ -12708,7 +12746,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-20-richard-dawkins-genes-and-the-meaning-of-life",
@@ -12727,7 +12765,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-20-the-knights",
@@ -12746,7 +12784,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-20-elmira-darvarova-violin",
@@ -12765,7 +12803,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-20-lincoln-center-tours",
@@ -12784,7 +12822,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-20-relaxed-campus-tours",
@@ -12803,7 +12841,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-20-macbeth",
@@ -12822,7 +12860,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-20-once-upon-a-time-in-harlem",
@@ -12841,7 +12879,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-20-rush-hour-performance",
@@ -12860,7 +12898,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-20-the-devils",
@@ -12879,7 +12917,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-20-beethoven-lecture-i",
@@ -12898,7 +12936,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-20-verdis-macbeth",
@@ -12917,7 +12955,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-20-creation-stories-and-all-the-important-importants",
@@ -12936,7 +12974,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-20-a-few-good-men",
@@ -12955,7 +12993,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-20-now-beauty",
@@ -12974,7 +13012,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-21-huddle",
@@ -12993,7 +13031,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-21-kaleidoscope-from-ancient-times-to-jazz-and-blues",
@@ -13012,7 +13050,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-21-yunchan-lim-piano",
@@ -13031,7 +13069,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-21-lincoln-center-tours",
@@ -13050,7 +13088,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-21-a-sonic-journey-through-san-juan-hill-with-mathis-picard",
@@ -13069,7 +13107,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-21-once-upon-a-time-in-harlem",
@@ -13088,7 +13126,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-21-the-devils",
@@ -13107,7 +13145,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-21-a-few-good-men",
@@ -13126,7 +13164,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-21-creation-stories-and-all-the-important-importants",
@@ -13145,7 +13183,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-21-rush-hour-performance",
@@ -13164,7 +13202,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-21-plaza",
@@ -13183,7 +13221,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-21-fujita-ka-baird-actress-team-rolfes",
@@ -13202,7 +13240,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-21-abt-paquita",
@@ -13221,7 +13259,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-21-abt-petal",
@@ -13240,7 +13278,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-21-abt-petite-mort",
@@ -13259,7 +13297,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-21-dizzy-gillespie-birthday-with-jon-faddis",
@@ -13278,7 +13316,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-22-huddle",
@@ -13297,7 +13335,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-22-jinhyung-park-piano",
@@ -13316,7 +13354,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-22-steve-reich-at-90",
@@ -13335,7 +13373,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-22-lincoln-center-tours",
@@ -13354,7 +13392,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-22-once-upon-a-time-in-harlem",
@@ -13373,7 +13411,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-22-the-devils",
@@ -13392,7 +13430,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-22-the-unanswered-questions-is-that-fear-i-hear",
@@ -13411,7 +13449,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-22-rush-hour-performance",
@@ -13430,7 +13468,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-22-plaza",
@@ -13449,7 +13487,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-22-czerny-brahms",
@@ -13468,7 +13506,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-22-puccinis-la-bohme",
@@ -13487,7 +13525,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-22-claire-rousay-martyna-basta-keith-giant-claw-rankin-julek-ploski",
@@ -13506,7 +13544,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-22-creation-stories-and-all-the-important-importants",
@@ -13525,7 +13563,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-22-abt-paquita",
@@ -13544,7 +13582,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-22-abt-petal",
@@ -13563,7 +13601,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-22-abt-petite-mort",
@@ -13582,7 +13620,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-22-a-few-good-men",
@@ -13601,7 +13639,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-22-carl-allens-messengers-of-jazz-a-tribute-to-art-blakeys-jazz-messengers",
@@ -13620,7 +13658,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-23-huddle",
@@ -13639,7 +13677,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-23-open-working-rehearsal-the-new-york-pops",
@@ -13658,7 +13696,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-23-mir-quartet",
@@ -13677,7 +13715,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-23-the-new-york-pops",
@@ -13696,7 +13734,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-23-lakecia-benjamin-saxophone",
@@ -13715,7 +13753,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-23-lincoln-center-tours",
@@ -13734,7 +13772,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-23-fatherland",
@@ -13753,7 +13791,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-23-possible-love",
@@ -13772,7 +13810,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-23-plaza",
@@ -13791,7 +13829,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-23-rush-hour-performance",
@@ -13810,7 +13848,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-23-from-cuba-to-the-crescent-city",
@@ -13829,7 +13867,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-23-mozarts-cos-fan-tutte",
@@ -13848,7 +13886,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-23-suhreetah",
@@ -13867,7 +13905,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-23-hania-rani-presents-non-fiction",
@@ -13886,7 +13924,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-23-creation-stories-and-all-the-important-importants",
@@ -13905,7 +13943,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-23-abt-ballet-imperial",
@@ -13924,7 +13962,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-23-abt-mercurial-son",
@@ -13943,7 +13981,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-23-a-few-good-men",
@@ -13962,7 +14000,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-23-carl-allens-messengers-of-jazz-a-tribute-to-art-blakeys-jazz-messengers",
@@ -13981,7 +14019,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-24-huddle",
@@ -14000,7 +14038,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-24-the-superior-institute-of-arts-costa-rica-student-recital",
@@ -14019,7 +14057,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-24-fang-tao-jiang-soprano-and-guest-artists",
@@ -14038,7 +14076,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-24-pianistically-speaking-an-evening-with-richard-atkins",
@@ -14057,7 +14095,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-24-relaxed-virtual-screening-of-san-juan-hill-manhattans-lost-neighborhood",
@@ -14076,7 +14114,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-24-abtkids-performances",
@@ -14095,7 +14133,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-24-new-short-musicals-debut-across-a-crowded-room-final-presentations",
@@ -14114,7 +14152,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-24-lincoln-center-open-house",
@@ -14133,7 +14171,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-24-fatherland",
@@ -14152,7 +14190,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-24-mazzolis-lincoln-in-the-bardo",
@@ -14171,7 +14209,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-24-possible-love",
@@ -14190,7 +14228,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-24-a-few-good-men",
@@ -14209,7 +14247,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-24-creation-stories-and-all-the-important-importants",
@@ -14228,7 +14266,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-24-abt-ballet-imperial",
@@ -14247,7 +14285,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-24-abt-mercurial-son",
@@ -14266,7 +14304,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-24-plaza",
@@ -14285,7 +14323,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-24-from-cuba-to-the-crescent-city",
@@ -14304,7 +14342,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-24-artist-spotlight-batiashvili-capuon-thibaudet",
@@ -14323,7 +14361,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-24-puccinis-la-bohme",
@@ -14342,7 +14380,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-24-carl-allens-messengers-of-jazz-a-tribute-to-art-blakeys-jazz-messengers",
@@ -14361,7 +14399,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-25-aysedeniz-gokcin-piano",
@@ -14380,7 +14418,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-25-rising-stars-in-two-piano-recitals",
@@ -14399,7 +14437,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-25-mac-demarco",
@@ -14418,7 +14456,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-25-lincoln-center-open-house",
@@ -14437,7 +14475,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-25-morning-meditation",
@@ -14456,7 +14494,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-25-abt-ballet-imperial",
@@ -14475,7 +14513,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-25-abt-mercurial-son",
@@ -14494,7 +14532,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-25-fatherland",
@@ -14513,7 +14551,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-25-come-sing-climate-songs",
@@ -14532,7 +14570,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-25-possible-love",
@@ -14551,7 +14589,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-25-creation-stories-and-all-the-important-importants",
@@ -14570,7 +14608,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-25-a-few-good-men",
@@ -14589,7 +14627,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-25-juilliard-jazz-ensembles-25th-anniversary-alumni-compositions",
@@ -14608,7 +14646,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-25-beethoven-piano-sonatas-i",
@@ -14627,7 +14665,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-25-abt-paquita",
@@ -14646,7 +14684,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-25-abt-petal",
@@ -14665,7 +14703,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-25-abt-petite-mort",
@@ -14684,7 +14722,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-25-100-years-of-latin-new-york",
@@ -14703,7 +14741,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-25-plaza",
@@ -14722,7 +14760,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-25-carl-allens-messengers-of-jazz-a-tribute-to-art-blakeys-jazz-messengers",
@@ -14741,7 +14779,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-26-ensemble-connect",
@@ -14760,7 +14798,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-26-mac-demarco",
@@ -14779,7 +14817,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-26-fatherland",
@@ -14798,7 +14836,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-26-possible-love",
@@ -14817,7 +14855,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-26-mazzolis-lincoln-in-the-bardo",
@@ -14836,7 +14874,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-26-the-new-york-choral-society-presents-a-child-of-our-time",
@@ -14855,7 +14893,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-26-juilliard-orchestra-conducted-by-gemma-new",
@@ -14874,7 +14912,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-26-mike-ledonne-big-band-70th-birthday-celebration",
@@ -14893,7 +14931,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-27-huddle",
@@ -14912,7 +14950,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-27-opening-gala-of-bulgarian-concert-evenings-in-new-york",
@@ -14931,7 +14969,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-27-american-composers-orchestra",
@@ -14950,7 +14988,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-27-branford-marsalis-and-dianne-reeves-celebrate-john-coltrane",
@@ -14969,7 +15007,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-27-lincoln-center-tours",
@@ -14988,7 +15026,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-27-fatherland",
@@ -15007,7 +15045,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-27-possible-love",
@@ -15026,7 +15064,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-27-rush-hour-performance",
@@ -15045,7 +15083,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-27-the-universal-language-of-jazz",
@@ -15064,7 +15102,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-27-creation-stories-and-all-the-important-importants",
@@ -15083,7 +15121,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-27-abt-paquita",
@@ -15102,7 +15140,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-27-abt-petal",
@@ -15121,7 +15159,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-27-abt-petite-mort",
@@ -15140,7 +15178,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-27-the-new-series-a-halloween-concert",
@@ -15159,7 +15197,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-27-a-few-good-men",
@@ -15178,7 +15216,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-27-johnny-oneal-celebrates-70-when-october-goes",
@@ -15197,7 +15235,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-28-huddle",
@@ -15216,7 +15254,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-28-orchestra-of-st-lukes-chamber-ensemble",
@@ -15235,7 +15273,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-28-standard-time-with-michael-feinstein",
@@ -15254,7 +15292,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-28-columbus-symphony-orchestra-75th-anniversary-concert",
@@ -15273,7 +15311,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-28-martha-graham-the-mother-of-psychological-dance-gallery-tour",
@@ -15292,7 +15330,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-28-fatherland",
@@ -15311,7 +15349,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-28-the-dance-historian-is-in-virginie-mcne-on-reconstructing-martha-grahams-dances",
@@ -15330,7 +15368,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-28-possible-love",
@@ -15349,7 +15387,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-28-wednesdays-at-one-music-for-piano",
@@ -15368,7 +15406,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-28-lincoln-center-tours",
@@ -15387,7 +15425,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-28-a-few-good-men",
@@ -15406,7 +15444,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-28-creation-stories-and-all-the-important-importants",
@@ -15425,7 +15463,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-28-rush-hour-performance",
@@ -15444,7 +15482,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-28-get-out-in-concert",
@@ -15463,7 +15501,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-28-ambrose-akinmusire-and-aszure-barton",
@@ -15482,7 +15520,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-28-abt-trio-lgiaque",
@@ -15501,7 +15539,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-28-abt-flight",
@@ -15520,7 +15558,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-28-puccinis-la-bohme",
@@ -15539,7 +15577,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-28-topaz-jones",
@@ -15558,7 +15596,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-28-greg-hutchinsons-kind-of-now-the-pulse-of-miles-davis",
@@ -15577,7 +15615,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-29-huddle",
@@ -15596,7 +15634,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-29-youl-sun-piano",
@@ -15615,7 +15653,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-29-festival-chamber-music",
@@ -15634,7 +15672,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-29-lincoln-center-tours",
@@ -15653,7 +15691,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-29-fatherland",
@@ -15672,7 +15710,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-29-possible-love",
@@ -15691,7 +15729,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-29-abt-fall-gala",
@@ -15710,7 +15748,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-29-rush-hour-performance",
@@ -15729,7 +15767,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-29-a-few-good-men",
@@ -15748,7 +15786,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-29-mazzolis-lincoln-in-the-bardo",
@@ -15767,7 +15805,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-29-get-out-in-concert",
@@ -15786,7 +15824,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-29-orchestra-in-miniature",
@@ -15805,7 +15843,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-29-ambrose-akinmusire-and-aszure-barton",
@@ -15824,7 +15862,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-29-creation-stories-and-all-the-important-importants",
@@ -15843,7 +15881,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-29-greg-hutchinsons-kind-of-now-the-pulse-of-miles-davis",
@@ -15862,7 +15900,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-30-huddle",
@@ -15881,7 +15919,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-30-musicians-from-marlboro",
@@ -15900,7 +15938,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-30-lincoln-center-tours",
@@ -15919,7 +15957,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-30-rush-hour-performance",
@@ -15938,7 +15976,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-30-a-few-good-men",
@@ -15957,7 +15995,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-30-dvok-debussy-and-chaminade",
@@ -15976,7 +16014,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-30-cherubinis-medea",
@@ -15995,7 +16033,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-30-get-out-in-concert",
@@ -16014,7 +16052,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-30-gerardo-contino",
@@ -16033,7 +16071,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-30-ambrose-akinmusire-and-aszure-barton",
@@ -16052,7 +16090,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-30-creation-stories-and-all-the-important-importants",
@@ -16071,7 +16109,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-30-abt-trio-lgiaque",
@@ -16090,7 +16128,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-30-abt-flight",
@@ -16109,7 +16147,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-30-greg-hutchinsons-kind-of-now-the-pulse-of-miles-davis",
@@ -16128,7 +16166,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-10-31-huddle",
@@ -16147,7 +16185,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-31-7th-new-york-global-music-competition-winners-concert",
@@ -16166,7 +16204,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-31-tuudr-piano-competition-gala",
@@ -16185,7 +16223,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-10-31-nathan-carter",
@@ -16204,7 +16242,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "lincoln-center-2026-10-31-puccinis-la-bohme",
@@ -16223,7 +16261,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-31-new-classics-film-series-ghostbusters",
@@ -16242,7 +16280,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-31-a-few-good-men",
@@ -16261,7 +16299,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-31-creation-stories-and-all-the-important-importants",
@@ -16280,7 +16318,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-31-abt-trio-lgiaque",
@@ -16299,7 +16337,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-31-abt-flight",
@@ -16318,7 +16356,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-31-map-open-recital",
@@ -16337,7 +16375,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-31-juilliard415-and-yale-schola-cantorum-conducted-by-grete-pedersen-bachs-st-matthew-passion",
@@ -16356,7 +16394,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-31-get-out-in-concert",
@@ -16375,7 +16413,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-31-friday-the-13th-part-viii-jason-takes-manhattan",
@@ -16394,7 +16432,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-31-mazzolis-lincoln-in-the-bardo",
@@ -16413,7 +16451,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "lincoln-center-2026-10-31-greg-hutchinsons-kind-of-now-the-pulse-of-miles-davis",
@@ -16432,7 +16470,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:05Z"
+    "last_updated": "2026-10-02T07:46:33Z"
   },
   {
     "id": "carnegie-hall-2026-11-01-sound-of-home-chinese-classical-music-concert",
@@ -16451,7 +16489,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-01-xiaobin-ma-soprano",
@@ -16470,7 +16508,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-02-falsettos-10-year-anniversary-concert",
@@ -16489,7 +16527,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-02-valerian-shiukashvili-piano",
@@ -16508,7 +16546,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-03-ischool-of-music-art-ensemble-players",
@@ -16527,7 +16565,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-04-carter-johnson-piano",
@@ -16546,7 +16584,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-04-punch-brothers",
@@ -16565,7 +16603,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-05-alisa-weilerstein-fragments-6",
@@ -16584,7 +16622,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-05-the-met-orchestra-chamber-ensemble",
@@ -16603,7 +16641,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-05-orchestra-of-st-lukes",
@@ -16622,7 +16660,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-06-jean-rondeau-harpsichord",
@@ -16641,7 +16679,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-06-chamber-girls-choir-of-the-mv-lysenko-kyiv-state-music-lyceum-and-the-westchester-childrens-chorus",
@@ -16660,7 +16698,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-07-miclot-chamber-music-society",
@@ -16679,7 +16717,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-07-maybrook-wind-ensemble-live-in-the-big-apple",
@@ -16698,7 +16736,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-07-interharmony-concert-series",
@@ -16717,7 +16755,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-08-10th-anniversary-florida-keys-international-music-competition",
@@ -16736,7 +16774,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-08-the-senior-concert-orchestra-of-new-york",
@@ -16755,7 +16793,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-08-afaf-winners-concert",
@@ -16774,7 +16812,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-09-nyyvc-winners-recital",
@@ -16793,7 +16831,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-09-cancelled-zoltn-mga-violin",
@@ -16812,7 +16850,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-10-juilliard-at-zankel-hall",
@@ -16831,7 +16869,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-10-santiago-can-valencia-cellovictor-santiago-asuncion-piano",
@@ -16850,7 +16888,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-10-oratorio-society-of-new-york",
@@ -16869,7 +16907,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-11-vocal-and-chamber-music-concert",
@@ -16888,7 +16926,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-11-aigul-akhmetshina-mezzo-soprano-jonathan-palmer-lakeland-piano",
@@ -16907,7 +16945,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-12-ensemble-connect",
@@ -16926,7 +16964,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-12-midatlantic-philharmonic-orchestra",
@@ -16945,7 +16983,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-12-cristiana-pegoraro-piano",
@@ -16964,7 +17002,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-13-the-20th-annual-lisma-international-music-competition-winners-concert",
@@ -16983,7 +17021,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-13-an-evening-of-jazz-with-charu-suri-and-lizzie-thomas",
@@ -17002,7 +17040,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-13-new-york-philharmonic",
@@ -17021,7 +17059,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-14-ny-classical-debut-awards-gala-concert",
@@ -17040,7 +17078,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-14-silkroad-ensemble-featuring-rhiannon-giddens-and-yo-yo-ma",
@@ -17059,7 +17097,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-14-magnum-opus-international-speech-and-drama-competition-winners-showcase",
@@ -17078,7 +17116,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-15-chamber-music-foundation-of-new-england",
@@ -17097,7 +17135,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-15-new-york-philharmonic",
@@ -17116,7 +17154,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-15-apollos-fire-jeanine-de-bique",
@@ -17135,7 +17173,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-15-hiu-sing-fan-violincameron-akioka-piano",
@@ -17154,7 +17192,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-16-dciny-spirit-of-freedom",
@@ -17173,7 +17211,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-16-jnos-balzs-piano",
@@ -17192,7 +17230,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-16-opera-nova-contemporary-arias-from-brazilian-composers",
@@ -17211,7 +17249,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-17-the-orchestra-now",
@@ -17230,7 +17268,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-17-jupiter-ensemble",
@@ -17249,7 +17287,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-17-orpheus-chamber-orchestraisata-kanneh-mason-piano",
@@ -17268,7 +17306,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-18-rihab-chaieb-mezzo-sopranoammiel-bushakevitz-piano",
@@ -17287,7 +17325,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-18-minsoo-sohn-piano",
@@ -17306,7 +17344,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-19-roberto-plano-piano",
@@ -17325,7 +17363,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-20-chamber-orchestra-of-new-york",
@@ -17344,7 +17382,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-20-the-new-york-pops",
@@ -17363,7 +17401,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-20-takako-ines-asahina-piano-trio",
@@ -17382,7 +17420,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-21-iapmt-winners-concert",
@@ -17401,7 +17439,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-21-james-austin-smith-and-friends",
@@ -17420,7 +17458,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-21-rishab-rikhiram-sharma",
@@ -17439,7 +17477,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-21-passion-through-performance",
@@ -17458,7 +17496,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-22-iapmt-winners-concert",
@@ -17477,7 +17515,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-22-new-york-youth-symphony",
@@ -17496,7 +17534,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-22-master-jeongwook-park",
@@ -17515,7 +17553,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-22-concert-festival-winners-recital",
@@ -17534,7 +17572,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-23-sound-espressivo-gala",
@@ -17553,7 +17591,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-23-christmas-in-the-big-apple",
@@ -17572,7 +17610,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-24-sound-espressivo-gala",
@@ -17591,7 +17629,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-24-dciny-total-vocal-with-deke-sharon-a-holiday-celebration",
@@ -17610,7 +17648,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-27-american-protg-winners-recital",
@@ -17629,7 +17667,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-27-tamara-radjenovi-soprano-and-murat-karahan-tenor",
@@ -17648,7 +17686,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-28-bmtg-8th-intercontinental-music-competition-winners-concert",
@@ -17667,7 +17705,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-28-dciny-sounds-of-the-season",
@@ -17686,7 +17724,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-29-bmtg-8th-intercontinental-music-competition-winners-concert",
@@ -17705,7 +17743,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-29-an-advent-evening-with-matt-maher-and-jonathan-roumie",
@@ -17724,7 +17762,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-29-the-2026-avimc-winners-recital",
@@ -17743,7 +17781,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-30-amazonas-2026",
@@ -17762,7 +17800,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-11-30-16th-annual-christmas-in-new-york",
@@ -17781,7 +17819,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-01-dciny-jubilaeum-holiday-gala",
@@ -17800,7 +17838,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-01-leo-b-ruiz-memorial-recital",
@@ -17819,7 +17857,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-02-karim-sulayman-tenortom-poster-piano",
@@ -17838,7 +17876,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-02-hlne-grimaud-piano",
@@ -17857,7 +17895,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-02-bravitalia-i-talenti-musicali-italiani",
@@ -17876,7 +17914,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-03-mikhail-voskresensky-piano",
@@ -17895,7 +17933,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-03-rene-fleming-with-bla-fleck",
@@ -17914,7 +17952,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-04-the-cecilia-chorus-of-new-york-with-orchestra",
@@ -17933,7 +17971,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-05-veritas-international-music-competition-winners-recital",
@@ -17952,7 +17990,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-05-korean-youth-honor-society-music-competition-winners-recital",
@@ -17971,7 +18009,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-05-a-night-of-inspiration",
@@ -17990,7 +18028,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-06-chamber-orchestra-of-europe",
@@ -18009,7 +18047,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-06-alaria-chamber-ensemble",
@@ -18028,7 +18066,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-06-2026-bmf-national-concert-series-new-york",
@@ -18047,7 +18085,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-07-bar-harbor-music-festival-60th-anniversary-gala",
@@ -18066,7 +18104,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-07-leslie-odom-jr",
@@ -18085,7 +18123,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-08-ariel-quartet",
@@ -18104,7 +18142,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-09-orchestra-of-st-lukes-chamber-ensemble",
@@ -18123,7 +18161,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-10-young-concert-artists-on-tour",
@@ -18142,7 +18180,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-10-an-evening-with-the-mountain-goats",
@@ -18161,7 +18199,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-11-holidays-with-the-princeton-nassoons",
@@ -18180,7 +18218,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-11-an-evening-with-the-mountain-goats",
@@ -18199,7 +18237,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-12-golden-classical-music-awards-ceremony",
@@ -18218,7 +18256,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-12-daniil-trifonov-piano",
@@ -18237,7 +18275,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-12-jingya-bi-and-friends",
@@ -18256,7 +18294,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-13-golden-classical-music-awards-ceremony",
@@ -18275,7 +18313,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-13-the-holiday-in-concert",
@@ -18294,7 +18332,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-14-golden-classical-music-awards-ceremony",
@@ -18313,7 +18351,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-14-yunchan-lim-piano",
@@ -18332,7 +18370,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-15-golden-classical-music-awards-ceremony",
@@ -18351,7 +18389,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-15-mastervoices",
@@ -18370,7 +18408,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-16-golden-classical-music-awards-ceremony",
@@ -18389,7 +18427,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-16-america-know-thyself-celebrating-americas-250th",
@@ -18408,7 +18446,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-17-golden-classical-music-awards-ceremony",
@@ -18427,7 +18465,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-17-musica-sacra",
@@ -18446,7 +18484,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "carnegie-hall-2026-12-18-un-chamber-music-society-concert-in-celebration-of-arabic-language-day",
@@ -18465,7 +18503,45 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-01T08:04:55Z"
+    "last_updated": "2026-10-02T07:47:23Z"
+  },
+  {
+    "id": "carnegie-hall-2026-12-18-the-new-york-pops",
+    "source_id": "carnegie-hall",
+    "title": "The New York Pops",
+    "description": null,
+    "url": "https://www.carnegiehall.org/calendar/2026/12/18/the-new-york-pops-0800pm",
+    "image_url": null,
+    "venue": "Stern Auditorium / Perelman Stage",
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2026-12-18",
+    "end_date": null,
+    "start_time": "20:00",
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-10-02T07:47:23Z"
+  },
+  {
+    "id": "carnegie-hall-2026-12-18-esperanza-spalding",
+    "source_id": "carnegie-hall",
+    "title": "esperanza spalding",
+    "description": null,
+    "url": "https://www.carnegiehall.org/calendar/2026/12/18/esperanza-spalding-0900pm",
+    "image_url": null,
+    "venue": "Zankel Hall",
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2026-12-18",
+    "end_date": null,
+    "start_time": "21:00",
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-10-02T07:47:23Z"
   },
   {
     "id": "summerstage-2027-05-29-odd-mob",
