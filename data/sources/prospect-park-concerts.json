@@ -1,62 +1,5 @@
 [
   {
-    "id": "prospect-park-concerts-2026-10-26-its-my-park-day",
-    "source_id": "prospect-park-concerts",
-    "title": "It\u2019s My Park Day",
-    "description": "Looking to get involved in a park clean-up effort? Join Prospect Park Alliance for It\u2019s My Park Day to care for the park after busy weekends. All necessary tools will be provided for your volunteer experience. Join It\u2019s My Park Days on: September 8, 14, 21, 28 + October 5, 13, 19, 26 Open to teens 14+, adults, and groups with disabilities. Register as an Individual or Register as a Group with Disabilities Register online or contact the Alliance Volunteer Services team at volunteers@prospectpark.org or 929-888-6826.",
-    "url": "https://www.prospectpark.org/event/its-my-park-day-22/2026-10-26/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-10-26",
-    "end_date": null,
-    "start_time": "10:00",
-    "end_time": "12:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-10-26-sexual-health-mobile-medical-unit",
-    "source_id": "prospect-park-concerts",
-    "title": "Sexual Health Mobile Medical Unit",
-    "description": "Prospect Park Alliance is collaborating with NewYork-Presbyterian to offer comprehensive sexual health services in Brooklyn\u2019s backyard at Grand Army Plaza every Thursday from 10 am to 3 pm and every Monday at the Parkside + Ocean Avenue Entrance from 10 am to 3 pm. The NewYork-Presbyterian Sexual Health Mobile Medical Unit is a safe, inclusive space for people to receive high-quality sexual health services. Learn more about the Sexual Health Mobile Medical Unit in Prospect Park or reach out to us at mobilehealth@nyp.org or (929) 923-3543. No insurance or ID is required to receive care. Staffed by a team of NewYork-Presbyterian healthcare providers, the mobile medical unit has an exam room and consult room, and offers routine laboratory testing, vaccinations, and PrEP and PEP medications that lower the risk of HIV infection. Patients can also be connected to social services, benefits enrollment, and local healthcare providers. Other services include sexually transmitted infection (STI) testing, family planning, hepatitis C screening, health education and more. Learn more about the Sexual Health Mobile Medical Unit in Prospect Park or reach out to us at mobilehealth@nyp.org. No insurance or ID is required to receive care. The Sexual Health Mobile Medical Unit is made possible through funding from the Dalio Center for Health Justice and the Division of Community and Population Health at NewYork-Presbyterian, and a grant from the Centers for Disease Control and Prevention. Events are subject to change, please check the NYP website for up-to-date information.",
-    "url": "https://www.prospectpark.org/event/sexual-health-mobile-medical-unit-2/2026-10-26/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-10-26",
-    "end_date": null,
-    "start_time": "10:00",
-    "end_time": "15:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-10-26-fall-festival-at-lakeside",
-    "source_id": "prospect-park-concerts",
-    "title": "Fall Festival at Lakeside",
-    "description": "Celebrate the season at the Lakeside Fall Festival, a month-long fall experience filled with pumpkins, Haunted Hotel experience, carnival games, family activities, seasonal treats, photo ops, and Halloween fun in the heart of Prospect Park. Pick a pumpkin, make your way through the corn maze, challenge your family to carnival games, test your skills, grab something seasonal to eat, and spend the day enjoying fall at LeFrak Center at Lakeside. The Fall Festival is designed to be family friendly and fun for all ages. Mondays: Festival 3\u20136 PM , Haunted Hotel 4\u201310 PM Thursdays-Fridays: Festival 3\u20136 PM, Haunted Hotel 6\u201310 PM Saturdays: Festival 11AM\u20136 PM, Haunted Hotel 4\u201311 PM Sundays: Festival 11AM\u20136 PM, Haunted Hotel 4\u201310 PM Get Tickets",
-    "url": "https://www.prospectpark.org/event/fall-festival-at-lakeside-18/2026-10-26/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-10-26",
-    "end_date": null,
-    "start_time": "16:00",
-    "end_time": "22:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
-  },
-  {
     "id": "prospect-park-concerts-2026-10-27-fall-festival-at-lakeside",
     "source_id": "prospect-park-concerts",
     "title": "Fall Festival at Lakeside",
@@ -73,7 +16,7 @@
     "end_time": "22:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-28-wednesday-greenmarket-at-bartel-pritchard-square",
@@ -92,7 +35,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-28-fall-fix-up",
@@ -111,7 +54,7 @@
     "end_time": "13:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-28-fall-festival-at-lakeside",
@@ -130,7 +73,7 @@
     "end_time": "22:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-29-prospect-park-stroller-walk",
@@ -149,7 +92,7 @@
     "end_time": "11:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-29-sexual-health-mobile-medical-unit",
@@ -168,7 +111,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-29-october-weekday-nature-exploration",
@@ -187,7 +130,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-29-carousel-rides",
@@ -206,7 +149,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-29-haunted-carousel",
@@ -225,7 +168,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-29-fall-festival-at-lakeside",
@@ -244,7 +187,7 @@
     "end_time": "22:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-30-older-adult-wellness-walk",
@@ -263,7 +206,7 @@
     "end_time": "12:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-30-october-weekday-nature-exploration",
@@ -282,7 +225,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-30-carousel-rides",
@@ -301,7 +244,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-30-haunted-carousel",
@@ -320,7 +263,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-30-fall-festival-at-lakeside",
@@ -339,7 +282,7 @@
     "end_time": "22:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-30-alfredas-cinema-ten-minutes-to-live-1932-w-live-vinyl-score",
@@ -358,7 +301,7 @@
     "end_time": "20:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-greenmarket-at-grand-army-plaza",
@@ -377,7 +320,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-dance-fitness-with-shape-up-nyc-at-the-boathouse",
@@ -396,7 +339,7 @@
     "end_time": "11:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-introduction-to-birdwatching-outings",
@@ -415,7 +358,7 @@
     "end_time": "12:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-creepy-crawly-halloween",
@@ -434,7 +377,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-spooktober-at-prospect-park-zoo",
@@ -453,7 +396,7 @@
     "end_time": "17:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-park-pitch-in-nethermead-care",
@@ -472,7 +415,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-fall-festival-at-lakeside",
@@ -491,7 +434,7 @@
     "end_time": "22:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-pop-up-audubon-i",
@@ -510,7 +453,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-pop-up-audubon-ii",
@@ -529,7 +472,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-carousel-rides",
@@ -548,7 +491,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-haunted-carousel",
@@ -567,6 +510,63 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-26T07:16:31Z"
+    "last_updated": "2026-10-27T07:06:51Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-10-31-exhibit-the-shirley-chisholm-way-brooklyns-blueprint-for-change",
+    "source_id": "prospect-park-concerts",
+    "title": "Exhibit: The Shirley Chisholm Way: Brooklyn's Blueprint for Change",
+    "description": "Join Prospect Park Alliance and Shirley Chisholm Cultural Institute (SCCI) for a new exhibit that explores how Brooklyn\u2019s beloved daughter broke down gender and racial barriers to fight for her community, becoming the first Black woman elected to Congress. The exhibit is organized around seven life lessons drawn from Chisholm\u2019s tenacious career. It features stunning portraits of Chisholm by artist Al Johnson and rarely seen photographs and memorabilia from the Congresswoman\u2019s campaigns, curated by Barbara Bullard, Creative Producer and President of SCCI. These materials offer inspirational insights into how Brooklyn\u2019s beloved daughter broke down gender and racial barriers to become the first Black woman to serve in Congress. This exhibit provides visitors with a space to reflect on Chisholm\u2019s legacy as Prospect Park Alliance welcomes the installation of a new monument in her honor at the Parkside and Ocean Avenue entrance in 2027. The exhibit, curated by Barbara Bullard, Cultural Producer and President of the Shirley Chisholm Cultural Institute, is part of Prospect Park Alliance\u2019s ReImagine Lefferts initiative, which is transforming the museum to explore the legacies of resistance and resilience of the Indigenous people of Lenapehoking, whose unceded ancestral lands the park and house rests upon, and Africans who were enslaved by the Lefferts family. The Shirley Chisholm Cultural Institute (SCCI) has been at the forefront of art, culture, and justice and economic sustainability since 1977, with the official permission and participation of Congresswoman Chisholm herself in its inception and development. Its purpose is to preserve the legacy of Congresswoman Shirley Chisholm through the initiatives cultivated during her public service career with 21st century activism and innovation. SCCI is aligned with grassroots groups and frontline communities through creating substantive community-based partnership and collaboration along with strategic interoperative relationships with leaders of governmental, and mainstream organizations.",
+    "url": "https://www.prospectpark.org/event/the-shirley-chisholm-way-brooklyns-blueprint-for-change-4/2026-10-31/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-10-31",
+    "end_date": null,
+    "start_time": "12:00",
+    "end_time": "17:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-10-27T07:06:51Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-10-31-urban-park-rangers-folklore-tales-on-the-trail-hike",
+    "source_id": "prospect-park-concerts",
+    "title": "Urban Park Rangers | Folklore Tales on the Trail Hike",
+    "description": "Gather at the Washington Irving statue and join the Urban Park Rangers for a hike learning about the folklore and history surrounding Sleepy Hollow while enjoying a nature walk through Prospect Park. While on this hike, meet and greet the horses and officers of the NYC Parks Mounted Park Enforcement Patrol. Learn more on the NYC Parks website: Learn More",
+    "url": "https://www.prospectpark.org/event/urban-park-rangers-folklore-tales-on-the-trail-hike/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-10-31",
+    "end_date": null,
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-10-27T07:06:51Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-11-01-sunday-greenmarket-at-bartel-pritchard-square",
+    "source_id": "prospect-park-concerts",
+    "title": "Sunday Greenmarket at Bartel-Pritchard Square",
+    "description": "Nestled inside Prospect Park\u2019s tree-shaded southwest corner, this much-loved market is where South Slope and Windsor Terrace residents stock up on locally grown staples. The offerings range from a selection of vegetables, fruits, baked goods, plants and flowers to fresh-caught fish and organic baked goods. Learn More For a full calendar of events and a list of sellers, visit the GrowNYC website. Learn about all Nutrition Benefit Programs accepted at GrowNYC Markets",
+    "url": "https://www.prospectpark.org/event/sunday-greenmarket-at-bartel-pritchard-square-4/2026-11-01/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-11-01",
+    "end_date": null,
+    "start_time": "09:00",
+    "end_time": "14:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-10-27T07:06:51Z"
   }
 ]
