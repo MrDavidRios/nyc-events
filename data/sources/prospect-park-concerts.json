@@ -1,24 +1,5 @@
 [
   {
-    "id": "prospect-park-concerts-2026-10-27-fall-festival-at-lakeside",
-    "source_id": "prospect-park-concerts",
-    "title": "Fall Festival at Lakeside",
-    "description": "Celebrate the season at the Lakeside Fall Festival, a month-long fall experience filled with pumpkins, Haunted Hotel experience, carnival games, family activities, seasonal treats, photo ops, and Halloween fun in the heart of Prospect Park. Pick a pumpkin, make your way through the corn maze, challenge your family to carnival games, test your skills, grab something seasonal to eat, and spend the day enjoying fall at LeFrak Center at Lakeside. The Fall Festival is designed to be family friendly and fun for all ages. Mondays: Festival 3\u20136 PM , Haunted Hotel 4\u201310 PM Thursdays-Fridays: Festival 3\u20136 PM, Haunted Hotel 6\u201310 PM Saturdays: Festival 11AM\u20136 PM, Haunted Hotel 4\u201311 PM Sundays: Festival 11AM\u20136 PM, Haunted Hotel 4\u201310 PM Get Tickets",
-    "url": "https://www.prospectpark.org/event/fall-festival-at-lakeside-18/2026-10-27/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-10-27",
-    "end_date": null,
-    "start_time": "16:00",
-    "end_time": "22:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
-  },
-  {
     "id": "prospect-park-concerts-2026-10-28-wednesday-greenmarket-at-bartel-pritchard-square",
     "source_id": "prospect-park-concerts",
     "title": "Wednesday Greenmarket at Bartel-Pritchard Square",
@@ -35,7 +16,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-28-fall-fix-up",
@@ -54,7 +35,7 @@
     "end_time": "13:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-28-fall-festival-at-lakeside",
@@ -73,7 +54,7 @@
     "end_time": "22:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-29-prospect-park-stroller-walk",
@@ -92,7 +73,7 @@
     "end_time": "11:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-29-sexual-health-mobile-medical-unit",
@@ -111,7 +92,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-29-october-weekday-nature-exploration",
@@ -130,7 +111,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-29-carousel-rides",
@@ -149,7 +130,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-29-haunted-carousel",
@@ -168,7 +149,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-29-fall-festival-at-lakeside",
@@ -187,7 +168,7 @@
     "end_time": "22:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-30-older-adult-wellness-walk",
@@ -206,7 +187,7 @@
     "end_time": "12:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-30-october-weekday-nature-exploration",
@@ -225,7 +206,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-30-carousel-rides",
@@ -244,7 +225,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-30-haunted-carousel",
@@ -263,7 +244,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-30-fall-festival-at-lakeside",
@@ -282,7 +263,7 @@
     "end_time": "22:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-30-alfredas-cinema-ten-minutes-to-live-1932-w-live-vinyl-score",
@@ -301,7 +282,7 @@
     "end_time": "20:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-greenmarket-at-grand-army-plaza",
@@ -320,7 +301,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-dance-fitness-with-shape-up-nyc-at-the-boathouse",
@@ -339,7 +320,7 @@
     "end_time": "11:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-introduction-to-birdwatching-outings",
@@ -358,7 +339,7 @@
     "end_time": "12:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-creepy-crawly-halloween",
@@ -377,7 +358,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-spooktober-at-prospect-park-zoo",
@@ -396,7 +377,7 @@
     "end_time": "17:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-park-pitch-in-nethermead-care",
@@ -415,7 +396,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-fall-festival-at-lakeside",
@@ -434,7 +415,7 @@
     "end_time": "22:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-pop-up-audubon-i",
@@ -453,7 +434,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-pop-up-audubon-ii",
@@ -472,7 +453,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-carousel-rides",
@@ -491,7 +472,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-haunted-carousel",
@@ -510,7 +491,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-exhibit-the-shirley-chisholm-way-brooklyns-blueprint-for-change",
@@ -529,7 +510,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-urban-park-rangers-folklore-tales-on-the-trail-hike",
@@ -548,7 +529,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-01-sunday-greenmarket-at-bartel-pritchard-square",
@@ -567,6 +548,25 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-27T07:06:51Z"
+    "last_updated": "2026-10-28T07:46:49Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-11-01-birdwatching-first-sunday-outings",
+    "source_id": "prospect-park-concerts",
+    "title": "Birdwatching: First Sunday Outings",
+    "description": "Join a member of the Brooklyn Bird Club to explore Prospect Park in search of the many bird species found throughout the year. Along the way, you\u2019ll learn about the park\u2019s diverse habitats, the birds that depend on them and seasonal highlights. Birders of all ages and experience levels are welcome. No registration is required. What to Bring: Bring your binoculars along with comfortable walking shoes, water, and weather-appropriate clothing. Please Note: Pets are not permitted on this outing. Outings are held rain or shine unless severe weather makes conditions unsafe. Route Description: This outing is at an easy pace with frequent stops to observe birds. Routes may vary each week depending on bird activity and park conditions. Participants can expect paved paths, dirt trails, grassy areas, slight inclines and occasional steps. The group will cover approximately 1.5\u20132 miles. Learn more on the Brooklyn Bird Club Website",
+    "url": "https://www.prospectpark.org/event/birdwatching-first-sunday-outings-6/2026-11-01/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-11-01",
+    "end_date": null,
+    "start_time": "10:00",
+    "end_time": "13:30",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-10-28T07:46:49Z"
   }
 ]
