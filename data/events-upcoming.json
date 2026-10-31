@@ -1,537 +1,5 @@
 [
   {
-    "id": "carnegie-hall-2026-10-30-guided-tours",
-    "source_id": "carnegie-hall",
-    "title": "Guided Tours",
-    "description": null,
-    "url": "https://www.carnegiehall.org/Visit/Tour/Tours",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
-  },
-  {
-    "id": "carnegie-hall-2026-10-30-huddle",
-    "source_id": "carnegie-hall",
-    "title": "huddle",
-    "description": null,
-    "url": "https://www.carnegiehall.org/calendar/2026/10/30/huddle-1130am",
-    "image_url": null,
-    "venue": "Resnick Education Wing",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "11:30",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
-  },
-  {
-    "id": "carnegie-hall-2026-10-30-musicians-from-marlboro",
-    "source_id": "carnegie-hall",
-    "title": "Musicians From Marlboro",
-    "description": null,
-    "url": "https://www.carnegiehall.org/calendar/2026/10/30/musicians-from-marlboro-0800pm",
-    "image_url": null,
-    "venue": "Weill Recital Hall",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "20:00",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
-  },
-  {
-    "id": "lincoln-center-2026-10-30-baby-mozart-toddlers",
-    "source_id": "lincoln-center",
-    "title": "Baby Mozart: Toddlers",
-    "description": null,
-    "url": "https://www.nyphil.org/concerts-tickets/2627/baby-mozart-toddlers",
-    "image_url": null,
-    "venue": "New York Philharmonic",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "09:15",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
-  },
-  {
-    "id": "lincoln-center-2026-10-30-lincoln-center-tours",
-    "source_id": "lincoln-center",
-    "title": "Lincoln Center Tours",
-    "description": null,
-    "url": "https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
-  },
-  {
-    "id": "lincoln-center-2026-10-30-baby-mozart-babies",
-    "source_id": "lincoln-center",
-    "title": "Baby Mozart: Babies",
-    "description": null,
-    "url": "https://www.nyphil.org/concerts-tickets/2627/baby-mozart-babies",
-    "image_url": null,
-    "venue": "New York Philharmonic",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "10:30",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
-  },
-  {
-    "id": "lincoln-center-2026-10-30-baby-mozart-babies-toddlers",
-    "source_id": "lincoln-center",
-    "title": "Baby Mozart: Babies & Toddlers",
-    "description": null,
-    "url": "https://www.nyphil.org/concerts-tickets/2627/baby-mozart-babies-and-toddlers",
-    "image_url": null,
-    "venue": "New York Philharmonic",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "11:35",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
-  },
-  {
-    "id": "lincoln-center-2026-10-30-once-upon-a-time-in-harlem",
-    "source_id": "lincoln-center",
-    "title": "Once Upon a Time in Harlem",
-    "description": null,
-    "url": "https://www.filmlinc.org/films/once-upon-a-time-in-harlem",
-    "image_url": null,
-    "venue": "Film at Lincoln Center",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
-  },
-  {
-    "id": "lincoln-center-2026-10-30-fatherland",
-    "source_id": "lincoln-center",
-    "title": "Fatherland",
-    "description": null,
-    "url": "https://www.filmlinc.org/films/fatherland",
-    "image_url": null,
-    "venue": "Film at Lincoln Center",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
-  },
-  {
-    "id": "lincoln-center-2026-10-30-possible-love",
-    "source_id": "lincoln-center",
-    "title": "Possible Love",
-    "description": null,
-    "url": "https://www.filmlinc.org/films/possible-love",
-    "image_url": null,
-    "venue": "Film at Lincoln Center",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
-  },
-  {
-    "id": "lincoln-center-2026-10-30-the-devils",
-    "source_id": "lincoln-center",
-    "title": "The Devils",
-    "description": null,
-    "url": "https://www.filmlinc.org/films/the-devils",
-    "image_url": null,
-    "venue": "Film at Lincoln Center",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": null,
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
-  },
-  {
-    "id": "lincoln-center-2026-10-30-rush-hour-performance-waltz-caprice-blues",
-    "source_id": "lincoln-center",
-    "title": "Rush Hour Performance | Waltz, Caprice, Blues",
-    "description": null,
-    "url": "https://www.juilliard.edu/event/187876/rush-hour-performance-waltz-caprice-blues",
-    "image_url": null,
-    "venue": "The Juilliard School",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "18:00",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
-  },
-  {
-    "id": "lincoln-center-2026-10-30-a-few-good-men",
-    "source_id": "lincoln-center",
-    "title": "A FEW GOOD MEN",
-    "description": null,
-    "url": "https://lct.org/shows/a-few-good-men/",
-    "image_url": null,
-    "venue": "Lincoln Center Theater",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "19:00",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
-  },
-  {
-    "id": "lincoln-center-2026-10-30-greg-hutchinsons-kind-of-now-the-pulse-of-miles-davis",
-    "source_id": "lincoln-center",
-    "title": "Greg Hutchinson's Kind of Now: The Pulse of Miles Davis",
-    "description": null,
-    "url": "https://ticketing.jazz.org/21567/21572",
-    "image_url": null,
-    "venue": "Jazz at Lincoln Center",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "19:00",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
-  },
-  {
-    "id": "lincoln-center-2026-10-30-dvok-debussy-and-chaminade",
-    "source_id": "lincoln-center",
-    "title": "Dvo\u0159\u00e1k, Debussy, and Chaminade",
-    "description": null,
-    "url": "https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/26-27/dvorak-debussy-and-chaminade/",
-    "image_url": null,
-    "venue": "Chamber Music Society of Lincoln Center",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "19:30",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
-  },
-  {
-    "id": "lincoln-center-2026-10-30-cherubinis-medea",
-    "source_id": "lincoln-center",
-    "title": "Cherubini's Medea",
-    "description": null,
-    "url": "https://www.metopera.org/season/2026-27-season/medea/",
-    "image_url": null,
-    "venue": "The Metropolitan Opera",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "19:30",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
-  },
-  {
-    "id": "lincoln-center-2026-10-30-gerardo-contino",
-    "source_id": "lincoln-center",
-    "title": "Gerardo Contino",
-    "description": null,
-    "url": "https://www.lincolncenter.org/series/lincoln-center-presents/s/%C2%A1VAYA!",
-    "image_url": null,
-    "venue": "\u00a1VAYA! Legacies of San Juan Hill Festival",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "19:30",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
-  },
-  {
-    "id": "lincoln-center-2026-10-30-ambrose-akinmusire-and-aszure-barton",
-    "source_id": "lincoln-center",
-    "title": "Ambrose Akinmusire and Aszure Barton",
-    "description": null,
-    "url": "https://www.lincolncenter.org/series/lincoln-center-presents/ambrose-akinmusire-and-aszure-barton",
-    "image_url": null,
-    "venue": "Lincoln Center Presents",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "19:30",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
-  },
-  {
-    "id": "lincoln-center-2026-10-30-creation-stories-and-all-the-important-importants",
-    "source_id": "lincoln-center",
-    "title": "creation stories and all the important importants",
-    "description": null,
-    "url": "https://lct.org/shows/creation-stories-and-all-the-important-importants/",
-    "image_url": null,
-    "venue": "Lincoln Center Theater",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "19:30",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
-  },
-  {
-    "id": "lincoln-center-2026-10-30-abt-trio-lgiaque",
-    "source_id": "lincoln-center",
-    "title": "ABT - Trio \u00c9l\u00e9giaque",
-    "description": null,
-    "url": "https://www.abt.org/events/trio-elegiaque/",
-    "image_url": null,
-    "venue": "American Ballet Theatre",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "19:30",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
-  },
-  {
-    "id": "lincoln-center-2026-10-30-abt-flight",
-    "source_id": "lincoln-center",
-    "title": "ABT - Flight",
-    "description": null,
-    "url": "https://www.abt.org/events/flight/",
-    "image_url": null,
-    "venue": "American Ballet Theatre",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "19:30",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
-  },
-  {
-    "id": "lincoln-center-2026-10-30-get-out-in-concert",
-    "source_id": "lincoln-center",
-    "title": "Get Out in Concert",
-    "description": null,
-    "url": "https://www.nyphil.org/concerts-tickets/2627/get-out-in-concert",
-    "image_url": null,
-    "venue": "New York Philharmonic",
-    "address": null,
-    "category": "performing-arts",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "19:30",
-    "end_time": null,
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-10-30-older-adult-wellness-walk",
-    "source_id": "prospect-park-concerts",
-    "title": "Older Adult Wellness Walk",
-    "description": "Join Prospect Park Alliance and Public Health Solutions for a special Wellness Walk in Prospect Park geared for Older Adults in timing with fall foliage season. PHS staff will also be on hand to discuss health benefits available to Older Adults through government programs. Please note that Eventbrite RSVP is required: Register Today Please check your email prior to the event for changes, updates and to confirm the walk has met a minimum participant requirement.",
-    "url": "https://www.prospectpark.org/event/prospect-park-wellness-walk-5-5/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "10:00",
-    "end_time": "12:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-10-30-canceled-october-weekday-nature-exploration",
-    "source_id": "prospect-park-concerts",
-    "title": "Canceled | October Weekday Nature Exploration",
-    "description": "Please note that October Weekday Nature Exploration is canceled. Thank you for your understanding. Join Prospect Park Alliance for nature education programs on Thursdays and Fridays at the Prospect Park Audubon Center, the first urban Audubon Center in the nation. Leaf Art, 10 am \u20133 pm: Let\u2019s have fun exploring the unique features of trees and their uniquely shaped leaves. Let your creativity flourish as you craft art inspired by nature. Nature Detective, 10 am\u20133 pm: What can you discover when you slow down and look closely? Borrow a sketchbook and observation guide, then record your discoveries and sketch what catches your eye, just like a naturalist in the field! Fall Leaf Discovery, 2\u20133 pm: Join us as we delve into the wonder of nature! Are you curious about why and when trees shed their leaves? Gain hands-on experience in citizen science as we explore the Prospect Park environment and witness how changing temperatures affect the trees. We will provide you with a guide to help you record your observations. This program leaves the Audubon Center promptly at 2 pm.",
-    "url": "https://www.prospectpark.org/event/october-weekday-nature-exploration-3-3/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "10:00",
-    "end_time": "15:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-10-30-carousel-rides",
-    "source_id": "prospect-park-concerts",
-    "title": "Carousel Rides",
-    "description": "Children\u2019s Corner, $3 per ride, $13 for a book of 5 tickets, Free with Prospect Park Alliance Family Supporter membership or higher. Enjoy a ride on Prospect Park\u2019s beloved 1912 Carousel. Open Thursdays \u2013 Sundays and Holidays, this treasured historic attraction features magnificent carved horses, lions, giraffes and deer. Join the Alliance at the Family Supporter level or above and enjoy unlimited free rides!",
-    "url": "https://www.prospectpark.org/event/carousel-rides-9/2026-10-30/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "12:00",
-    "end_time": "17:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-10-30-haunted-carousel",
-    "source_id": "prospect-park-concerts",
-    "title": "Haunted Carousel",
-    "description": "Don\u2019t be scared when you see the haunted carousel! Take a spin on the spooky ride to your favorite Halloween jams at the beloved Prospect Park Carousel. Children\u2019s Corner, $3 per ride; $13 for a book of 5 tickets; Free with Prospect Park Alliance Family Supporter membership or higher. Join the Alliance at the Family Supporter level and your family (up to 4 people) will receive unlimited rides on the Carousel for a full year!",
-    "url": "https://www.prospectpark.org/event/haunted-carousel-4/2026-10-30/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "12:00",
-    "end_time": "17:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-10-30-fall-festival-at-lakeside",
-    "source_id": "prospect-park-concerts",
-    "title": "Fall Festival at Lakeside",
-    "description": "Celebrate the season at the Lakeside Fall Festival, a month-long fall experience filled with pumpkins, Haunted Hotel experience, carnival games, family activities, seasonal treats, photo ops, and Halloween fun in the heart of Prospect Park. Pick a pumpkin, make your way through the corn maze, challenge your family to carnival games, test your skills, grab something seasonal to eat, and spend the day enjoying fall at LeFrak Center at Lakeside. The Fall Festival is designed to be family friendly and fun for all ages. Mondays: Festival 3\u20136 PM , Haunted Hotel 4\u201310 PM Thursdays-Fridays: Festival 3\u20136 PM, Haunted Hotel 6\u201310 PM Saturdays: Festival 11AM\u20136 PM, Haunted Hotel 4\u201311 PM Sundays: Festival 11AM\u20136 PM, Haunted Hotel 4\u201310 PM Get Tickets",
-    "url": "https://www.prospectpark.org/event/fall-festival-at-lakeside-18/2026-10-30/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "16:00",
-    "end_time": "22:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-10-30-alfredas-cinema-ten-minutes-to-live-1932-w-live-vinyl-score",
-    "source_id": "prospect-park-concerts",
-    "title": "Alfreda's Cinema, Ten Minutes to Live (1932) w/ Live Vinyl Score",
-    "description": "Join Prospect Park Alliance and Alfreda\u2019s Cinema for the 2026 Open-Air Film Sessions, where Black stories breathe under open skies. Experience Oscar Micheaux\u2019s classic 1932 mystery-thriller, Ten Minutes to Live, transformed by a live vinyl score curated to amplify every twist, turn, and rhythm of Harlem\u2019s historic screen legacy. Bring a blanket and settle in for an unforgettable night of cinema, music, and community in Prospect Park. RSVP",
-    "url": "https://www.prospectpark.org/event/alfredas-cinema-ten-minuets-to-live-1932-w-live-vinyl-score/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-10-30",
-    "end_date": null,
-    "start_time": "18:00",
-    "end_time": "20:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
-  },
-  {
     "id": "carnegie-hall-2026-10-31-guided-tours",
     "source_id": "carnegie-hall",
     "title": "Guided Tours",
@@ -548,7 +16,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-10-31-huddle",
@@ -567,7 +35,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-10-31-7th-new-york-global-music-competition-winners-concert",
@@ -586,7 +54,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-10-31-cancelled-tuudr-piano-competition-gala",
@@ -605,7 +73,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-10-31-postponed-nathan-carter",
@@ -624,7 +92,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "lincoln-center-2026-10-31-once-upon-a-time-in-harlem",
@@ -643,7 +111,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
+    "last_updated": "2026-10-31T07:47:28Z"
   },
   {
     "id": "lincoln-center-2026-10-31-fatherland",
@@ -662,7 +130,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
+    "last_updated": "2026-10-31T07:47:28Z"
   },
   {
     "id": "lincoln-center-2026-10-31-puccinis-la-bohme",
@@ -681,7 +149,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
+    "last_updated": "2026-10-31T07:47:28Z"
   },
   {
     "id": "lincoln-center-2026-10-31-new-classics-film-series-ghostbusters",
@@ -700,7 +168,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
+    "last_updated": "2026-10-31T07:47:28Z"
   },
   {
     "id": "lincoln-center-2026-10-31-possible-love",
@@ -719,7 +187,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
+    "last_updated": "2026-10-31T07:47:28Z"
   },
   {
     "id": "lincoln-center-2026-10-31-a-few-good-men",
@@ -738,7 +206,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
+    "last_updated": "2026-10-31T07:47:28Z"
   },
   {
     "id": "lincoln-center-2026-10-31-creation-stories-and-all-the-important-importants",
@@ -757,7 +225,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
+    "last_updated": "2026-10-31T07:47:28Z"
   },
   {
     "id": "lincoln-center-2026-10-31-abt-trio-lgiaque",
@@ -776,7 +244,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
+    "last_updated": "2026-10-31T07:47:28Z"
   },
   {
     "id": "lincoln-center-2026-10-31-abt-flight",
@@ -795,7 +263,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
+    "last_updated": "2026-10-31T07:47:28Z"
   },
   {
     "id": "lincoln-center-2026-10-31-the-devils",
@@ -814,7 +282,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
+    "last_updated": "2026-10-31T07:47:28Z"
   },
   {
     "id": "lincoln-center-2026-10-31-map-open-recital",
@@ -833,7 +301,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
+    "last_updated": "2026-10-31T07:47:28Z"
   },
   {
     "id": "lincoln-center-2026-10-31-greg-hutchinsons-kind-of-now-the-pulse-of-miles-davis",
@@ -852,7 +320,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
+    "last_updated": "2026-10-31T07:47:28Z"
   },
   {
     "id": "lincoln-center-2026-10-31-juilliard415-and-yale-schola-cantorum-conducted-by-grete-pedersen-bachs-st-matthew-passion",
@@ -871,7 +339,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
+    "last_updated": "2026-10-31T07:47:28Z"
   },
   {
     "id": "lincoln-center-2026-10-31-friday-the-13th-part-viii-jason-takes-manhattan",
@@ -890,7 +358,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
+    "last_updated": "2026-10-31T07:47:28Z"
   },
   {
     "id": "lincoln-center-2026-10-31-get-out-in-concert",
@@ -909,7 +377,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
+    "last_updated": "2026-10-31T07:47:28Z"
   },
   {
     "id": "lincoln-center-2026-10-31-mazzolis-lincoln-in-the-bardo",
@@ -928,7 +396,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:55:25Z"
+    "last_updated": "2026-10-31T07:47:28Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-greenmarket-at-grand-army-plaza",
@@ -947,7 +415,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-canceled-dance-fitness-with-shape-up-nyc-at-the-boathouse",
@@ -966,7 +434,7 @@
     "end_time": "11:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-introduction-to-birdwatching-outings",
@@ -985,7 +453,7 @@
     "end_time": "12:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-creepy-crawly-halloween",
@@ -1004,7 +472,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-spooktober-at-prospect-park-zoo",
@@ -1023,7 +491,7 @@
     "end_time": "17:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-park-pitch-in-nethermead-care",
@@ -1042,7 +510,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-fall-festival-at-lakeside",
@@ -1061,7 +529,7 @@
     "end_time": "22:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-canceled-pop-up-audubon-i",
@@ -1080,7 +548,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-canceled-pop-up-audubon-ii",
@@ -1099,7 +567,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-carousel-rides",
@@ -1118,7 +586,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-haunted-carousel",
@@ -1137,7 +605,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-exhibit-the-shirley-chisholm-way-brooklyns-blueprint-for-change",
@@ -1156,7 +624,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-10-31-urban-park-rangers-folklore-tales-on-the-trail-hike",
@@ -1175,7 +643,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "carnegie-hall-2026-11-01-sound-of-home-chinese-classical-music-concert",
@@ -1194,7 +662,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-01-xiaobin-ma-soprano",
@@ -1213,7 +681,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-01-sunday-greenmarket-at-bartel-pritchard-square",
@@ -1232,7 +700,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-01-birdwatching-first-sunday-outings",
@@ -1251,7 +719,7 @@
     "end_time": "13:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-01-brooklyn-fam-6th-annual-flagship-festival-shine-your-light",
@@ -1270,7 +738,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-01-fall-festival-at-lakeside",
@@ -1289,7 +757,7 @@
     "end_time": "22:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-01-carousel-rides",
@@ -1308,7 +776,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-01-haunted-carousel",
@@ -1327,7 +795,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-01-exhibit-the-shirley-chisholm-way-brooklyns-blueprint-for-change",
@@ -1346,7 +814,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "carnegie-hall-2026-11-02-guided-tours",
@@ -1365,7 +833,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-02-falsettos-10-year-anniversary-concert",
@@ -1384,7 +852,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-02-postponed-valerian-shiukashvili-piano",
@@ -1403,7 +871,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-02-sexual-health-mobile-medical-unit",
@@ -1422,7 +890,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-02-fall-festival-at-lakeside",
@@ -1441,7 +909,7 @@
     "end_time": "22:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "carnegie-hall-2026-11-03-guided-tours",
@@ -1460,7 +928,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-03-ischool-of-music-art-ensemble-players",
@@ -1479,7 +947,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-03-election-day-school-holiday-in-prospect-park",
@@ -1498,7 +966,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-03-fall-festival-at-lakeside",
@@ -1517,7 +985,7 @@
     "end_time": "22:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:29Z"
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "carnegie-hall-2026-11-04-guided-tours",
@@ -1536,7 +1004,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-04-carter-johnson-piano",
@@ -1555,7 +1023,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-04-punch-brothers",
@@ -1574,7 +1042,64 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-11-04-wednesday-greenmarket-at-bartel-pritchard-square",
+    "source_id": "prospect-park-concerts",
+    "title": "Wednesday Greenmarket at Bartel-Pritchard Square",
+    "description": "Nestled inside Prospect Park\u2019s tree-shaded southwest corner, this much-loved market is where South Slope and Windsor Terrace residents stock up on locally grown staples. The offerings range from a selection of vegetables, fruits, baked goods, plants and flowers to fresh-caught fish and organic baked goods. Learn More For a full calendar of events and a list of sellers, visit the GrowNYC website. Learn about all Nutrition Benefit Programs accepted at GrowNYC Markets",
+    "url": "https://www.prospectpark.org/event/wednesday-greenmarket-at-bartel-pritchard-square/2026-11-04/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-11-04",
+    "end_date": null,
+    "start_time": "08:00",
+    "end_time": "14:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-10-31T07:48:49Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-11-04-fall-fix-up",
+    "source_id": "prospect-park-concerts",
+    "title": "Fall Fix-Up",
+    "description": "Join Prospect Park Alliance this fall to help spruce up the park after a busy summer season. Lend a hand with a variety of projects from path and playground restoration, painting and leaf raking. From September through November, explore your park while giving back to Brooklyn\u2019s Backyard! Join a Fall Fix Up event on September 30; October 7, 14, 21, or 28; or November 4, 12, 18, or 25. Please note that locations vary by date. Appropriate for adults only. Register Today Register online or call (929) 888-6826 for more information.",
+    "url": "https://www.prospectpark.org/event/fall-fix-up-5/2026-11-04/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-11-04",
+    "end_date": null,
+    "start_time": "10:00",
+    "end_time": "13:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-10-31T07:48:49Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-11-04-fall-festival-at-lakeside",
+    "source_id": "prospect-park-concerts",
+    "title": "Fall Festival at Lakeside",
+    "description": "Celebrate the season at the Lakeside Fall Festival, a month-long fall experience filled with pumpkins, Haunted Hotel experience, carnival games, family activities, seasonal treats, photo ops, and Halloween fun in the heart of Prospect Park. Pick a pumpkin, make your way through the corn maze, challenge your family to carnival games, test your skills, grab something seasonal to eat, and spend the day enjoying fall at LeFrak Center at Lakeside. The Fall Festival is designed to be family friendly and fun for all ages. Mondays: Festival 3\u20136 PM , Haunted Hotel 4\u201310 PM Thursdays-Fridays: Festival 3\u20136 PM, Haunted Hotel 6\u201310 PM Saturdays: Festival 11AM\u20136 PM, Haunted Hotel 4\u201311 PM Sundays: Festival 11AM\u20136 PM, Haunted Hotel 4\u201310 PM Get Tickets",
+    "url": "https://www.prospectpark.org/event/fall-festival-at-lakeside-18/2026-11-04/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-11-04",
+    "end_date": null,
+    "start_time": "16:00",
+    "end_time": "22:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "carnegie-hall-2026-11-05-guided-tours",
@@ -1593,7 +1118,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-05-alisa-weilerstein-fragments-6",
@@ -1612,7 +1137,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-05-the-met-orchestra-chamber-ensemble",
@@ -1631,7 +1156,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-05-orchestra-of-st-lukes",
@@ -1650,7 +1175,64 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-11-05-prospect-park-stroller-walk",
+    "source_id": "prospect-park-concerts",
+    "title": "Prospect Park Stroller Walk",
+    "description": "Calling all parents and caregivers with children! Join a Prospect Park Alliance Naturalist for a leisurely stroll along Prospect Park\u2019s waterways. Embrace the sound of streams and songs of birds, while enjoying fragrant flowers and the towering trees of Brooklyn\u2019s Backyard. Please note that this walk leaves promptly at 10 am from the Prospect Park Boathouse. RSVP to reserve your spot: RSVP Please check your email prior to the event for changes, updates and to confirm the walk has met a minimum participant requirement",
+    "url": "https://www.prospectpark.org/event/prospect-park-stroller-walk-5/2026-11-05/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-11-05",
+    "end_date": null,
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-10-31T07:48:49Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-11-05-sexual-health-mobile-medical-unit",
+    "source_id": "prospect-park-concerts",
+    "title": "Sexual Health Mobile Medical Unit",
+    "description": "Prospect Park Alliance is collaborating with NewYork-Presbyterian to offer comprehensive sexual health services in Brooklyn\u2019s backyard at Grand Army Plaza every Thursday from 10 am to 3 pm and every Monday at the Parkside + Ocean Avenue Entrance from 10 am to 3 pm. The NewYork-Presbyterian Sexual Health Mobile Medical Unit is a safe, inclusive space for people to receive high-quality sexual health services. Learn more about the Sexual Health Mobile Medical Unit in Prospect Park or reach out to us at mobilehealth@nyp.org or (929) 923-3543. No insurance or ID is required to receive care. Staffed by a team of NewYork-Presbyterian healthcare providers, the mobile medical unit has an exam room and consult room, and offers routine laboratory testing, vaccinations, and PrEP and PEP medications that lower the risk of HIV infection. Patients can also be connected to social services, benefits enrollment, and local healthcare providers. Other services include sexually transmitted infection (STI) testing, family planning, hepatitis C screening, health education and more. The Sexual Health Mobile Medical Unit is made possible through funding from the Dalio Center for Health Justice and the Division of Community and Population Health at NewYork-Presbyterian, and a grant from the Centers for Disease Control and Prevention.",
+    "url": "https://www.prospectpark.org/event/sexual-health-mobile-medical-unit/2026-11-05/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-11-05",
+    "end_date": null,
+    "start_time": "10:00",
+    "end_time": "15:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-10-31T07:48:49Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-11-05-carousel-rides",
+    "source_id": "prospect-park-concerts",
+    "title": "Carousel Rides",
+    "description": "Children\u2019s Corner, $3 per ride, $13 for a book of 5 tickets, Free with Prospect Park Alliance Family Supporter membership or higher. Enjoy a ride on Prospect Park\u2019s beloved 1912 Carousel. Open Thursdays \u2013 Sundays and Holidays, this treasured historic attraction features magnificent carved horses, lions, giraffes and deer. Join the Alliance at the Family Supporter level or above and enjoy unlimited free rides!",
+    "url": "https://www.prospectpark.org/event/carousel-rides-9/2026-11-05/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-11-05",
+    "end_date": null,
+    "start_time": "12:00",
+    "end_time": "17:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-10-31T07:48:49Z"
   },
   {
     "id": "carnegie-hall-2026-11-06-nan-triumph-awards",
@@ -1669,7 +1251,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-06-jean-rondeau-harpsichord",
@@ -1688,7 +1270,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-06-chamber-girls-choir-of-the-mv-lysenko-kyiv-state-music-lyceum-and-the-westchester-childrens-chorus",
@@ -1707,7 +1289,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-07-guided-tours",
@@ -1726,7 +1308,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-07-miclot-chamber-music-society",
@@ -1745,7 +1327,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-07-maybrook-wind-ensemble-live-in-the-big-apple",
@@ -1764,7 +1346,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-07-interharmony-concert-series-fearless-passion",
@@ -1783,7 +1365,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-08-10th-anniversary-florida-keys-international-music-competition",
@@ -1802,7 +1384,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-08-the-senior-concert-orchestra-of-new-york",
@@ -1821,7 +1403,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-08-afaf-winners-concert",
@@ -1840,7 +1422,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-09-nyyvc-winners-recital",
@@ -1859,7 +1441,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-09-quinteto-astor-piazzolla",
@@ -1878,7 +1460,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-09-cancelled-zoltn-mga-violin",
@@ -1897,7 +1479,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-10-juilliard-at-zankel-hall",
@@ -1916,7 +1498,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-10-santiago-can-valencia-cellovictor-santiago-asuncion-piano",
@@ -1935,7 +1517,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-10-oratorio-society-of-new-york",
@@ -1954,7 +1536,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-11-vocal-and-chamber-music-concert",
@@ -1973,7 +1555,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-11-aigul-akhmetshina-mezzo-soprano-jonathan-palmer-lakeland-piano",
@@ -1992,7 +1574,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-12-ensemble-connect",
@@ -2011,7 +1593,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-12-midatlantic-philharmonic-orchestra",
@@ -2030,7 +1612,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-12-cristiana-pegoraro-piano",
@@ -2049,7 +1631,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-13-the-20th-annual-lisma-international-music-competition-winners-concert",
@@ -2068,7 +1650,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-13-an-evening-of-jazz-with-charu-suri-and-lizzie-thomas",
@@ -2087,7 +1669,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-13-new-york-philharmonic",
@@ -2106,7 +1688,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-14-ny-classical-debut-awards-gala-concert",
@@ -2125,7 +1707,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-14-silkroad-ensemble-featuring-rhiannon-giddens-and-yo-yo-ma",
@@ -2144,7 +1726,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-14-magnum-opus-international-speech-and-drama-competition-winners-showcase",
@@ -2163,7 +1745,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-15-chamber-music-foundation-of-new-england",
@@ -2182,7 +1764,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-15-new-york-philharmonic",
@@ -2201,7 +1783,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-15-apollos-fire-jeanine-de-bique",
@@ -2220,7 +1802,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-15-hiu-sing-fan-violincameron-akioka-piano",
@@ -2239,7 +1821,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-16-dciny-spirit-of-freedom",
@@ -2258,7 +1840,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-16-jnos-balzs-piano",
@@ -2277,7 +1859,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-16-opera-nova-contemporary-arias-from-brazilian-composers",
@@ -2296,7 +1878,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-17-the-orchestra-now",
@@ -2315,7 +1897,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-17-jupiter-ensemble",
@@ -2334,7 +1916,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-17-orpheus-chamber-orchestraisata-kanneh-mason-piano",
@@ -2353,7 +1935,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-18-rihab-chaieb-mezzo-sopranoammiel-bushakevitz-piano",
@@ -2372,7 +1954,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-18-minsoo-sohn-piano",
@@ -2391,7 +1973,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-19-roberto-plano-piano",
@@ -2410,7 +1992,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-19-givon",
@@ -2429,7 +2011,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-20-chamber-orchestra-of-new-york",
@@ -2448,7 +2030,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-20-the-new-york-pops",
@@ -2467,7 +2049,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-20-takako-ines-asahina-piano-trio",
@@ -2486,7 +2068,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-21-iapmt-winners-concert",
@@ -2505,7 +2087,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-21-james-austin-smith-and-friends",
@@ -2524,7 +2106,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-21-rishab-rikhiram-sharma",
@@ -2543,7 +2125,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-21-passion-through-performance",
@@ -2562,7 +2144,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-22-iapmt-winners-concert",
@@ -2581,7 +2163,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-22-new-york-youth-symphony",
@@ -2600,7 +2182,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-22-master-jeongwook-park",
@@ -2619,7 +2201,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-22-concert-festival-winners-recital",
@@ -2638,7 +2220,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-23-sound-espressivo-gala",
@@ -2657,7 +2239,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-23-christmas-in-the-big-apple",
@@ -2676,7 +2258,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-24-sound-espressivo-gala",
@@ -2695,7 +2277,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-24-dciny-total-vocal-with-deke-sharon-a-holiday-celebration",
@@ -2714,7 +2296,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-27-american-protg-winners-recital",
@@ -2733,7 +2315,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-27-tamara-radjenovi-soprano-and-murat-karahan-tenor",
@@ -2752,7 +2334,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-28-bmtg-8th-intercontinental-music-competition-winners-concert",
@@ -2771,7 +2353,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-28-dciny-sounds-of-the-season",
@@ -2790,7 +2372,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-28-zoltn-mga-violin",
@@ -2809,7 +2391,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-29-bmtg-8th-intercontinental-music-competition-winners-concert",
@@ -2828,7 +2410,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-29-an-advent-evening-with-matt-maher-and-jonathan-roumie",
@@ -2847,7 +2429,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-29-the-2026-avimc-winners-recital",
@@ -2866,7 +2448,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-30-amazonas-2026",
@@ -2885,7 +2467,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-11-30-16th-annual-christmas-in-new-york",
@@ -2904,7 +2486,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-01-dciny-jubilaeum-holiday-gala",
@@ -2923,7 +2505,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-01-leo-b-ruiz-memorial-recital",
@@ -2942,7 +2524,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-02-karim-sulayman-tenortom-poster-piano",
@@ -2961,7 +2543,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-02-hlne-grimaud-piano",
@@ -2980,7 +2562,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-02-bravitalia-i-talenti-musicali-italiani",
@@ -2999,7 +2581,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-03-mikhail-voskresensky-piano",
@@ -3018,7 +2600,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-03-rene-fleming-with-bla-fleck",
@@ -3037,7 +2619,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-04-lily-friedman-friends-celebration-recital-benefiting-summertrios",
@@ -3056,7 +2638,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-04-the-cecilia-chorus-of-new-york-with-orchestra",
@@ -3075,7 +2657,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-05-veritas-international-music-competition-winners-recital",
@@ -3094,7 +2676,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-05-korean-youth-honor-society-music-competition-winners-recital",
@@ -3113,7 +2695,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-05-a-night-of-inspiration",
@@ -3132,7 +2714,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-06-chamber-orchestra-of-europe",
@@ -3151,7 +2733,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-06-alaria-chamber-ensemble",
@@ -3170,7 +2752,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-06-2026-bmf-national-concert-series-new-york",
@@ -3189,7 +2771,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-07-bar-harbor-music-festival-60th-anniversary-gala",
@@ -3208,7 +2790,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-07-leslie-odom-jr",
@@ -3227,7 +2809,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-08-the-notables-fall-celebration",
@@ -3246,7 +2828,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-08-ariel-quartet",
@@ -3265,7 +2847,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-09-global-social-impact-awards",
@@ -3284,7 +2866,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-09-orchestra-of-st-lukes-chamber-ensemble",
@@ -3303,7 +2885,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-10-young-concert-artists-on-tour",
@@ -3322,7 +2904,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-10-an-evening-with-the-mountain-goats",
@@ -3341,7 +2923,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-11-holidays-with-the-princeton-nassoons",
@@ -3360,7 +2942,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-11-an-evening-with-the-mountain-goats",
@@ -3379,7 +2961,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-12-golden-classical-music-awards-ceremony",
@@ -3398,7 +2980,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-12-daniil-trifonov-piano",
@@ -3417,7 +2999,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-12-cancelled-jingya-bi-and-friends",
@@ -3436,7 +3018,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-13-golden-classical-music-awards-ceremony",
@@ -3455,7 +3037,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-13-the-holiday-in-concert",
@@ -3474,7 +3056,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-14-golden-classical-music-awards-ceremony",
@@ -3493,7 +3075,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-14-yunchan-lim-piano",
@@ -3512,7 +3094,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-15-golden-classical-music-awards-ceremony",
@@ -3531,7 +3113,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-15-mastervoices",
@@ -3550,7 +3132,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-16-golden-classical-music-awards-ceremony",
@@ -3569,7 +3151,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-16-america-know-thyself-celebrating-americas-250th",
@@ -3588,7 +3170,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-17-golden-classical-music-awards-ceremony",
@@ -3607,7 +3189,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-17-musica-sacra",
@@ -3626,7 +3208,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-18-un-chamber-music-society-concert-in-celebration-of-arabic-language-day",
@@ -3645,7 +3227,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-18-the-new-york-pops",
@@ -3664,7 +3246,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-18-esperanza-spalding",
@@ -3683,7 +3265,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-19-american-protg-winners-recital",
@@ -3702,7 +3284,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-19-conrad-tao",
@@ -3721,7 +3303,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-19-randy-edelman-american-original",
@@ -3740,7 +3322,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-19-the-new-york-pops",
@@ -3759,7 +3341,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-20-american-protg-winners-recital",
@@ -3778,7 +3360,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-20-vienna-boys-choir",
@@ -3797,7 +3379,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-20-joshua-roman-cellocamila-meza-vocals-and-guitarzane-rodulfo-percussion",
@@ -3816,7 +3398,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-20-valerian-shiukashvili-piano",
@@ -3835,7 +3417,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-21-oratorio-society-of-new-york",
@@ -3854,7 +3436,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-21-the-5th-forte-yearly-music-festival-competition-winners-recital",
@@ -3873,7 +3455,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-22-christmas-night-opera-gala-2026",
@@ -3892,7 +3474,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-23-the-masterwork-chorus-with-orchestra",
@@ -3911,7 +3493,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-24-new-york-string-orchestra",
@@ -3930,7 +3512,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-26-american-protg-winners-recital",
@@ -3949,7 +3531,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-27-concert-of-the-future-a-christmas-dream",
@@ -3968,7 +3550,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-27-katya-grineva-piano",
@@ -3987,7 +3569,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-28-los-angeles-youth-philharmonic-chamber-ensemble",
@@ -4006,7 +3588,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2026-12-28-new-york-string-orchestra",
@@ -4025,7 +3607,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-09-crescendo-international-competition-winners-recital",
@@ -4044,7 +3626,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-09-the-university-glee-club-of-new-york-citys-263rd-members-concert",
@@ -4063,7 +3645,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-10-7th-new-york-global-music-competition-winners-concert",
@@ -4082,7 +3664,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-10-attack-on-titan-symphony-from-paradis",
@@ -4101,7 +3683,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-10-elite-international-music-competition-winners-recital",
@@ -4120,7 +3702,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-11-on-the-town-in-concert",
@@ -4139,7 +3721,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-11-the-royal-gala-concert-2027",
@@ -4158,7 +3740,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-12-on-the-town-in-concert",
@@ -4177,7 +3759,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-13-chamberfest-2027",
@@ -4196,7 +3778,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-13-mulaney-takes-manhattan",
@@ -4215,7 +3797,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-15-ukrainian-music-competition-gala",
@@ -4234,7 +3816,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-16-musical-explorers-family",
@@ -4253,7 +3835,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-16-the-18th-annual-performing-arts-educators-invitational",
@@ -4272,7 +3854,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-16-crescendo-international-competition-winners-recital",
@@ -4291,7 +3873,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-17-dimatexas-recital",
@@ -4310,7 +3892,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-17-dciny-visions-of-light",
@@ -4329,7 +3911,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-17-magos-herrera",
@@ -4348,7 +3930,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-17-songstudio-young-artists-recital",
@@ -4367,7 +3949,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-17-elite-international-music-competition-winners-recital",
@@ -4386,7 +3968,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-18-dciny-the-music-of-sir-karl-jenkins-celebrating-jonathan-griffith",
@@ -4405,7 +3987,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-18-ypca-showcase",
@@ -4424,7 +4006,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-19-the-cleveland-orchestra",
@@ -4443,7 +4025,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-20-joy-in-singing-international-art-song-competition-winners-concert",
@@ -4462,7 +4044,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-20-yulianna-avdeeva-piano",
@@ -4481,7 +4063,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-20-the-cleveland-orchestra",
@@ -4500,7 +4082,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-21-the-met-orchestra-chamber-ensemble",
@@ -4519,7 +4101,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-21-when-ravel-meets-gershwin-in-manhattan",
@@ -4538,14 +4120,14 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-22-prokofiev-international-competition-winners-gala-concert",
     "source_id": "carnegie-hall",
     "title": "Prokofiev International Competition Winners\u2019 Gala Concert",
     "description": null,
-    "url": "https://www.carnegiehall.org/calendar/2027/01/22/prokofiev-international-competition-winners-gala-concert-0800pm",
+    "url": "https://www.carnegiehall.org/calendar/2027/01/22/prokofiev-international-competition-winners-gala-concert-0730pm",
     "image_url": null,
     "venue": "Weill Recital Hall",
     "address": null,
@@ -4553,11 +4135,11 @@
     "tags": [],
     "start_date": "2027-01-22",
     "end_date": null,
-    "start_time": "20:00",
+    "start_time": "19:30",
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-22-yoko-shimomura-39th-anniversary-orchestra-concert",
@@ -4576,7 +4158,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-23-elite-international-music-competition-winners-recital",
@@ -4595,7 +4177,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-23-arkadi-dumikyan",
@@ -4614,7 +4196,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-23-misha-quint-cello",
@@ -4633,7 +4215,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-24-ana-maria-bottazzi-in-memoriam",
@@ -4652,7 +4234,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-24-festival-of-orchestras",
@@ -4671,7 +4253,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-24-elite-international-music-competition-winners-recital",
@@ -4690,7 +4272,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-25-the-third-concert-star-international-classical-music-competition-final-round-and-award-ceremony",
@@ -4709,7 +4291,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-26-ars-longa-china-sound",
@@ -4728,7 +4310,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-27-lukas-sternath-piano",
@@ -4747,7 +4329,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-28-ensemble-connect",
@@ -4766,7 +4348,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-28-decoda",
@@ -4785,7 +4367,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-29-the-alice-tully-vocal-recital",
@@ -4804,7 +4386,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-29-american-symphony-orchestra",
@@ -4823,7 +4405,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-30-elite-international-music-competition-winners-recital",
@@ -4842,7 +4424,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-30-hotchkiss-school-young-artist-concert",
@@ -4861,7 +4443,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-31-crescendo-international-competition-winners-recital",
@@ -4880,7 +4462,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-01-31-philip-glass-the-90th-birthday-concert",
@@ -4899,7 +4481,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-02-01-voices-unbound-songs-of-defiance-and-joy",
@@ -4918,7 +4500,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-02-02-the-philadelphia-orchestra",
@@ -4937,7 +4519,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-02-03-rising-artists-concert",
@@ -4956,7 +4538,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-02-04-junction-trio",
@@ -4975,7 +4557,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-02-04-the-met-orchestra",
@@ -4994,7 +4576,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-02-05-concert-of-ukrainian-music",
@@ -5013,7 +4595,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-02-05-caroline-shaw-attacca-quartet",
@@ -5032,7 +4614,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-02-05-the-new-york-pops",
@@ -5051,7 +4633,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-02-06-crescendo-international-competition-winners-recital",
@@ -5070,7 +4652,7 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-02-06-mitsuko-uchida-piano",
@@ -5089,16 +4671,35 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "carnegie-hall-2027-02-07-crescendo-international-competition-winners-recital",
     "source_id": "carnegie-hall",
     "title": "Crescendo International Competition Winners Recital",
     "description": null,
-    "url": "https://www.carnegiehall.org/calendar/2027/02/07/crescendo-international-competition-winners-recital-0100pm",
+    "url": "https://www.carnegiehall.org/calendar/2027/02/07/crescendo-international-competition-winners-recital-0730pm",
     "image_url": null,
     "venue": "Weill Recital Hall",
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2027-02-07",
+    "end_date": null,
+    "start_time": "19:30",
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-10-31T07:48:16Z"
+  },
+  {
+    "id": "carnegie-hall-2027-02-07-worldstrides-honors-performance",
+    "source_id": "carnegie-hall",
+    "title": "WorldStrides Honors Performance",
+    "description": null,
+    "url": "https://www.carnegiehall.org/calendar/2027/02/07/worldstrides-honors-performance-0100pm",
+    "image_url": null,
+    "venue": "Stern Auditorium / Perelman Stage",
     "address": null,
     "category": "performing-arts",
     "tags": [],
@@ -5108,7 +4709,26 @@
     "end_time": null,
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:14Z"
+    "last_updated": "2026-10-31T07:48:16Z"
+  },
+  {
+    "id": "carnegie-hall-2027-02-08-falsettos-10-year-anniversary-concert",
+    "source_id": "carnegie-hall",
+    "title": "Falsettos 10 Year Anniversary Concert",
+    "description": null,
+    "url": "https://www.carnegiehall.org/calendar/2027/02/08/falsettos-10-year-anniversary-concert-0700pm",
+    "image_url": null,
+    "venue": "Stern Auditorium / Perelman Stage",
+    "address": null,
+    "category": "performing-arts",
+    "tags": [],
+    "start_date": "2027-02-08",
+    "end_date": null,
+    "start_time": "19:00",
+    "end_time": null,
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-10-31T07:48:16Z"
   },
   {
     "id": "summerstage-2027-05-29-odd-mob",
@@ -5127,6 +4747,6 @@
     "end_time": "22:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-10-30T07:56:28Z"
+    "last_updated": "2026-10-31T07:48:48Z"
   }
 ]
