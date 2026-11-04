@@ -1,43 +1,5 @@
 [
   {
-    "id": "prospect-park-concerts-2026-11-03-election-day-school-holiday-in-prospect-park",
-    "source_id": "prospect-park-concerts",
-    "title": "Election Day School Holiday in Prospect Park",
-    "description": "Join Prospect Park Alliance for family friendly programming on the school holiday for Election Day! Nature Exploration Prospect Park Audubon Center, Free, 10 am\u20133 pm Join Prospect Park Alliance for nature education programs at the Prospect Park Audubon Center, the first urban Audubon Center in the nation. Leaf Art, 10 am\u20133 pm: Let\u2019s have fun exploring the unique features of trees and their uniquely shaped leaves. Let your creativity flourish as you craft art inspired by nature. Leaf Litter, 10 am\u20133 pm: Ever wondered what\u2019s hiding beneath the leaves on the forest floor? Well, there are seeds, leaves, insects, and much more! Join us for our hands-on leaf litter activity to learn all about it. Fall Leaf Discovery, 2\u20133 pm Join us as we delve into the wonder of nature! Are you curious about why and when trees shed their leaves? Gain hands-on experience in citizen science as we explore the Prospect Park environment and witness how changing temperatures affect the trees. We will provide you with a guide to help you record your observations. This program leaves the Audubon Center promptly at 2 pm. ReImagine Lefferts Open Hours, 12\u20134 pm Lefferts Historic House, Free Visit the Lefferts Historic House for family friendly outdoor and indoor exhibits, activities, workshops, and special programs that explore the legacies of resistance and resilience of the Indigenous peoples of Lenapehoking, whose unceded lands the park and house rests upon, and the Africans enslaved by the Lefferts family. Carousel Rides, 12\u20135 pm Children\u2019s Corner, $3 per ride; $13 for a book of 5 tickets; Unlimited with Prospect Park Alliance Family Supporter membership. Celebrate Election Day with the park\u2019s beloved Carousel. Join the Alliance at the Family Supporter level and your family (up to 4 people) will receive unlimited rides on the Carousel for a full year!",
-    "url": "https://www.prospectpark.org/event/election-day-school-holiday-in-prospect-park-4/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-11-03",
-    "end_date": null,
-    "start_time": "10:00",
-    "end_time": "17:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-11-03-fall-festival-at-lakeside",
-    "source_id": "prospect-park-concerts",
-    "title": "Fall Festival at Lakeside",
-    "description": "Celebrate the season at the Lakeside Fall Festival, a month-long fall experience filled with pumpkins, Haunted Hotel experience, carnival games, family activities, seasonal treats, photo ops, and Halloween fun in the heart of Prospect Park. Pick a pumpkin, make your way through the corn maze, challenge your family to carnival games, test your skills, grab something seasonal to eat, and spend the day enjoying fall at LeFrak Center at Lakeside. The Fall Festival is designed to be family friendly and fun for all ages. Mondays: Festival 3\u20136 PM , Haunted Hotel 4\u201310 PM Thursdays-Fridays: Festival 3\u20136 PM, Haunted Hotel 6\u201310 PM Saturdays: Festival 11AM\u20136 PM, Haunted Hotel 4\u201311 PM Sundays: Festival 11AM\u20136 PM, Haunted Hotel 4\u201310 PM Get Tickets",
-    "url": "https://www.prospectpark.org/event/fall-festival-at-lakeside-18/2026-11-03/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-11-03",
-    "end_date": null,
-    "start_time": "16:00",
-    "end_time": "22:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
-  },
-  {
     "id": "prospect-park-concerts-2026-11-04-wednesday-greenmarket-at-bartel-pritchard-square",
     "source_id": "prospect-park-concerts",
     "title": "Wednesday Greenmarket at Bartel-Pritchard Square",
@@ -54,7 +16,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-04-fall-fix-up",
@@ -73,26 +35,7 @@
     "end_time": "13:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-11-04-fall-festival-at-lakeside",
-    "source_id": "prospect-park-concerts",
-    "title": "Fall Festival at Lakeside",
-    "description": "Celebrate the season at the Lakeside Fall Festival, a month-long fall experience filled with pumpkins, Haunted Hotel experience, carnival games, family activities, seasonal treats, photo ops, and Halloween fun in the heart of Prospect Park. Pick a pumpkin, make your way through the corn maze, challenge your family to carnival games, test your skills, grab something seasonal to eat, and spend the day enjoying fall at LeFrak Center at Lakeside. The Fall Festival is designed to be family friendly and fun for all ages. Mondays: Festival 3\u20136 PM , Haunted Hotel 4\u201310 PM Thursdays-Fridays: Festival 3\u20136 PM, Haunted Hotel 6\u201310 PM Saturdays: Festival 11AM\u20136 PM, Haunted Hotel 4\u201311 PM Sundays: Festival 11AM\u20136 PM, Haunted Hotel 4\u201310 PM Get Tickets",
-    "url": "https://www.prospectpark.org/event/fall-festival-at-lakeside-18/2026-11-04/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-11-04",
-    "end_date": null,
-    "start_time": "16:00",
-    "end_time": "22:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-05-prospect-park-stroller-walk",
@@ -111,7 +54,7 @@
     "end_time": "11:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-05-sexual-health-mobile-medical-unit",
@@ -130,7 +73,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-05-carousel-rides",
@@ -149,26 +92,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-11-05-fall-festival-at-lakeside",
-    "source_id": "prospect-park-concerts",
-    "title": "Fall Festival at Lakeside",
-    "description": "Celebrate the season at the Lakeside Fall Festival, a month-long fall experience filled with pumpkins, Haunted Hotel experience, carnival games, family activities, seasonal treats, photo ops, and Halloween fun in the heart of Prospect Park. Pick a pumpkin, make your way through the corn maze, challenge your family to carnival games, test your skills, grab something seasonal to eat, and spend the day enjoying fall at LeFrak Center at Lakeside. The Fall Festival is designed to be family friendly and fun for all ages. Mondays: Festival 3\u20136 PM , Haunted Hotel 4\u201310 PM Thursdays-Fridays: Festival 3\u20136 PM, Haunted Hotel 6\u201310 PM Saturdays: Festival 11AM\u20136 PM, Haunted Hotel 4\u201311 PM Sundays: Festival 11AM\u20136 PM, Haunted Hotel 4\u201310 PM Get Tickets",
-    "url": "https://www.prospectpark.org/event/fall-festival-at-lakeside-18/2026-11-05/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-11-05",
-    "end_date": null,
-    "start_time": "16:00",
-    "end_time": "22:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-06-carousel-rides",
@@ -187,26 +111,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-11-06-fall-festival-at-lakeside",
-    "source_id": "prospect-park-concerts",
-    "title": "Fall Festival at Lakeside",
-    "description": "Celebrate the season at the Lakeside Fall Festival, a month-long fall experience filled with pumpkins, Haunted Hotel experience, carnival games, family activities, seasonal treats, photo ops, and Halloween fun in the heart of Prospect Park. Pick a pumpkin, make your way through the corn maze, challenge your family to carnival games, test your skills, grab something seasonal to eat, and spend the day enjoying fall at LeFrak Center at Lakeside. The Fall Festival is designed to be family friendly and fun for all ages. Mondays: Festival 3\u20136 PM , Haunted Hotel 4\u201310 PM Thursdays-Fridays: Festival 3\u20136 PM, Haunted Hotel 6\u201310 PM Saturdays: Festival 11AM\u20136 PM, Haunted Hotel 4\u201311 PM Sundays: Festival 11AM\u20136 PM, Haunted Hotel 4\u201310 PM Get Tickets",
-    "url": "https://www.prospectpark.org/event/fall-festival-at-lakeside-18/2026-11-06/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-11-06",
-    "end_date": null,
-    "start_time": "16:00",
-    "end_time": "22:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-07-fido-coffee-bark",
@@ -225,7 +130,7 @@
     "end_time": "08:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-07-greenmarket-at-grand-army-plaza",
@@ -244,7 +149,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-07-introduction-to-birdwatching-outings",
@@ -263,7 +168,7 @@
     "end_time": "12:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-07-park-pitch-in-trail-care",
@@ -282,26 +187,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-11-07-fall-festival-at-lakeside",
-    "source_id": "prospect-park-concerts",
-    "title": "Fall Festival at Lakeside",
-    "description": "Celebrate the season at the Lakeside Fall Festival, a month-long fall experience filled with pumpkins, Haunted Hotel experience, carnival games, family activities, seasonal treats, photo ops, and Halloween fun in the heart of Prospect Park. Pick a pumpkin, make your way through the corn maze, challenge your family to carnival games, test your skills, grab something seasonal to eat, and spend the day enjoying fall at LeFrak Center at Lakeside. The Fall Festival is designed to be family friendly and fun for all ages. Weekdays: 4\u201310 pm Weekends: 11 am\u201310 pm Get Tickets",
-    "url": "https://www.prospectpark.org/event/fall-festival-at-lakeside-10/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-11-07",
-    "end_date": null,
-    "start_time": "11:00",
-    "end_time": "22:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-07-carousel-rides",
@@ -320,7 +206,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-07-exhibit-the-shirley-chisholm-way-brooklyns-blueprint-for-change",
@@ -339,7 +225,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-07-battle-of-brooklyn-walking-tour",
@@ -358,7 +244,7 @@
     "end_time": "15:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-08-sunday-greenmarket-at-bartel-pritchard-square",
@@ -377,7 +263,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-08-urban-park-rangers-fantastic-fungi-mushroom-id-hike",
@@ -396,7 +282,7 @@
     "end_time": "12:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-08-park-pitch-in-trail-care",
@@ -415,26 +301,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-11-08-fall-festival-at-lakeside",
-    "source_id": "prospect-park-concerts",
-    "title": "Fall Festival at Lakeside",
-    "description": "Celebrate the season at the Lakeside Fall Festival, a month-long fall experience filled with pumpkins, Haunted Hotel experience, carnival games, family activities, seasonal treats, photo ops, and Halloween fun in the heart of Prospect Park. Pick a pumpkin, make your way through the corn maze, challenge your family to carnival games, test your skills, grab something seasonal to eat, and spend the day enjoying fall at LeFrak Center at Lakeside. The Fall Festival is designed to be family friendly and fun for all ages. Weekdays: 4\u201310 pm Weekends: 11 am\u201310 pm Get Tickets",
-    "url": "https://www.prospectpark.org/event/fall-festival-at-lakeside-11/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-11-08",
-    "end_date": null,
-    "start_time": "11:00",
-    "end_time": "22:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-08-carousel-rides",
@@ -453,7 +320,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-08-exhibit-the-shirley-chisholm-way-brooklyns-blueprint-for-change",
@@ -472,7 +339,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-09-sexual-health-mobile-medical-unit",
@@ -491,45 +358,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-11-09-fall-festival-at-lakeside",
-    "source_id": "prospect-park-concerts",
-    "title": "Fall Festival at Lakeside",
-    "description": "Celebrate the season at the Lakeside Fall Festival, a month-long fall experience filled with pumpkins, Haunted Hotel experience, carnival games, family activities, seasonal treats, photo ops, and Halloween fun in the heart of Prospect Park. Pick a pumpkin, make your way through the corn maze, challenge your family to carnival games, test your skills, grab something seasonal to eat, and spend the day enjoying fall at LeFrak Center at Lakeside. The Fall Festival is designed to be family friendly and fun for all ages. Mondays: Festival 3\u20136 PM , Haunted Hotel 4\u201310 PM Thursdays-Fridays: Festival 3\u20136 PM, Haunted Hotel 6\u201310 PM Saturdays: Festival 11AM\u20136 PM, Haunted Hotel 4\u201311 PM Sundays: Festival 11AM\u20136 PM, Haunted Hotel 4\u201310 PM Get Tickets",
-    "url": "https://www.prospectpark.org/event/fall-festival-at-lakeside-18/2026-11-09/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-11-09",
-    "end_date": null,
-    "start_time": "16:00",
-    "end_time": "22:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-11-10-fall-festival-at-lakeside",
-    "source_id": "prospect-park-concerts",
-    "title": "Fall Festival at Lakeside",
-    "description": "Celebrate the season at the Lakeside Fall Festival, a month-long fall experience filled with pumpkins, Haunted Hotel experience, carnival games, family activities, seasonal treats, photo ops, and Halloween fun in the heart of Prospect Park. Pick a pumpkin, make your way through the corn maze, challenge your family to carnival games, test your skills, grab something seasonal to eat, and spend the day enjoying fall at LeFrak Center at Lakeside. The Fall Festival is designed to be family friendly and fun for all ages. Mondays: Festival 3\u20136 PM , Haunted Hotel 4\u201310 PM Thursdays-Fridays: Festival 3\u20136 PM, Haunted Hotel 6\u201310 PM Saturdays: Festival 11AM\u20136 PM, Haunted Hotel 4\u201311 PM Sundays: Festival 11AM\u20136 PM, Haunted Hotel 4\u201310 PM Get Tickets",
-    "url": "https://www.prospectpark.org/event/fall-festival-at-lakeside-18/2026-11-10/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-11-10",
-    "end_date": null,
-    "start_time": "16:00",
-    "end_time": "22:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-11-wednesday-greenmarket-at-bartel-pritchard-square",
@@ -548,7 +377,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-11-veterans-day-school-holiday-in-prospect-park",
@@ -567,6 +396,177 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-03T08:52:51Z"
+    "last_updated": "2026-11-04T08:22:12Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-11-12-prospect-park-stroller-walk",
+    "source_id": "prospect-park-concerts",
+    "title": "Prospect Park Stroller Walk",
+    "description": "Calling all parents and caregivers with children! Join a Prospect Park Alliance Naturalist for a leisurely stroll along Prospect Park\u2019s waterways. Embrace the sound of streams and songs of birds, while enjoying fragrant flowers and the towering trees of Brooklyn\u2019s Backyard. Please note that this walk leaves promptly at 10 am from the Prospect Park Boathouse. RSVP to reserve your spot: RSVP Please check your email prior to the event for changes, updates and to confirm the walk has met a minimum participant requirement",
+    "url": "https://www.prospectpark.org/event/prospect-park-stroller-walk-5/2026-11-12/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-11-12",
+    "end_date": null,
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-04T08:22:12Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-11-12-fall-fix-up",
+    "source_id": "prospect-park-concerts",
+    "title": "Fall Fix-Up",
+    "description": "Join Prospect Park Alliance this fall to help spruce up the park after a busy summer season. Lend a hand with a variety of projects from path and playground restoration, painting and leaf raking. From September through November, explore your park while giving back to Brooklyn\u2019s Backyard! Join a Fall Fix Up event on September 30; October 7, 14, 21, or 28; or November 4, 12, 18, or 25. Please note that locations vary by date. Appropriate for adults only. Register Today Register online or call (929) 888-6826 for more information.",
+    "url": "https://www.prospectpark.org/event/fall-fix-up-5/2026-11-12/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-11-12",
+    "end_date": null,
+    "start_time": "10:00",
+    "end_time": "13:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-04T08:22:12Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-11-12-sexual-health-mobile-medical-unit",
+    "source_id": "prospect-park-concerts",
+    "title": "Sexual Health Mobile Medical Unit",
+    "description": "Prospect Park Alliance is collaborating with NewYork-Presbyterian to offer comprehensive sexual health services in Brooklyn\u2019s backyard at Grand Army Plaza every Thursday from 10 am to 3 pm and every Monday at the Parkside + Ocean Avenue Entrance from 10 am to 3 pm. The NewYork-Presbyterian Sexual Health Mobile Medical Unit is a safe, inclusive space for people to receive high-quality sexual health services. Learn more about the Sexual Health Mobile Medical Unit in Prospect Park or reach out to us at mobilehealth@nyp.org or (929) 923-3543. No insurance or ID is required to receive care. Staffed by a team of NewYork-Presbyterian healthcare providers, the mobile medical unit has an exam room and consult room, and offers routine laboratory testing, vaccinations, and PrEP and PEP medications that lower the risk of HIV infection. Patients can also be connected to social services, benefits enrollment, and local healthcare providers. Other services include sexually transmitted infection (STI) testing, family planning, hepatitis C screening, health education and more. The Sexual Health Mobile Medical Unit is made possible through funding from the Dalio Center for Health Justice and the Division of Community and Population Health at NewYork-Presbyterian, and a grant from the Centers for Disease Control and Prevention.",
+    "url": "https://www.prospectpark.org/event/sexual-health-mobile-medical-unit/2026-11-12/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-11-12",
+    "end_date": null,
+    "start_time": "10:00",
+    "end_time": "15:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-04T08:22:12Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-11-12-carousel-rides",
+    "source_id": "prospect-park-concerts",
+    "title": "Carousel Rides",
+    "description": "Children\u2019s Corner, $3 per ride, $13 for a book of 5 tickets, Free with Prospect Park Alliance Family Supporter membership or higher. Enjoy a ride on Prospect Park\u2019s beloved 1912 Carousel. Open Thursdays \u2013 Sundays and Holidays, this treasured historic attraction features magnificent carved horses, lions, giraffes and deer. Join the Alliance at the Family Supporter level or above and enjoy unlimited free rides!",
+    "url": "https://www.prospectpark.org/event/carousel-rides-9/2026-11-12/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-11-12",
+    "end_date": null,
+    "start_time": "12:00",
+    "end_time": "17:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-04T08:22:12Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-11-13-carousel-rides",
+    "source_id": "prospect-park-concerts",
+    "title": "Carousel Rides",
+    "description": "Children\u2019s Corner, $3 per ride, $13 for a book of 5 tickets, Free with Prospect Park Alliance Family Supporter membership or higher. Enjoy a ride on Prospect Park\u2019s beloved 1912 Carousel. Open Thursdays \u2013 Sundays and Holidays, this treasured historic attraction features magnificent carved horses, lions, giraffes and deer. Join the Alliance at the Family Supporter level or above and enjoy unlimited free rides!",
+    "url": "https://www.prospectpark.org/event/carousel-rides-9/2026-11-13/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-11-13",
+    "end_date": null,
+    "start_time": "12:00",
+    "end_time": "17:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-04T08:22:12Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-11-14-greenmarket-at-grand-army-plaza",
+    "source_id": "prospect-park-concerts",
+    "title": "Greenmarket at Grand Army Plaza",
+    "description": "At what other market can you do all your food shopping, sample local wine and explore Brooklyn\u2019s favorite park? Established in 1989, the Grand Army Plaza greenmarket is the flagship Brooklyn market. EBT/Food Stamps and WIC & Senior FMNP coupons accepted year-round. Learn More For a full calendar of events and a list of sellers, visit the GrowNYC website. Learn about all Nutrition Benefit Programs accepted at GrowNYC Markets.",
+    "url": "https://www.prospectpark.org/event/greenmarket-at-grand-army-plaza-2/2026-11-14/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-11-14",
+    "end_date": null,
+    "start_time": "08:00",
+    "end_time": "16:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-04T08:22:12Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-11-14-introduction-to-birdwatching-outings",
+    "source_id": "prospect-park-concerts",
+    "title": "Introduction to Birdwatching Outings",
+    "description": "Whether you\u2019re new to birding or looking to build your skills, this introductory outing is a great way to explore Prospect Park and learn about the birds that visit throughout the year. Join a member of the Brooklyn Bird Club to learn birding basics and search for the dozens of species found in the park across all seasons. All ages and experience levels are welcome. No registration is required. Children under 12 must be accompanied by an adult. What to Bring: Binoculars if you have them, comfortable walking shoes, water, and weather-appropriate clothing. A limited number of binoculars will be available to borrow. Please Note: Pets are not permitted on this outing. Depending on attendance, participants may be divided into smaller groups. Outings are held rain or shine unless severe weather makes conditions unsafe. Route Description: This outing moves at a relaxed pace with frequent stops to observe birds. Routes may vary from week to week depending on bird activity and park conditions. Participants can expect paved paths, dirt trails, grassy areas, slight inclines and occasional steps. The group will cover approximately 1.5\u20132 miles. Learn more on the Brooklyn Bird Club website.",
+    "url": "https://www.prospectpark.org/event/introduction-to-birdwatching-outings-3-2/2026-11-14/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-11-14",
+    "end_date": null,
+    "start_time": "10:00",
+    "end_time": "12:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-04T08:22:12Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-11-14-carousel-rides",
+    "source_id": "prospect-park-concerts",
+    "title": "Carousel Rides",
+    "description": "Children\u2019s Corner, $3 per ride, $13 for a book of 5 tickets, Free with Prospect Park Alliance Family Supporter membership or higher. Enjoy a ride on Prospect Park\u2019s beloved 1912 Carousel. Open Thursdays \u2013 Sundays and Holidays, this treasured historic attraction features magnificent carved horses, lions, giraffes and deer. Join the Alliance at the Family Supporter level or above and enjoy unlimited free rides!",
+    "url": "https://www.prospectpark.org/event/carousel-rides-9/2026-11-14/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-11-14",
+    "end_date": null,
+    "start_time": "12:00",
+    "end_time": "17:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-04T08:22:12Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-11-14-exhibit-the-shirley-chisholm-way-brooklyns-blueprint-for-change",
+    "source_id": "prospect-park-concerts",
+    "title": "Exhibit: The Shirley Chisholm Way: Brooklyn's Blueprint for Change",
+    "description": "Join Prospect Park Alliance and Shirley Chisholm Cultural Institute (SCCI) for a new exhibit that explores how Brooklyn\u2019s beloved daughter broke down gender and racial barriers to fight for her community, becoming the first Black woman elected to Congress. The exhibit is organized around seven life lessons drawn from Chisholm\u2019s tenacious career. It features stunning portraits of Chisholm by artist Al Johnson and rarely seen photographs and memorabilia from the Congresswoman\u2019s campaigns, curated by Barbara Bullard, Creative Producer and President of SCCI. These materials offer inspirational insights into how Brooklyn\u2019s beloved daughter broke down gender and racial barriers to become the first Black woman to serve in Congress. This exhibit provides visitors with a space to reflect on Chisholm\u2019s legacy as Prospect Park Alliance welcomes the installation of a new monument in her honor at the Parkside and Ocean Avenue entrance in 2027. The exhibit, curated by Barbara Bullard, Cultural Producer and President of the Shirley Chisholm Cultural Institute, is part of Prospect Park Alliance\u2019s ReImagine Lefferts initiative, which is transforming the museum to explore the legacies of resistance and resilience of the Indigenous people of Lenapehoking, whose unceded ancestral lands the park and house rests upon, and Africans who were enslaved by the Lefferts family. The Shirley Chisholm Cultural Institute (SCCI) has been at the forefront of art, culture, and justice and economic sustainability since 1977, with the official permission and participation of Congresswoman Chisholm herself in its inception and development. Its purpose is to preserve the legacy of Congresswoman Shirley Chisholm through the initiatives cultivated during her public service career with 21st century activism and innovation. SCCI is aligned with grassroots groups and frontline communities through creating substantive community-based partnership and collaboration along with strategic interoperative relationships with leaders of governmental, and mainstream organizations.",
+    "url": "https://www.prospectpark.org/event/the-shirley-chisholm-way-brooklyns-blueprint-for-change-4/2026-11-14/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-11-14",
+    "end_date": null,
+    "start_time": "12:00",
+    "end_time": "17:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-04T08:22:12Z"
   }
 ]
