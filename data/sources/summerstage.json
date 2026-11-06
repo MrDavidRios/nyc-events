@@ -1,5 +1,24 @@
 [
   {
+    "id": "summerstage-2027-05-15-angus-julia-stone",
+    "source_id": "summerstage",
+    "title": "Angus & Julia Stone",
+    "description": "SummerStage Member Presale: Wednesday, November 11 @ 10AM Capital One Cardholder Presale: Wednesday, November 11 @ 10AM General Onsale: Friday, November 13 @ 10AM Aussie sibling duo Angus & Julia Stone have been crafting folk and indie-pop hits since forming in 2006. They\u2019re known for their dreamy, ethereal charm and chart-topping albums including A Book Like This and Down the Way, the latter of which earned them five ARIA awards. Their latest release, Karaoke Bar, \u201ccaptures a sense of both the granular and the grand,\u201d (Billboard) with its joyful message and bright sound.",
+    "url": "https://cityparksfoundation.org/events/angus-julia-stone/",
+    "image_url": null,
+    "venue": "Manhattan",
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2027-05-15",
+    "end_date": null,
+    "start_time": "19:00",
+    "end_time": "22:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-06T08:48:44Z"
+  },
+  {
     "id": "summerstage-2027-05-29-odd-mob",
     "source_id": "summerstage",
     "title": "Odd Mob",
@@ -16,6 +35,6 @@
     "end_time": "22:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:47Z"
+    "last_updated": "2026-11-06T08:48:44Z"
   }
 ]

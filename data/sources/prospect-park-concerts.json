@@ -1,62 +1,5 @@
 [
   {
-    "id": "prospect-park-concerts-2026-11-05-prospect-park-stroller-walk",
-    "source_id": "prospect-park-concerts",
-    "title": "Prospect Park Stroller Walk",
-    "description": "Calling all parents and caregivers with children! Join a Prospect Park Alliance Naturalist for a leisurely stroll along Prospect Park\u2019s waterways. Embrace the sound of streams and songs of birds, while enjoying fragrant flowers and the towering trees of Brooklyn\u2019s Backyard. Please note that this walk leaves promptly at 10 am from the Prospect Park Boathouse. RSVP to reserve your spot: RSVP Please check your email prior to the event for changes, updates and to confirm the walk has met a minimum participant requirement",
-    "url": "https://www.prospectpark.org/event/prospect-park-stroller-walk-5/2026-11-05/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-11-05",
-    "end_date": null,
-    "start_time": "10:00",
-    "end_time": "11:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-11-05-sexual-health-mobile-medical-unit",
-    "source_id": "prospect-park-concerts",
-    "title": "Sexual Health Mobile Medical Unit",
-    "description": "Prospect Park Alliance is collaborating with NewYork-Presbyterian to offer comprehensive sexual health services in Brooklyn\u2019s backyard at Grand Army Plaza every Thursday from 10 am to 3 pm and every Monday at the Parkside + Ocean Avenue Entrance from 10 am to 3 pm. The NewYork-Presbyterian Sexual Health Mobile Medical Unit is a safe, inclusive space for people to receive high-quality sexual health services. Learn more about the Sexual Health Mobile Medical Unit in Prospect Park or reach out to us at mobilehealth@nyp.org or (929) 923-3543. No insurance or ID is required to receive care. Staffed by a team of NewYork-Presbyterian healthcare providers, the mobile medical unit has an exam room and consult room, and offers routine laboratory testing, vaccinations, and PrEP and PEP medications that lower the risk of HIV infection. Patients can also be connected to social services, benefits enrollment, and local healthcare providers. Other services include sexually transmitted infection (STI) testing, family planning, hepatitis C screening, health education and more. The Sexual Health Mobile Medical Unit is made possible through funding from the Dalio Center for Health Justice and the Division of Community and Population Health at NewYork-Presbyterian, and a grant from the Centers for Disease Control and Prevention.",
-    "url": "https://www.prospectpark.org/event/sexual-health-mobile-medical-unit/2026-11-05/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-11-05",
-    "end_date": null,
-    "start_time": "10:00",
-    "end_time": "15:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-11-05-carousel-rides",
-    "source_id": "prospect-park-concerts",
-    "title": "Carousel Rides",
-    "description": "Children\u2019s Corner, $3 per ride, $13 for a book of 5 tickets, Free with Prospect Park Alliance Family Supporter membership or higher. Enjoy a ride on Prospect Park\u2019s beloved 1912 Carousel. Open Thursdays \u2013 Sundays and Holidays, this treasured historic attraction features magnificent carved horses, lions, giraffes and deer. Join the Alliance at the Family Supporter level or above and enjoy unlimited free rides!",
-    "url": "https://www.prospectpark.org/event/carousel-rides-9/2026-11-05/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-11-05",
-    "end_date": null,
-    "start_time": "12:00",
-    "end_time": "17:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
-  },
-  {
     "id": "prospect-park-concerts-2026-11-06-carousel-rides",
     "source_id": "prospect-park-concerts",
     "title": "Carousel Rides",
@@ -73,7 +16,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-07-fido-coffee-bark",
@@ -92,7 +35,7 @@
     "end_time": "08:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-07-greenmarket-at-grand-army-plaza",
@@ -111,7 +54,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-07-introduction-to-birdwatching-outings",
@@ -130,7 +73,7 @@
     "end_time": "12:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-07-park-pitch-in-trail-care",
@@ -149,7 +92,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-07-carousel-rides",
@@ -168,7 +111,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-07-exhibit-the-shirley-chisholm-way-brooklyns-blueprint-for-change",
@@ -187,7 +130,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-07-battle-of-brooklyn-walking-tour",
@@ -206,7 +149,7 @@
     "end_time": "15:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-08-sunday-greenmarket-at-bartel-pritchard-square",
@@ -225,7 +168,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-08-urban-park-rangers-fantastic-fungi-mushroom-id-hike",
@@ -244,7 +187,7 @@
     "end_time": "12:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-08-park-pitch-in-trail-care",
@@ -263,7 +206,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-08-carousel-rides",
@@ -282,7 +225,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-08-exhibit-the-shirley-chisholm-way-brooklyns-blueprint-for-change",
@@ -301,7 +244,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-09-sexual-health-mobile-medical-unit",
@@ -320,7 +263,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-11-wednesday-greenmarket-at-bartel-pritchard-square",
@@ -339,7 +282,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-11-veterans-day-school-holiday-in-prospect-park",
@@ -358,7 +301,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-12-prospect-park-stroller-walk",
@@ -377,7 +320,7 @@
     "end_time": "11:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-12-fall-fix-up",
@@ -396,7 +339,7 @@
     "end_time": "13:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-12-sexual-health-mobile-medical-unit",
@@ -415,7 +358,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-12-carousel-rides",
@@ -434,7 +377,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-13-carousel-rides",
@@ -453,7 +396,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-14-greenmarket-at-grand-army-plaza",
@@ -472,7 +415,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-14-introduction-to-birdwatching-outings",
@@ -491,7 +434,7 @@
     "end_time": "12:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-14-carousel-rides",
@@ -510,7 +453,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-14-exhibit-the-shirley-chisholm-way-brooklyns-blueprint-for-change",
@@ -529,7 +472,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-14-urban-park-rangers-fall-foliage-hike",
@@ -548,7 +491,7 @@
     "end_time": "14:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-15-pre-thanksgiving-birding-in-prospect-park",
@@ -567,6 +510,63 @@
     "end_time": "12:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-05T08:47:48Z"
+    "last_updated": "2026-11-06T08:48:45Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-11-15-sunday-greenmarket-at-bartel-pritchard-square",
+    "source_id": "prospect-park-concerts",
+    "title": "Sunday Greenmarket at Bartel-Pritchard Square",
+    "description": "Nestled inside Prospect Park\u2019s tree-shaded southwest corner, this much-loved market is where South Slope and Windsor Terrace residents stock up on locally grown staples. The offerings range from a selection of vegetables, fruits, baked goods, plants and flowers to fresh-caught fish and organic baked goods. Learn More For a full calendar of events and a list of sellers, visit the GrowNYC website. Learn about all Nutrition Benefit Programs accepted at GrowNYC Markets",
+    "url": "https://www.prospectpark.org/event/sunday-greenmarket-at-bartel-pritchard-square-4/2026-11-15/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-11-15",
+    "end_date": null,
+    "start_time": "09:00",
+    "end_time": "14:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-06T08:48:45Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-11-15-carousel-rides",
+    "source_id": "prospect-park-concerts",
+    "title": "Carousel Rides",
+    "description": "Children\u2019s Corner, $3 per ride, $13 for a book of 5 tickets, Free with Prospect Park Alliance Family Supporter membership or higher. Enjoy a ride on Prospect Park\u2019s beloved 1912 Carousel. Open Thursdays \u2013 Sundays and Holidays, this treasured historic attraction features magnificent carved horses, lions, giraffes and deer. Join the Alliance at the Family Supporter level or above and enjoy unlimited free rides!",
+    "url": "https://www.prospectpark.org/event/carousel-rides-9/2026-11-15/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-11-15",
+    "end_date": null,
+    "start_time": "12:00",
+    "end_time": "17:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-06T08:48:45Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-11-15-exhibit-the-shirley-chisholm-way-brooklyns-blueprint-for-change",
+    "source_id": "prospect-park-concerts",
+    "title": "Exhibit: The Shirley Chisholm Way: Brooklyn's Blueprint for Change",
+    "description": "Join Prospect Park Alliance and Shirley Chisholm Cultural Institute (SCCI) for a new exhibit that explores how Brooklyn\u2019s beloved daughter broke down gender and racial barriers to fight for her community, becoming the first Black woman elected to Congress. The exhibit is organized around seven life lessons drawn from Chisholm\u2019s tenacious career. It features stunning portraits of Chisholm by artist Al Johnson and rarely seen photographs and memorabilia from the Congresswoman\u2019s campaigns, curated by Barbara Bullard, Creative Producer and President of SCCI. These materials offer inspirational insights into how Brooklyn\u2019s beloved daughter broke down gender and racial barriers to become the first Black woman to serve in Congress. This exhibit provides visitors with a space to reflect on Chisholm\u2019s legacy as Prospect Park Alliance welcomes the installation of a new monument in her honor at the Parkside and Ocean Avenue entrance in 2027. The exhibit, curated by Barbara Bullard, Cultural Producer and President of the Shirley Chisholm Cultural Institute, is part of Prospect Park Alliance\u2019s ReImagine Lefferts initiative, which is transforming the museum to explore the legacies of resistance and resilience of the Indigenous people of Lenapehoking, whose unceded ancestral lands the park and house rests upon, and Africans who were enslaved by the Lefferts family. The Shirley Chisholm Cultural Institute (SCCI) has been at the forefront of art, culture, and justice and economic sustainability since 1977, with the official permission and participation of Congresswoman Chisholm herself in its inception and development. Its purpose is to preserve the legacy of Congresswoman Shirley Chisholm through the initiatives cultivated during her public service career with 21st century activism and innovation. SCCI is aligned with grassroots groups and frontline communities through creating substantive community-based partnership and collaboration along with strategic interoperative relationships with leaders of governmental, and mainstream organizations.",
+    "url": "https://www.prospectpark.org/event/the-shirley-chisholm-way-brooklyns-blueprint-for-change-4/2026-11-15/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-11-15",
+    "end_date": null,
+    "start_time": "12:00",
+    "end_time": "17:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-06T08:48:45Z"
   }
 ]
