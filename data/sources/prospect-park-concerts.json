@@ -1,62 +1,5 @@
 [
   {
-    "id": "prospect-park-concerts-2026-11-19-lawn-and-field-care",
-    "source_id": "prospect-park-concerts",
-    "title": "Lawn and Field Care",
-    "description": "Join Prospect Park Alliance this fall to help spruce up the park\u2019s lawns and sports fields after a busy summer season. Adult volunteers will have the opportunity to help our Lawn and Field staff on a variety of projects. These projects include raking, painting, lawn restoration, and more. Be advised, these projects involve repetitive bending, kneeling, lifting and transporting loaded wheelbarrows. This opportunity requires using sharp tools and encountering potentially hazardous plants and materials. Register online or call (929) 888-6826 for more information.",
-    "url": "https://www.prospectpark.org/event/lawn-and-field-care/2026-11-19/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-11-19",
-    "end_date": null,
-    "start_time": "10:00",
-    "end_time": "12:30",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-11-19-sexual-health-mobile-medical-unit",
-    "source_id": "prospect-park-concerts",
-    "title": "Sexual Health Mobile Medical Unit",
-    "description": "Prospect Park Alliance is collaborating with NewYork-Presbyterian to offer comprehensive sexual health services in Brooklyn\u2019s backyard at Grand Army Plaza every Thursday from 10 am to 3 pm and every Monday at the Parkside + Ocean Avenue Entrance from 10 am to 3 pm. The NewYork-Presbyterian Sexual Health Mobile Medical Unit is a safe, inclusive space for people to receive high-quality sexual health services. Learn more about the Sexual Health Mobile Medical Unit in Prospect Park or reach out to us at mobilehealth@nyp.org or (929) 923-3543. No insurance or ID is required to receive care. Staffed by a team of NewYork-Presbyterian healthcare providers, the mobile medical unit has an exam room and consult room, and offers routine laboratory testing, vaccinations, and PrEP and PEP medications that lower the risk of HIV infection. Patients can also be connected to social services, benefits enrollment, and local healthcare providers. Other services include sexually transmitted infection (STI) testing, family planning, hepatitis C screening, health education and more. The Sexual Health Mobile Medical Unit is made possible through funding from the Dalio Center for Health Justice and the Division of Community and Population Health at NewYork-Presbyterian, and a grant from the Centers for Disease Control and Prevention.",
-    "url": "https://www.prospectpark.org/event/sexual-health-mobile-medical-unit/2026-11-19/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-11-19",
-    "end_date": null,
-    "start_time": "10:00",
-    "end_time": "15:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-11-19-carousel-rides",
-    "source_id": "prospect-park-concerts",
-    "title": "Carousel Rides",
-    "description": "Children\u2019s Corner, $3 per ride, $13 for a book of 5 tickets, Free with Prospect Park Alliance Family Supporter membership or higher. Enjoy a ride on Prospect Park\u2019s beloved 1912 Carousel. Open Thursdays \u2013 Sundays and Holidays, this treasured historic attraction features magnificent carved horses, lions, giraffes and deer. Join the Alliance at the Family Supporter level or above and enjoy unlimited free rides!",
-    "url": "https://www.prospectpark.org/event/carousel-rides-9/2026-11-19/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-11-19",
-    "end_date": null,
-    "start_time": "12:00",
-    "end_time": "17:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
-  },
-  {
     "id": "prospect-park-concerts-2026-11-20-carousel-rides",
     "source_id": "prospect-park-concerts",
     "title": "Carousel Rides",
@@ -73,7 +16,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-21-greenmarket-at-grand-army-plaza",
@@ -92,7 +35,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-21-introduction-to-birdwatching-outings",
@@ -111,7 +54,7 @@
     "end_time": "12:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-21-park-pitch-in-fall-leaf-raking",
@@ -130,7 +73,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-21-carousel-rides",
@@ -149,7 +92,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-22-sunday-greenmarket-at-bartel-pritchard-square",
@@ -168,7 +111,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-22-park-pitch-in-fall-leaf-raking",
@@ -187,7 +130,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-22-carousel-rides",
@@ -206,7 +149,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-22-urban-park-rangers-freedom-seekers-stories-by-the-fire",
@@ -225,7 +168,7 @@
     "end_time": "16:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-23-sexual-health-mobile-medical-unit",
@@ -244,7 +187,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-25-wednesday-greenmarket-at-bartel-pritchard-square",
@@ -263,7 +206,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-25-fall-fix-up",
@@ -282,7 +225,7 @@
     "end_time": "13:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-26-sexual-health-mobile-medical-unit",
@@ -301,7 +244,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-27-urban-park-rangers-post-thanksgiving-day-super-hike",
@@ -320,7 +263,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-28-greenmarket-at-grand-army-plaza",
@@ -339,7 +282,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-28-introduction-to-birdwatching-outings",
@@ -358,7 +301,7 @@
     "end_time": "12:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-29-sunday-greenmarket-at-bartel-pritchard-square",
@@ -377,7 +320,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-30-sexual-health-mobile-medical-unit",
@@ -396,7 +339,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-02-wednesday-greenmarket-at-bartel-pritchard-square",
@@ -415,7 +358,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-02-lawn-and-field-care",
@@ -434,7 +377,26 @@
     "end_time": "12:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-12-03-winter-corps",
+    "source_id": "prospect-park-concerts",
+    "title": "Winter Corps",
+    "description": "Join Prospect Park Alliance every Thursday from early December through the end of March for Winter Corps, a special seasonal volunteer program! Volunteers will assist with raking, light shoveling, litter pickup and other landscaping projects throughout the park. The group meets at a different location each week. All volunteers who RSVP will receive a reminder email with that week\u2019s meeting location before the event. Appropriate for adults only. Please watch for last-minute cancellations due to winter weather conditions, including extreme cold and heavy snowfall. Register Today For more information, call (929) 888-6826.",
+    "url": "https://www.prospectpark.org/event/winter-corps-5/2026-12-03/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-12-03",
+    "end_date": null,
+    "start_time": "10:00",
+    "end_time": "13:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-03-sexual-health-mobile-medical-unit",
@@ -453,7 +415,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-04-grand-army-plaza-menorah-lighting",
@@ -472,7 +434,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-nycruns-ugly-sweater-5k",
@@ -491,7 +453,7 @@
     "end_time": "11:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-fido-coffee-bark",
@@ -510,7 +472,7 @@
     "end_time": "08:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-greenmarket-at-grand-army-plaza",
@@ -529,7 +491,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-introduction-to-birdwatching-outings",
@@ -548,7 +510,7 @@
     "end_time": "12:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-skate-with-santa-at-lakeside",
@@ -567,6 +529,44 @@
     "end_time": "12:45",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-19T09:47:55Z"
+    "last_updated": "2026-11-20T09:30:17Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-12-05-junior-volunteer-corps",
+    "source_id": "prospect-park-concerts",
+    "title": "Junior Volunteer Corps",
+    "description": "Join Prospect Park Alliance for our fall Junior Volunteer Corps! On select weekends, families and youth groups are invited to rake leaves at various locations around the park. All necessary tools will be provided. Open to families and youth groups. Families please visit our Volunteer Event Registration Page to preregister. Register as a Family or Register as a Group Register online or call (929) 888-6826 for more information.",
+    "url": "https://www.prospectpark.org/event/junior-volunteer-corps-8/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-12-05",
+    "end_date": null,
+    "start_time": "13:00",
+    "end_time": "15:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-20T09:30:17Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-12-05-skate-with-santa-at-lakeside",
+    "source_id": "prospect-park-concerts",
+    "title": "Skate with Santa at Lakeside",
+    "description": "Celebrate the holiday season with a magical skating experience at the LeFrak Center at Lakeside in Prospect Park! Santa Claus is trading his sleigh for a pair of skates and joining us on the ice for a limited time this December! Bring your family and friends for some festive fun as Santa makes special appearances on the rink. Whether you\u2019re a seasoned skater or stepping onto the ice for the first time, this is a holiday experience you won\u2019t want to miss! Learn More Santa\u2019s Skating Schedule Saturdays: December 5, 12 + 19; Sundays: December 6, 13 + 20 Santa\u2019s Appearances: 12:30 pm \u2013 12:45 pm; 2:30 pm \u2013 2:45 pm An Arts & Crafts Table will be set up in the cafe on the same dates as Skate with Santa. Kids will be able to decorate their own ornaments to hang on our Holiday Tree. The ornaments include: an Ice Skate, a Christmas Ornament, a Menorah, and a Kinara For any questions, please contact skatingschool@lefraklakeside.com.",
+    "url": "https://www.prospectpark.org/event/skate-with-santa-at-lakeside/2026-12-05/2/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-12-05",
+    "end_date": null,
+    "start_time": "14:30",
+    "end_time": "14:45",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-20T09:30:17Z"
   }
 ]
