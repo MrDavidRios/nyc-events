@@ -1,81 +1,5 @@
 [
   {
-    "id": "prospect-park-concerts-2026-11-21-greenmarket-at-grand-army-plaza",
-    "source_id": "prospect-park-concerts",
-    "title": "Greenmarket at Grand Army Plaza",
-    "description": "At what other market can you do all your food shopping, sample local wine and explore Brooklyn\u2019s favorite park? Established in 1989, the Grand Army Plaza greenmarket is the flagship Brooklyn market. EBT/Food Stamps and WIC & Senior FMNP coupons accepted year-round. Learn More For a full calendar of events and a list of sellers, visit the GrowNYC website. Learn about all Nutrition Benefit Programs accepted at GrowNYC Markets.",
-    "url": "https://www.prospectpark.org/event/greenmarket-at-grand-army-plaza-2/2026-11-21/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-11-21",
-    "end_date": null,
-    "start_time": "08:00",
-    "end_time": "16:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-11-21-introduction-to-birdwatching-outings",
-    "source_id": "prospect-park-concerts",
-    "title": "Introduction to Birdwatching Outings",
-    "description": "Whether you\u2019re new to birding or looking to build your skills, this introductory outing is a great way to explore Prospect Park and learn about the birds that visit throughout the year. Join a member of the Brooklyn Bird Club to learn birding basics and search for the dozens of species found in the park across all seasons. All ages and experience levels are welcome. No registration is required. Children under 12 must be accompanied by an adult. What to Bring: Binoculars if you have them, comfortable walking shoes, water, and weather-appropriate clothing. A limited number of binoculars will be available to borrow. Please Note: Pets are not permitted on this outing. Depending on attendance, participants may be divided into smaller groups. Outings are held rain or shine unless severe weather makes conditions unsafe. Route Description: This outing moves at a relaxed pace with frequent stops to observe birds. Routes may vary from week to week depending on bird activity and park conditions. Participants can expect paved paths, dirt trails, grassy areas, slight inclines and occasional steps. The group will cover approximately 1.5\u20132 miles. Learn more on the Brooklyn Bird Club website.",
-    "url": "https://www.prospectpark.org/event/introduction-to-birdwatching-outings-3-2/2026-11-21/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-11-21",
-    "end_date": null,
-    "start_time": "10:00",
-    "end_time": "12:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-11-21-park-pitch-in-fall-leaf-raking",
-    "source_id": "prospect-park-concerts",
-    "title": "Park Pitch In: Fall Leaf Raking",
-    "description": "Join Prospect Park Alliance during leaf-peeping season to care for Brooklyn\u2019s Backyard! Volunteers will help to rake leaves from pathways and other areas around the 3rd St and Willink Entrances to ensure safe and easy access. Volunteers may also assist with other tasks, such as litter removal, path edging and more. Appropriate for groups, teens and adults. Register as an Individual or Register as a Group Register online or call (929) 888- 6826 for more information.",
-    "url": "https://www.prospectpark.org/event/park-pitch-in-fall-leaf-raking/2026-11-21/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-11-21",
-    "end_date": null,
-    "start_time": "11:00",
-    "end_time": "14:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
-  },
-  {
-    "id": "prospect-park-concerts-2026-11-21-carousel-rides",
-    "source_id": "prospect-park-concerts",
-    "title": "Carousel Rides",
-    "description": "Children\u2019s Corner, $3 per ride, $13 for a book of 5 tickets, Free with Prospect Park Alliance Family Supporter membership or higher. Enjoy a ride on Prospect Park\u2019s beloved 1912 Carousel. Open Thursdays \u2013 Sundays and Holidays, this treasured historic attraction features magnificent carved horses, lions, giraffes and deer. Join the Alliance at the Family Supporter level or above and enjoy unlimited free rides!",
-    "url": "https://www.prospectpark.org/event/carousel-rides-9/2026-11-21/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-11-21",
-    "end_date": null,
-    "start_time": "12:00",
-    "end_time": "17:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
-  },
-  {
     "id": "prospect-park-concerts-2026-11-22-sunday-greenmarket-at-bartel-pritchard-square",
     "source_id": "prospect-park-concerts",
     "title": "Sunday Greenmarket at Bartel-Pritchard Square",
@@ -92,7 +16,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-22-park-pitch-in-fall-leaf-raking",
@@ -111,7 +35,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-22-carousel-rides",
@@ -130,7 +54,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-22-urban-park-rangers-freedom-seekers-stories-by-the-fire",
@@ -149,7 +73,7 @@
     "end_time": "16:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-23-sexual-health-mobile-medical-unit",
@@ -168,7 +92,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-25-wednesday-greenmarket-at-bartel-pritchard-square",
@@ -187,7 +111,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-25-fall-fix-up",
@@ -206,7 +130,7 @@
     "end_time": "13:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-26-sexual-health-mobile-medical-unit",
@@ -225,7 +149,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-27-urban-park-rangers-post-thanksgiving-day-super-hike",
@@ -244,7 +168,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-28-greenmarket-at-grand-army-plaza",
@@ -263,7 +187,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-28-introduction-to-birdwatching-outings",
@@ -282,7 +206,7 @@
     "end_time": "12:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-29-sunday-greenmarket-at-bartel-pritchard-square",
@@ -301,7 +225,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-30-sexual-health-mobile-medical-unit",
@@ -320,7 +244,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-02-wednesday-greenmarket-at-bartel-pritchard-square",
@@ -339,7 +263,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-02-lawn-and-field-care-volunteering",
@@ -358,7 +282,7 @@
     "end_time": "12:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-03-winter-corps",
@@ -377,7 +301,7 @@
     "end_time": "13:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-03-sexual-health-mobile-medical-unit",
@@ -396,7 +320,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-04-grand-army-plaza-menorah-lighting",
@@ -415,7 +339,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-nycruns-ugly-sweater-5k",
@@ -434,7 +358,7 @@
     "end_time": "11:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-fido-coffee-bark",
@@ -453,7 +377,7 @@
     "end_time": "08:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-greenmarket-at-grand-army-plaza",
@@ -472,7 +396,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-introduction-to-birdwatching-outings",
@@ -491,7 +415,7 @@
     "end_time": "12:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-skate-with-santa-at-lakeside",
@@ -510,7 +434,7 @@
     "end_time": "12:45",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-junior-volunteer-corps",
@@ -529,7 +453,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-skate-with-santa-at-lakeside",
@@ -548,7 +472,7 @@
     "end_time": "14:45",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-grand-army-plaza-menorah-lighting",
@@ -567,6 +491,82 @@
     "end_time": "20:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-21T09:01:02Z"
+    "last_updated": "2026-11-22T09:07:59Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-12-06-sunday-greenmarket-at-bartel-pritchard-square",
+    "source_id": "prospect-park-concerts",
+    "title": "Sunday Greenmarket at Bartel-Pritchard Square",
+    "description": "Nestled inside Prospect Park\u2019s tree-shaded southwest corner, this much-loved market is where South Slope and Windsor Terrace residents stock up on locally grown staples. The offerings range from a selection of vegetables, fruits, baked goods, plants and flowers to fresh-caught fish and organic baked goods. Learn More For a full calendar of events and a list of sellers, visit the GrowNYC website. Learn about all Nutrition Benefit Programs accepted at GrowNYC Markets",
+    "url": "https://www.prospectpark.org/event/sunday-greenmarket-at-bartel-pritchard-square-4/2026-12-06/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-12-06",
+    "end_date": null,
+    "start_time": "09:00",
+    "end_time": "14:00",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-22T09:07:59Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-12-06-urban-park-rangers-doggie-day-hike",
+    "source_id": "prospect-park-concerts",
+    "title": "Urban Park Rangers | Doggie Day Hike",
+    "description": "Take a stroll through the forest with your four legged friend while playing some dog and human trivia on this dog-friendly hike. Dogs are required to be on-leash. Dog lovers without dogs are also welcomed to participate. Learn More Directions to location",
+    "url": "https://www.prospectpark.org/event/urban-park-rangers-doggie-day-hike/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-12-06",
+    "end_date": null,
+    "start_time": "10:00",
+    "end_time": "11:30",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-22T09:07:59Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-12-06-birdwatching-first-sunday-outings",
+    "source_id": "prospect-park-concerts",
+    "title": "Birdwatching: First Sunday Outings",
+    "description": "Join a member of the Brooklyn Bird Club to explore Prospect Park in search of the many bird species found throughout the year. Along the way, you\u2019ll learn about the park\u2019s diverse habitats, the birds that depend on them and seasonal highlights. Birders of all ages and experience levels are welcome. No registration is required. What to Bring: Bring your binoculars along with comfortable walking shoes, water, and weather-appropriate clothing. Please Note: Pets are not permitted on this outing. Outings are held rain or shine unless severe weather makes conditions unsafe. Route Description: This outing is at an easy pace with frequent stops to observe birds. Routes may vary each week depending on bird activity and park conditions. Participants can expect paved paths, dirt trails, grassy areas, slight inclines and occasional steps. The group will cover approximately 1.5\u20132 miles. Learn more on the Brooklyn Bird Club Website",
+    "url": "https://www.prospectpark.org/event/birdwatching-first-sunday-outings-6/2026-12-06/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-12-06",
+    "end_date": null,
+    "start_time": "10:00",
+    "end_time": "13:30",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-22T09:07:59Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-12-06-skate-with-santa-at-lakeside",
+    "source_id": "prospect-park-concerts",
+    "title": "Skate with Santa at Lakeside",
+    "description": "Celebrate the holiday season with a magical skating experience at the LeFrak Center at Lakeside in Prospect Park! Santa Claus is trading his sleigh for a pair of skates and joining us on the ice for a limited time this December! Bring your family and friends for some festive fun as Santa makes special appearances on the rink. Whether you\u2019re a seasoned skater or stepping onto the ice for the first time, this is a holiday experience you won\u2019t want to miss! Learn More Santa\u2019s Skating Schedule Saturdays: December 5, 12 + 19; Sundays: December 6, 13 + 20 Santa\u2019s Appearances: 12:30 pm \u2013 12:45 pm; 2:30 pm \u2013 2:45 pm An Arts & Crafts Table will be set up in the cafe on the same dates as Skate with Santa. Kids will be able to decorate their own ornaments to hang on our Holiday Tree. The ornaments include: an Ice Skate, a Christmas Ornament, a Menorah, and a Kinara For any questions, please contact skatingschool@lefraklakeside.com.",
+    "url": "https://www.prospectpark.org/event/skate-with-santa-at-lakeside/2026-12-06/1/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-12-06",
+    "end_date": null,
+    "start_time": "12:30",
+    "end_time": "12:45",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-22T09:07:59Z"
   }
 ]
