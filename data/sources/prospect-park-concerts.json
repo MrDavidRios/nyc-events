@@ -1,24 +1,5 @@
 [
   {
-    "id": "prospect-park-concerts-2026-11-23-sexual-health-mobile-medical-unit",
-    "source_id": "prospect-park-concerts",
-    "title": "Sexual Health Mobile Medical Unit",
-    "description": "Prospect Park Alliance is collaborating with NewYork-Presbyterian to offer comprehensive sexual health services in Brooklyn\u2019s backyard at Grand Army Plaza every Thursday from 10 am to 3 pm and every Monday at the Parkside + Ocean Avenue Entrance from 10 am to 3 pm. The NewYork-Presbyterian Sexual Health Mobile Medical Unit is a safe, inclusive space for people to receive high-quality sexual health services. Learn more about the Sexual Health Mobile Medical Unit in Prospect Park or reach out to us at mobilehealth@nyp.org or (929) 923-3543. No insurance or ID is required to receive care. Staffed by a team of NewYork-Presbyterian healthcare providers, the mobile medical unit has an exam room and consult room, and offers routine laboratory testing, vaccinations, and PrEP and PEP medications that lower the risk of HIV infection. Patients can also be connected to social services, benefits enrollment, and local healthcare providers. Other services include sexually transmitted infection (STI) testing, family planning, hepatitis C screening, health education and more. Learn more about the Sexual Health Mobile Medical Unit in Prospect Park or reach out to us at mobilehealth@nyp.org. No insurance or ID is required to receive care. The Sexual Health Mobile Medical Unit is made possible through funding from the Dalio Center for Health Justice and the Division of Community and Population Health at NewYork-Presbyterian, and a grant from the Centers for Disease Control and Prevention. Events are subject to change, please check the NYP website for up-to-date information.",
-    "url": "https://www.prospectpark.org/event/sexual-health-mobile-medical-unit-2/2026-11-23/",
-    "image_url": null,
-    "venue": null,
-    "address": null,
-    "category": "outdoor",
-    "tags": [],
-    "start_date": "2026-11-23",
-    "end_date": null,
-    "start_time": "10:00",
-    "end_time": "15:00",
-    "is_free": null,
-    "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
-  },
-  {
     "id": "prospect-park-concerts-2026-11-25-wednesday-greenmarket-at-bartel-pritchard-square",
     "source_id": "prospect-park-concerts",
     "title": "Wednesday Greenmarket at Bartel-Pritchard Square",
@@ -35,7 +16,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-25-fall-fix-up",
@@ -54,7 +35,7 @@
     "end_time": "13:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-26-sexual-health-mobile-medical-unit",
@@ -73,7 +54,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-27-urban-park-rangers-post-thanksgiving-day-super-hike",
@@ -92,7 +73,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-28-greenmarket-at-grand-army-plaza",
@@ -111,7 +92,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-28-introduction-to-birdwatching-outings",
@@ -130,7 +111,7 @@
     "end_time": "12:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-29-sunday-greenmarket-at-bartel-pritchard-square",
@@ -149,7 +130,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-11-30-sexual-health-mobile-medical-unit",
@@ -168,7 +149,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-02-wednesday-greenmarket-at-bartel-pritchard-square",
@@ -187,7 +168,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-02-lawn-and-field-care-volunteering",
@@ -206,7 +187,7 @@
     "end_time": "12:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-03-winter-corps",
@@ -225,7 +206,7 @@
     "end_time": "13:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-03-sexual-health-mobile-medical-unit",
@@ -244,7 +225,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-04-grand-army-plaza-menorah-lighting",
@@ -263,7 +244,7 @@
     "end_time": "17:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-nycruns-ugly-sweater-5k",
@@ -282,7 +263,7 @@
     "end_time": "11:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-fido-coffee-bark",
@@ -301,7 +282,7 @@
     "end_time": "08:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-greenmarket-at-grand-army-plaza",
@@ -320,7 +301,7 @@
     "end_time": "16:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-introduction-to-birdwatching-outings",
@@ -339,7 +320,7 @@
     "end_time": "12:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-skate-with-santa-at-lakeside",
@@ -358,7 +339,7 @@
     "end_time": "12:45",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-junior-volunteer-corps",
@@ -377,7 +358,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-skate-with-santa-at-lakeside",
@@ -396,7 +377,7 @@
     "end_time": "14:45",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-05-grand-army-plaza-menorah-lighting",
@@ -415,7 +396,7 @@
     "end_time": "20:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-06-sunday-greenmarket-at-bartel-pritchard-square",
@@ -434,7 +415,7 @@
     "end_time": "14:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-06-urban-park-rangers-doggie-day-hike",
@@ -453,7 +434,7 @@
     "end_time": "11:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-06-birdwatching-first-sunday-outings",
@@ -472,7 +453,7 @@
     "end_time": "13:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-06-skate-with-santa-at-lakeside",
@@ -491,7 +472,7 @@
     "end_time": "12:45",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-06-skate-with-santa-at-lakeside",
@@ -510,7 +491,7 @@
     "end_time": "14:45",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-06-grand-army-plaza-menorah-lighting",
@@ -529,7 +510,7 @@
     "end_time": "19:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-07-sexual-health-mobile-medical-unit",
@@ -548,7 +529,7 @@
     "end_time": "15:00",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
   },
   {
     "id": "prospect-park-concerts-2026-12-07-grand-army-plaza-menorah-lighting",
@@ -567,6 +548,25 @@
     "end_time": "19:30",
     "is_free": null,
     "price_range": null,
-    "last_updated": "2026-11-23T10:02:09Z"
+    "last_updated": "2026-11-24T11:53:09Z"
+  },
+  {
+    "id": "prospect-park-concerts-2026-12-08-grand-army-plaza-menorah-lighting",
+    "source_id": "prospect-park-concerts",
+    "title": "Grand Army Plaza Menorah Lighting",
+    "description": "The Largest Menorah in Brooklyn has been towering over New York since 1985 and is a must on everyone\u2019s calendar, Jews and non-Jews alike. Every night of Chanukah, thousands celebrate with the accompaniment of live music and hot latkes for all. Special gifts are distributed to every child. With the assistance of a 60-foot boom lift, Rabbi Shimon Hecht, accompanied by community leaders, philanthropists and special guests light this humongous Menorah. TLM is a leading symbol of Chanukah, publicly reaffirming the celebration of the Jewish community\u2019s freedom. The Menorah lighting celebration and concert are all free of charge. Learn more on the Chabad of Park Slope website. 1st Night of Chanukah, Friday, December 4 at 3:30 pm 2nd Night of Chanukah, Saturday, December 5 at 7:15 pm 3rd Night of Chanukah, Sunday, December 6 at 4:00 pm LIVE CONCERT. Lighting at 5:00 pm 4th Night of Chanukah, Monday, December 7 at 6:00 pm 5th Night of Chanukah, Tuesday, December 8 at 6:00 pm 6th Night of Chanukah, Wednesday, December 9 at 6:00 pm 7th Night of Chanukah, Thursday, December 10 at 6:00 pm 8th Night of Chanukah, Friday, December 11 at 3:30 pm",
+    "url": "https://www.prospectpark.org/event/grand-army-plaza-menorah-lighting-3/2026-12-08/",
+    "image_url": null,
+    "venue": null,
+    "address": null,
+    "category": "outdoor",
+    "tags": [],
+    "start_date": "2026-12-08",
+    "end_date": null,
+    "start_time": "18:00",
+    "end_time": "19:30",
+    "is_free": null,
+    "price_range": null,
+    "last_updated": "2026-11-24T11:53:09Z"
   }
 ]
